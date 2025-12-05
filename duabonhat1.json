@@ -2,331 +2,331 @@
   "questions": [
     {
       "id": 1,
-      "q": "Rút gọn phân thức: $\\frac{2x}{4}$",
+      "q": "Một chiếc áo có giá niêm yết là 100.000 đồng. Cửa hàng giảm giá 10%. Giá bán sau khi giảm là:",
       "a": [
-        "$\\frac{x}{2}$",
-        "$2x$",
-        "$\\frac{2}{x}$",
-        "$x$"
+        "90.000 đồng",
+        "10.000 đồng",
+        "110.000 đồng",
+        "99.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "Rút gọn phân thức: $\\frac{3x}{6y}$",
+      "q": "Một quyển sách giá 50.000 đồng. Nhà sách giảm giá 20%. Giá bán mới là:",
       "a": [
-        "$\\frac{x}{2y}$",
-        "$\\frac{x}{y}$",
-        "$\\frac{3x}{y}$",
-        "$\\frac{1}{2}$"
+        "40.000 đồng",
+        "10.000 đồng",
+        "30.000 đồng",
+        "60.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 3,
-      "q": "Rút gọn phân thức: $\\frac{x^2}{x}$",
+      "q": "Tiền lương của anh Nam là 10 triệu đồng/tháng. Tháng sau anh được tăng lương 5%. Lương mới của anh là:",
       "a": [
-        "$x$",
-        "$1$",
-        "$x^2$",
-        "$\\frac{1}{x}$"
+        "10.500.000 đồng",
+        "10.050.000 đồng",
+        "500.000 đồng",
+        "11.000.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 4,
-      "q": "Rút gọn phân thức: $\\frac{15x^2y}{5xy}$",
+      "q": "Giá xăng là 20.000 đồng/lít. Giá xăng tăng thêm 10%. Giá mới là:",
       "a": [
-        "$3x$",
-        "$3y$",
-        "$5x$",
-        "$3xy$"
+        "22.000 đồng",
+        "21.000 đồng",
+        "2.000 đồng",
+        "20.200 đồng"
       ],
       "correct": 0
     },
     {
       "id": 5,
-      "q": "Rút gọn phân thức: $\\frac{x(x+1)}{x}$",
+      "q": "Một đôi giày giá 200.000 đồng. Cửa hàng khuyến mãi giảm 50%. Giá bán hiện tại là:",
       "a": [
-        "$x+1$",
-        "$x(x+1)$",
-        "$1$",
-        "$x$"
+        "100.000 đồng",
+        "150.000 đồng",
+        "50.000 đồng",
+        "10.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 6,
-      "q": "Rút gọn phân thức: $\\frac{2(x-1)}{x-1}$",
+      "q": "Hóa đơn tiền điện tháng trước là 400.000 đồng. Tháng này tăng 10%. Số tiền phải trả tháng này là:",
       "a": [
-        "$2$",
-        "$1$",
-        "$x-1$",
-        "$2(x-1)$"
+        "440.000 đồng",
+        "40.000 đồng",
+        "410.000 đồng",
+        "360.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "Rút gọn phân thức: $\\frac{3x(x-2)}{x-2}$",
+      "q": "Một món đồ chơi giá 120.000 đồng. Nhân dịp 1/6 giảm giá 10%. Giá bán ra là:",
       "a": [
-        "$3x$",
-        "$3$",
-        "$x-2$",
-        "$x$"
+        "108.000 đồng",
+        "12.000 đồng",
+        "110.000 đồng",
+        "132.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 8,
-      "q": "Rút gọn phân thức: $\\frac{x^2-1}{x+1}$",
+      "q": "Mua một món hàng giá 500.000 đồng. Thuế VAT là 10%. Tổng số tiền phải trả là:",
       "a": [
-        "$x-1$",
-        "$x+1$",
-        "$1$",
-        "$(x-1)^2$"
+        "550.000 đồng",
+        "50.000 đồng",
+        "450.000 đồng",
+        "600.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 9,
-      "q": "Rút gọn phân thức: $\\frac{x^2-4}{x-2}$",
+      "q": "Một cái túi xách giá 300.000 đồng, giảm giá 30%. Giá sau giảm là:",
       "a": [
-        "$x+2$",
-        "$x-2$",
-        "$x-4$",
-        "$4$"
+        "210.000 đồng",
+        "90.000 đồng",
+        "270.000 đồng",
+        "330.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 10,
-      "q": "Rút gọn phân thức: $\\frac{x^2-9}{x+3}$",
+      "q": "Gửi tiết kiệm 1.000.000 đồng với lãi suất 6%/năm. Sau 1 năm tiền lãi nhận được là:",
       "a": [
-        "$x-3$",
-        "$x+3$",
-        "$3$",
-        "$x-9$"
+        "60.000 đồng",
+        "6.000 đồng",
+        "600.000 đồng",
+        "1.060.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 11,
-      "q": "Rút gọn phân thức: $\\frac{x^2+2x+1}{x+1}$",
+      "q": "Dân số một xã là 10.000 người. Năm sau tăng thêm 2%. Số dân tăng thêm là:",
       "a": [
-        "$x+1$",
-        "$x-1$",
-        "$(x+1)^2$",
-        "$1$"
+        "200 người",
+        "20 người",
+        "10.200 người",
+        "2.000 người"
       ],
       "correct": 0
     },
     {
       "id": 12,
-      "q": "Rút gọn phân thức: $\\frac{x^2-2x+1}{x-1}$",
+      "q": "Giá nhập vào một cái bút là 5.000 đồng. Bán ra lãi 20% so với giá nhập. Giá bán là:",
       "a": [
-        "$x-1$",
-        "$x+1$",
-        "$(x-1)^2$",
-        "$-1$"
+        "6.000 đồng",
+        "5.500 đồng",
+        "1.000 đồng",
+        "7.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 13,
-      "q": "Rút gọn phân thức: $\\frac{x-y}{y-x}$",
+      "q": "Một sản phẩm giá 80.000 đồng. Cửa hàng tăng giá 25%. Giá mới là:",
       "a": [
-        "$-1$",
-        "$1$",
-        "$0$",
-        "$\\frac{x}{y}$"
+        "100.000 đồng",
+        "20.000 đồng",
+        "90.000 đồng",
+        "120.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 14,
-      "q": "Rút gọn phân thức: $\\frac{2(x-y)}{y-x}$",
+      "q": "Chiếc xe đạp giá 2.000.000 đồng. Giảm giá 5%. Số tiền được giảm là:",
       "a": [
-        "$-2$",
-        "$2$",
-        "$-1$",
-        "$1$"
+        "100.000 đồng",
+        "50.000 đồng",
+        "1.900.000 đồng",
+        "200.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 15,
-      "q": "Rút gọn phân thức: $\\frac{x^2-y^2}{x-y}$",
+      "q": "Lớp học có 40 học sinh. Số học sinh giỏi chiếm 25%. Số học sinh giỏi là:",
       "a": [
-        "$x+y$",
-        "$x-y$",
-        "$1$",
-        "$(x+y)^2$"
+        "10 học sinh",
+        "4 học sinh",
+        "25 học sinh",
+        "15 học sinh"
       ],
       "correct": 0
     },
     {
       "id": 16,
-      "q": "Rút gọn phân thức: $\\frac{x^3-1}{x-1}$",
+      "q": "Sau khi giảm giá 10%, giá chiếc áo là 90.000 đồng. Giá gốc là:",
       "a": [
-        "$x^2+x+1$",
-        "$x^2-x+1$",
-        "$(x-1)^2$",
-        "$x+1$"
+        "100.000 đồng",
+        "99.000 đồng",
+        "110.000 đồng",
+        "81.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 17,
-      "q": "Rút gọn phân thức: $\\frac{x^2+x}{x}$",
+      "q": "Một số tăng thêm 50% thì được 150. Số đó là:",
       "a": [
-        "$x+1$",
-        "$x$",
-        "$x^2+1$",
-        "$1$"
+        "100",
+        "75",
+        "50",
+        "200"
       ],
       "correct": 0
     },
     {
       "id": 18,
-      "q": "Rút gọn phân thức: $\\frac{5x-5}{5}$",
+      "q": "Mua cái mũ 50.000 đồng, bán lại 60.000 đồng. Lãi bao nhiêu phần trăm?",
       "a": [
-        "$x-1$",
-        "$5(x-1)$",
-        "$x-5$",
-        "$5$"
+        "20%",
+        "10%",
+        "25%",
+        "120%"
       ],
       "correct": 0
     },
     {
       "id": 19,
-      "q": "Rút gọn phân thức: $\\frac{3x+6}{3}$",
+      "q": "Giá xăng từ 20.000 đồng giảm còn 19.000 đồng. Đã giảm bao nhiêu phần trăm?",
       "a": [
-        "$x+2$",
-        "$3(x+2)$",
-        "$x+6$",
-        "$3$"
+        "5%",
+        "10%",
+        "1%",
+        "95%"
       ],
       "correct": 0
     },
     {
       "id": 20,
-      "q": "Rút gọn phân thức: $\\frac{x^2-x}{x-1}$",
+      "q": "Một món hàng giá 200.000 đồng. Khách VIP được giảm 15%. Khách VIP phải trả:",
       "a": [
-        "$x$",
-        "$x-1$",
-        "$1$",
-        "$\\frac{1}{x}$"
+        "170.000 đồng",
+        "30.000 đồng",
+        "185.000 đồng",
+        "230.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 21,
-      "q": "Rút gọn phân thức: $\\frac{2x-4}{x-2}$",
+      "q": "Giá vé xem phim là 100.000 đồng. Ngày lễ tăng 20%. Giá vé ngày lễ là:",
       "a": [
-        "$2$",
-        "$-2$",
-        "$x-2$",
-        "$4$"
+        "120.000 đồng",
+        "110.000 đồng",
+        "80.000 đồng",
+        "20.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 22,
-      "q": "Rút gọn phân thức: $\\frac{x^2+2x}{x}$",
+      "q": "Cửa hàng bán lỗ 10% một sản phẩm giá nhập 50.000 đồng. Giá bán là:",
       "a": [
-        "$x+2$",
-        "$x$",
-        "$x(x+2)$",
-        "$2$"
+        "45.000 đồng",
+        "5.000 đồng",
+        "55.000 đồng",
+        "40.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 23,
-      "q": "Rút gọn phân thức: $\\frac{4-x^2}{x-2}$",
+      "q": "Tỉ số phần trăm của 3 và 4 là:",
       "a": [
-        "$-(x+2)$",
-        "$x+2$",
-        "$x-2$",
-        "$2-x$"
+        "75%",
+        "25%",
+        "34%",
+        "43%"
       ],
       "correct": 0
     },
     {
       "id": 24,
-      "q": "Rút gọn phân thức: $\\frac{(x+1)^2}{x+1}$",
+      "q": "Một bao gạo 10kg, bớt đi 20%. Còn lại bao nhiêu kg?",
       "a": [
-        "$x+1$",
-        "$1$",
-        "$(x+1)^2$",
-        "$\\frac{1}{x+1}$"
+        "8 kg",
+        "2 kg",
+        "5 kg",
+        "9 kg"
       ],
       "correct": 0
     },
     {
       "id": 25,
-      "q": "Rút gọn phân thức: $\\frac{5x(x-1)}{10(x-1)}$",
+      "q": "Giá tiền một mớ rau là 5.000 đồng, tăng lên 6.000 đồng. Tăng bao nhiêu phần trăm?",
       "a": [
-        "$\\frac{x}{2}$",
-        "$2x$",
-        "$\\frac{x}{5}$",
-        "$5x$"
+        "20%",
+        "10%",
+        "16%",
+        "25%"
       ],
       "correct": 0
     },
     {
       "id": 26,
-      "q": "Rút gọn phân thức: $\\frac{x^2-y^2}{x+y}$",
+      "q": "Một cái bánh pizza giá 150.000 đồng, giảm 10%. Giá mới là:",
       "a": [
-        "$x-y$",
-        "$x+y$",
-        "$-1$",
-        "$(x-y)^2$"
+        "135.000 đồng",
+        "15.000 đồng",
+        "140.000 đồng",
+        "165.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 27,
-      "q": "Rút gọn phân thức: $\\frac{3(x-y)^2}{x-y}$",
+      "q": "Số tiền 120.000 đồng bằng bao nhiêu phần trăm của 400.000 đồng?",
       "a": [
-        "$3(x-y)$",
-        "$x-y$",
-        "$3$",
-        "$(x-y)^2$"
+        "30%",
+        "25%",
+        "40%",
+        "33%"
       ],
       "correct": 0
     },
     {
       "id": 28,
-      "q": "Rút gọn phân thức: $\\frac{x^3+1}{x+1}$",
+      "q": "Một cuốn vở giá 10.000 đồng. Mua 10 cuốn được giảm 10% trên tổng hóa đơn. Phải trả:",
       "a": [
-        "$x^2-x+1$",
-        "$x^2+x+1$",
-        "$(x+1)^2$",
-        "$x-1$"
+        "90.000 đồng",
+        "100.000 đồng",
+        "10.000 đồng",
+        "80.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 29,
-      "q": "Rút gọn phân thức: $\\frac{2x+2y}{2}$",
+      "q": "Giá một ly trà sữa là 50.000 đồng. Giảm giá 50% cho ly thứ 2. Mua 2 ly phải trả:",
       "a": [
-        "$x+y$",
-        "$2(x+y)$",
-        "$x-y$",
-        "$2$"
+        "75.000 đồng",
+        "50.000 đồng",
+        "100.000 đồng",
+        "25.000 đồng"
       ],
       "correct": 0
     },
     {
       "id": 30,
-      "q": "Rút gọn phân thức: $\\frac{x(x-2)}{2(2-x)}$",
+      "q": "Một món hàng sau khi tăng giá 10% thì có giá 110.000 đồng. Giá ban đầu là:",
       "a": [
-        "$-\\frac{x}{2}$",
-        "$\\frac{x}{2}$",
-        "$-2x$",
-        "$\\frac{2}{x}$"
+        "100.000 đồng",
+        "99.000 đồng",
+        "101.000 đồng",
+        "121.000 đồng"
       ],
       "correct": 0
     }
