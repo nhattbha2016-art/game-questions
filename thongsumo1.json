@@ -453,4 +453,102 @@
     },
     {
       "id": 42,
-      "q": "Biểu đồ hình quạt tròn dùng để biểu
+      "q": "Biểu đồ hình quạt tròn dùng để biểu diễn:",
+      "a": [
+        "Tỉ lệ phần trăm của các thành phần trong một tổng thể",
+        "Sự thay đổi của số liệu theo thời gian",
+        "So sánh số liệu giữa các đối tượng",
+        "Diễn biến của thời tiết"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 43,
+      "q": "Trong tam giác vuông, hai góc nhọn có tổng số đo bằng:",
+      "a": [
+        "$90^o$",
+        "$180^o$",
+        "$60^o$",
+        "$45^o$"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "q": "Khẳng định nào sau đây là đúng?",
+      "a": [
+        "$\\mathbb{Z} \\subset \\mathbb{Q}$",
+        "$\\mathbb{Q} \\subset \\mathbb{Z}$",
+        "$\\mathbb{R} \\subset \\mathbb{Q}$",
+        "$\\mathbb{Q} \\subset \\mathbb{N}$"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "q": "Kết quả của $\\left(\\frac{1}{2}\\right)^2$ là:",
+      "a": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{2}{4}$",
+        "$1$"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "q": "Cho góc $xOy = 60^o$. Tia $Ot$ là phân giác của góc $xOy$. Góc $xOt$ bằng:",
+      "a": [
+        "$30^o$",
+        "$60^o$",
+        "$120^o$",
+        "$90^o$"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 47,
+      "q": "Hình hộp chữ nhật có bao nhiêu đỉnh?",
+      "a": [
+        "8 đỉnh",
+        "6 đỉnh",
+        "12 đỉnh",
+        "4 đỉnh"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "q": "Hình lập phương có bao nhiêu mặt là hình vuông?",
+      "a": [
+        "6 mặt",
+        "4 mặt",
+        "8 mặt",
+        "12 mặt"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 49,
+      "q": "Thể tích hình hộp chữ nhật có ba kích thước a, b, c là:",
+      "a": [
+        "$V = a.b.c$",
+        "$V = a+b+c$",
+        "$V = 2(a+b).c$",
+        "$V = a^2.b$"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "q": "Kết quả của phép tính $|-10| - |5|$ là:",
+      "a": [
+        "$5$",
+        "$-5$",
+        "$-15$",
+        "$15$"
+      ],
+      "correct": 0
+    }
+  ]
+}
