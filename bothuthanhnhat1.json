@@ -2,482 +2,482 @@
   "questions": [
     {
       "id": 1,
-      "q": "(Lớp 7) Góc $xOy$ và góc $yOz$ là hai góc kề bù. Nếu $\\widehat{xOy} = 60^o$ thì $\\widehat{yOz}$ bằng:",
-      "a": ["$120^o$", "$30^o$", "$60^o$", "$90^o$"],
+      "q": "Khai triển: $(x + 1)^2$",
+      "a": ["$x^2 + 2x + 1$", "$x^2 + 1$", "$x^2 + x + 1$", "$x^2 + 2x + 2$"],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "(Lớp 7) Hai góc đối đỉnh thì:",
-      "a": ["Bằng nhau", "Có tổng bằng $180^o$", "Kề nhau", "Có tổng bằng $90^o$"],
+      "q": "Khai triển: $(x + 2)^2$",
+      "a": ["$x^2 + 4x + 4$", "$x^2 + 4$", "$x^2 + 2x + 4$", "$x^2 + 4x + 2$"],
       "correct": 0
     },
     {
       "id": 3,
-      "q": "(Lớp 7) Tia phân giác của một góc là tia:",
-      "a": ["Nằm giữa hai cạnh và tạo với hai cạnh ấy hai góc bằng nhau", "Nằm ngoài góc đó", "Vuông góc với cạnh của góc", "Chia góc thành hai phần không bằng nhau"],
+      "q": "Khai triển: $(x + 3)^2$",
+      "a": ["$x^2 + 6x + 9$", "$x^2 + 9$", "$x^2 + 3x + 9$", "$x^2 + 6x + 6$"],
       "correct": 0
     },
     {
       "id": 4,
-      "q": "(Lớp 7) Qua một điểm nằm ngoài đường thẳng d, kẻ được bao nhiêu đường thẳng song song với d?",
-      "a": ["Duy nhất 1", "2", "Vô số", "Không kẻ được"],
+      "q": "Khai triển: $(x + 4)^2$",
+      "a": ["$x^2 + 8x + 16$", "$x^2 + 16$", "$x^2 + 4x + 16$", "$x^2 + 8x + 8$"],
       "correct": 0
     },
     {
       "id": 5,
-      "q": "(Lớp 7) Nếu đường thẳng c cắt hai đường thẳng a, b và có một cặp góc so le trong bằng nhau thì:",
-      "a": ["$a // b$", "$a \\perp b$", "$a$ cắt $b$", "$a$ trùng $b$"],
+      "q": "Khai triển: $(x + 5)^2$",
+      "a": ["$x^2 + 10x + 25$", "$x^2 + 25$", "$x^2 + 5x + 25$", "$x^2 + 10x + 5$"],
       "correct": 0
     },
     {
       "id": 6,
-      "q": "(Lớp 7) Hai đường thẳng phân biệt cùng vuông góc với đường thẳng thứ ba thì:",
-      "a": ["Song song với nhau", "Vuông góc với nhau", "Cắt nhau", "Trùng nhau"],
+      "q": "Khai triển: $(2x + 1)^2$",
+      "a": ["$4x^2 + 4x + 1$", "$2x^2 + 4x + 1$", "$4x^2 + 1$", "$4x^2 + 2x + 1$"],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "(Lớp 7) Góc bẹt là góc có số đo bằng:",
-      "a": ["$180^o$", "$90^o$", "$0^o$", "$360^o$"],
+      "q": "Khai triển: $(3x + 1)^2$",
+      "a": ["$9x^2 + 6x + 1$", "$3x^2 + 6x + 1$", "$9x^2 + 1$", "$9x^2 + 3x + 1$"],
       "correct": 0
     },
     {
       "id": 8,
-      "q": "(Lớp 7) Nếu đường thẳng a song song với đường thẳng b, và đường thẳng c vuông góc với a thì:",
-      "a": ["$c \\perp b$", "$c // b$", "$c$ trùng $b$", "c không cắt b"],
+      "q": "Khai triển: $(2x + 3)^2$",
+      "a": ["$4x^2 + 12x + 9$", "$4x^2 + 9$", "$2x^2 + 12x + 9$", "$4x^2 + 6x + 9$"],
       "correct": 0
     },
     {
       "id": 9,
-      "q": "(Lớp 7) Tiên đề Euclid đề cập đến vấn đề gì?",
-      "a": ["Đường thẳng song song", "Đường thẳng vuông góc", "Độ dài đoạn thẳng", "Số đo góc"],
+      "q": "Khai triển: $(x + y)^2$",
+      "a": ["$x^2 + 2xy + y^2$", "$x^2 + y^2$", "$x^2 + xy + y^2$", "$2x + 2y$"],
       "correct": 0
     },
     {
       "id": 10,
-      "q": "(Lớp 7) Cho hình vẽ, cặp góc ở vị trí đồng vị là cặp góc:",
-      "a": ["Nằm cùng phía so với cát tuyến và cùng nằm trên hoặc dưới hai đường thẳng", "Nằm so le nhau bên trong", "Nằm bên trong cùng phía", "Đối đỉnh"],
+      "q": "Khai triển: $(2x + y)^2$",
+      "a": ["$4x^2 + 4xy + y^2$", "$4x^2 + y^2$", "$2x^2 + 2xy + y^2$", "$4x^2 + 2xy + y^2$"],
       "correct": 0
     },
     {
       "id": 11,
-      "q": "(Lớp 7) Góc vuông có số đo là:",
-      "a": ["$90^o$", "$180^o$", "$45^o$", "$60^o$"],
+      "q": "Khai triển: $(x + 2y)^2$",
+      "a": ["$x^2 + 4xy + 4y^2$", "$x^2 + 4y^2$", "$x^2 + 2xy + 4y^2$", "$x^2 + 4xy + 2y^2$"],
       "correct": 0
     },
     {
       "id": 12,
-      "q": "(Lớp 7) Giả thiết của định lí \"Hai góc đối đỉnh thì bằng nhau\" là:",
-      "a": ["Hai góc đối đỉnh", "Hai góc bằng nhau", "Hai góc kề bù", "Hai đường thẳng cắt nhau"],
+      "q": "Khai triển: $(4x + 1)^2$",
+      "a": ["$16x^2 + 8x + 1$", "$16x^2 + 1$", "$4x^2 + 8x + 1$", "$16x^2 + 4x + 1$"],
       "correct": 0
     },
     {
       "id": 13,
-      "q": "(Lớp 7) Nếu một đường thẳng cắt hai đường thẳng song song thì hai góc trong cùng phía:",
-      "a": ["Bù nhau (Tổng bằng $180^o$)", "Bằng nhau", "Phụ nhau", "Đối đỉnh"],
+      "q": "Khai triển: $(x^2 + 1)^2$",
+      "a": ["$x^4 + 2x^2 + 1$", "$x^4 + 1$", "$x^2 + 2x + 1$", "$x^4 + x^2 + 1$"],
       "correct": 0
     },
     {
       "id": 14,
-      "q": "(Lớp 7) Tia $Oz$ là phân giác của góc vuông $xOy$ thì góc $xOz$ bằng:",
-      "a": ["$45^o$", "$90^o$", "$30^o$", "$60^o$"],
+      "q": "Viết biểu thức $x^2 + 2x + 1$ dưới dạng bình phương:",
+      "a": ["$(x + 1)^2$", "$(x - 1)^2$", "$(x + 2)^2$", "$(x^2 + 1)$"],
       "correct": 0
     },
     {
       "id": 15,
-      "q": "(Lớp 7) Hai đường thẳng song song là hai đường thẳng:",
-      "a": ["Không có điểm chung", "Có 1 điểm chung", "Có vô số điểm chung", "Vuông góc nhau"],
+      "q": "Viết biểu thức $4x^2 + 4x + 1$ dưới dạng bình phương:",
+      "a": ["$(2x + 1)^2$", "$(2x - 1)^2$", "$(4x + 1)^2$", "$(x + 2)^2$"],
       "correct": 0
     },
     {
       "id": 16,
-      "q": "(Lớp 7) Tổng ba góc trong một tam giác bằng:",
-      "a": ["$180^o$", "$90^o$", "$360^o$", "$100^o$"],
+      "q": "Khai triển: $(x - 1)^2$",
+      "a": ["$x^2 - 2x + 1$", "$x^2 - 1$", "$x^2 + 2x + 1$", "$x^2 - x + 1$"],
       "correct": 0
     },
     {
       "id": 17,
-      "q": "(Lớp 7) Trường hợp bằng nhau cạnh - cạnh - cạnh (c.c.c) áp dụng khi:",
-      "a": ["Ba cạnh của tam giác này bằng ba cạnh của tam giác kia", "Hai cạnh và góc xen giữa", "Một cạnh và hai góc kề", "Ba góc bằng nhau"],
+      "q": "Khai triển: $(x - 2)^2$",
+      "a": ["$x^2 - 4x + 4$", "$x^2 - 4$", "$x^2 + 4x + 4$", "$x^2 - 2x + 4$"],
       "correct": 0
     },
     {
       "id": 18,
-      "q": "(Lớp 7) Tam giác cân là tam giác có:",
-      "a": ["Hai cạnh bằng nhau", "Ba cạnh bằng nhau", "Một góc vuông", "Ba góc bằng nhau"],
+      "q": "Khai triển: $(x - 3)^2$",
+      "a": ["$x^2 - 6x + 9$", "$x^2 - 9$", "$x^2 - 3x + 9$", "$x^2 + 6x + 9$"],
       "correct": 0
     },
     {
       "id": 19,
-      "q": "(Lớp 7) Trong tam giác cân, đường trung tuyến ứng với cạnh đáy đồng thời là:",
-      "a": ["Đường cao, đường phân giác, đường trung trực", "Chỉ là đường cao", "Chỉ là đường phân giác", "Không có tính chất đặc biệt"],
+      "q": "Khai triển: $(x - 4)^2$",
+      "a": ["$x^2 - 8x + 16$", "$x^2 - 16$", "$x^2 - 4x + 16$", "$x^2 + 8x + 16$"],
       "correct": 0
     },
     {
       "id": 20,
-      "q": "(Lớp 7) Tam giác đều có số đo mỗi góc bằng:",
-      "a": ["$60^o$", "$90^o$", "$45^o$", "$180^o$"],
+      "q": "Khai triển: $(x - 5)^2$",
+      "a": ["$x^2 - 10x + 25$", "$x^2 - 25$", "$x^2 - 5x + 25$", "$x^2 + 10x + 25$"],
       "correct": 0
     },
     {
       "id": 21,
-      "q": "(Lớp 7) Để chứng minh hai tam giác bằng nhau theo trường hợp c.g.c, góc xen giữa phải là:",
-      "a": ["Góc tạo bởi hai cạnh tương ứng bằng nhau", "Góc bất kỳ", "Góc đối diện cạnh lớn nhất", "Góc vuông"],
+      "q": "Khai triển: $(2x - 1)^2$",
+      "a": ["$4x^2 - 4x + 1$", "$4x^2 - 1$", "$2x^2 - 4x + 1$", "$4x^2 + 4x + 1$"],
       "correct": 0
     },
     {
       "id": 22,
-      "q": "(Lớp 7) Giao điểm của ba đường trung tuyến trong tam giác gọi là:",
-      "a": ["Trọng tâm", "Trực tâm", "Tâm đường tròn nội tiếp", "Tâm đường tròn ngoại tiếp"],
+      "q": "Khai triển: $(3x - 2)^2$",
+      "a": ["$9x^2 - 12x + 4$", "$9x^2 - 4$", "$9x^2 - 6x + 4$", "$3x^2 - 12x + 4$"],
       "correct": 0
     },
     {
       "id": 23,
-      "q": "(Lớp 7) Khoảng cách từ trọng tâm G đến mỗi đỉnh của tam giác bằng:",
-      "a": ["$\\frac{2}{3}$ độ dài đường trung tuyến tương ứng", "$\\frac{1}{3}$ độ dài đường trung tuyến", "$\\frac{1}{2}$ độ dài đường trung tuyến", "Bằng độ dài đường trung tuyến"],
+      "q": "Khai triển: $(x - y)^2$",
+      "a": ["$x^2 - 2xy + y^2$", "$x^2 - y^2$", "$x^2 + 2xy + y^2$", "$x^2 - xy + y^2$"],
       "correct": 0
     },
     {
       "id": 24,
-      "q": "(Lớp 7) Giao điểm của ba đường cao trong tam giác gọi là:",
-      "a": ["Trực tâm", "Trọng tâm", "Tâm đường tròn nội tiếp", "Đỉnh tam giác"],
+      "q": "Khai triển: $(2x - y)^2$",
+      "a": ["$4x^2 - 4xy + y^2$", "$4x^2 - y^2$", "$2x^2 - 4xy + y^2$", "$4x^2 - 2xy + y^2$"],
       "correct": 0
     },
     {
       "id": 25,
-      "q": "(Lớp 7) Ba đường trung trực của tam giác đồng quy tại một điểm, điểm đó:",
-      "a": ["Cách đều ba đỉnh của tam giác", "Cách đều ba cạnh của tam giác", "Là trực tâm", "Là trọng tâm"],
+      "q": "Khai triển: $(x - 3y)^2$",
+      "a": ["$x^2 - 6xy + 9y^2$", "$x^2 - 9y^2$", "$x^2 - 3xy + 9y^2$", "$x^2 - 6xy + 3y^2$"],
       "correct": 0
     },
     {
       "id": 26,
-      "q": "(Lớp 7) Ba đường phân giác của tam giác đồng quy tại một điểm, điểm đó:",
-      "a": ["Cách đều ba cạnh của tam giác", "Cách đều ba đỉnh của tam giác", "Là trọng tâm", "Là trực tâm"],
+      "q": "Khai triển: $(5x - 1)^2$",
+      "a": ["$25x^2 - 10x + 1$", "$25x^2 - 1$", "$5x^2 - 10x + 1$", "$25x^2 - 5x + 1$"],
       "correct": 0
     },
     {
       "id": 27,
-      "q": "(Lớp 7) Tam giác vuông cân tại A thì số đo góc B và góc C là:",
-      "a": ["$45^o$", "$60^o$", "$30^o$", "$90^o$"],
+      "q": "Khai triển: $(1 - x)^2$",
+      "a": ["$1 - 2x + x^2$", "$1 - x^2$", "$1 + 2x + x^2$", "$x^2 - 1$"],
       "correct": 0
     },
     {
       "id": 28,
-      "q": "(Lớp 7) Bất đẳng thức tam giác: Trong một tam giác, độ dài một cạnh bất kỳ luôn:",
-      "a": ["Nhỏ hơn tổng độ dài hai cạnh còn lại", "Lớn hơn tổng độ dài hai cạnh còn lại", "Bằng tổng hai cạnh còn lại", "Nhỏ hơn hiệu hai cạnh còn lại"],
+      "q": "Khai triển: $(2 - 3x)^2$",
+      "a": ["$4 - 12x + 9x^2$", "$4 - 9x^2$", "$4 - 6x + 9x^2$", "$9x^2 - 4$"],
       "correct": 0
     },
     {
       "id": 29,
-      "q": "(Lớp 7) Bộ ba độ dài nào sau đây có thể lập thành một tam giác?",
-      "a": ["3cm, 4cm, 5cm", "1cm, 2cm, 3cm", "2cm, 2cm, 5cm", "1cm, 1cm, 3cm"],
+      "q": "Viết biểu thức $x^2 - 6x + 9$ dưới dạng bình phương:",
+      "a": ["$(x - 3)^2$", "$(x + 3)^2$", "$(x - 9)^2$", "$(x - 6)^2$"],
       "correct": 0
     },
     {
       "id": 30,
-      "q": "(Lớp 7) Đường trung trực của đoạn thẳng AB là đường thẳng:",
-      "a": ["Vuông góc với AB tại trung điểm của AB", "Đi qua trung điểm của AB", "Vuông góc với AB tại A", "Song song với AB"],
-      "correct": 0
+      "q": "Viết biểu thức $4x^2 - 4x + 1$ dưới dạng bình phương:",
+      "a": ["$(2x - 1)^2$", "$(2x + 1)^2$", "$(1 - 2x)^2$", "Cả A và C đều đúng"],
+      "correct": 3
     },
     {
       "id": 31,
-      "q": "(Lớp 7) Trường hợp bằng nhau góc - cạnh - góc (g.c.g) yêu cầu cạnh xen giữa là:",
-      "a": ["Cạnh nằm giữa hai góc", "Cạnh bất kỳ", "Cạnh đối diện góc lớn", "Cạnh huyền"],
+      "q": "Tính nhanh: $(x - 1)(x + 1)$",
+      "a": ["$x^2 - 1$", "$x^2 + 1$", "$x^2 - 2x + 1$", "$x^2 + 2x + 1$"],
       "correct": 0
     },
     {
       "id": 32,
-      "q": "(Lớp 7) Trong tam giác vuông, cạnh đối diện với góc vuông gọi là:",
-      "a": ["Cạnh huyền", "Cạnh góc vuông", "Đường cao", "Trung tuyến"],
+      "q": "Tính nhanh: $(x - 2)(x + 2)$",
+      "a": ["$x^2 - 4$", "$x^2 + 4$", "$x^2 - 2$", "$x^2 - 4x + 4$"],
       "correct": 0
     },
     {
       "id": 33,
-      "q": "(Lớp 7) Cạnh huyền là cạnh:",
-      "a": ["Lớn nhất trong tam giác vuông", "Nhỏ nhất trong tam giác vuông", "Bằng cạnh góc vuông", "Bất kỳ"],
+      "q": "Tính nhanh: $(x - 3)(x + 3)$",
+      "a": ["$x^2 - 9$", "$x^2 + 9$", "$x^2 - 6$", "$x^2 - 3$"],
       "correct": 0
     },
     {
       "id": 34,
-      "q": "(Lớp 7) Nếu $\\Delta ABC = \\Delta DEF$ thì góc tương ứng với góc A là:",
-      "a": ["Góc D", "Góc E", "Góc F", "Góc B"],
+      "q": "Tính nhanh: $(x - 4)(x + 4)$",
+      "a": ["$x^2 - 16$", "$x^2 + 16$", "$x^2 - 8$", "$x^2 - 4$"],
       "correct": 0
     },
     {
       "id": 35,
-      "q": "(Lớp 7) Góc ngoài của tam giác bằng:",
-      "a": ["Tổng hai góc trong không kề với nó", "Tổng hai góc trong kề với nó", "Góc kề bù với nó", "180 độ"],
+      "q": "Tính nhanh: $(x - 5)(x + 5)$",
+      "a": ["$x^2 - 25$", "$x^2 + 25$", "$x^2 - 10$", "$x^2 - 5$"],
       "correct": 0
     },
     {
       "id": 36,
-      "q": "(Lớp 7) Cho $\\Delta ABC$ cân tại A. Góc $B = 70^o$ thì góc C bằng:",
-      "a": ["$70^o$", "$40^o$", "$55^o$", "$110^o$"],
+      "q": "Tính nhanh: $(2x - 1)(2x + 1)$",
+      "a": ["$4x^2 - 1$", "$4x^2 + 1$", "$2x^2 - 1$", "$4x^2 - 2$"],
       "correct": 0
     },
     {
       "id": 37,
-      "q": "(Lớp 7) Cho $\\Delta ABC$ có $AB = AC = BC$. Tam giác ABC là:",
-      "a": ["Tam giác đều", "Tam giác vuông", "Tam giác cân (không đều)", "Tam giác tù"],
+      "q": "Tính nhanh: $(3x - 2)(3x + 2)$",
+      "a": ["$9x^2 - 4$", "$9x^2 + 4$", "$3x^2 - 4$", "$9x^2 - 2$"],
       "correct": 0
     },
     {
       "id": 38,
-      "q": "(Lớp 7) Trong tam giác, đối diện với cạnh lớn hơn là:",
-      "a": ["Góc lớn hơn", "Góc nhỏ hơn", "Góc bằng nhau", "Góc vuông"],
+      "q": "Tính nhanh: $(x - y)(x + y)$",
+      "a": ["$x^2 - y^2$", "$x^2 + y^2$", "$x^2 - 2xy + y^2$", "$x - y$"],
       "correct": 0
     },
     {
       "id": 39,
-      "q": "(Lớp 7) Đường cao của tam giác xuất phát từ đỉnh và:",
-      "a": ["Vuông góc với cạnh đối diện", "Đi qua trung điểm cạnh đối diện", "Chia đôi góc ở đỉnh", "Song song với đáy"],
+      "q": "Tính nhanh: $(2x - y)(2x + y)$",
+      "a": ["$4x^2 - y^2$", "$4x^2 + y^2$", "$2x^2 - y^2$", "$4x^2 - 2xy + y^2$"],
       "correct": 0
     },
     {
       "id": 40,
-      "q": "(Lớp 7) Để chứng minh hai tam giác vuông bằng nhau, ngoài các trường hợp thường, còn có trường hợp đặc biệt nào?",
-      "a": ["Cạnh huyền - Góc nhọn", "Góc vuông - Cạnh huyền", "Góc nhọn - Góc nhọn", "Cạnh góc vuông - Cạnh huyền (không cần vuông)"],
+      "q": "Tính nhanh: $(1 - 3x)(1 + 3x)$",
+      "a": ["$1 - 9x^2$", "$9x^2 - 1$", "$1 + 9x^2$", "$1 - 3x^2$"],
       "correct": 0
     },
     {
       "id": 41,
-      "q": "(Lớp 7) Tam giác có trọng tâm trùng với trực tâm là:",
-      "a": ["Tam giác đều", "Tam giác vuông", "Tam giác tù", "Tam giác thường"],
+      "q": "Tính nhanh: $(x^2 - 1)(x^2 + 1)$",
+      "a": ["$x^4 - 1$", "$x^4 + 1$", "$x^2 - 1$", "$x^4 - 2x^2 + 1$"],
       "correct": 0
     },
     {
       "id": 42,
-      "q": "(Lớp 7) Tính chất: Điểm nằm trên tia phân giác của một góc thì:",
-      "a": ["Cách đều hai cạnh của góc", "Cách đều hai đỉnh", "Cách đều gốc", "Nằm trên cạnh"],
+      "q": "Điền vào chỗ trống: $x^2 - 16 = (x - ...)(x + ...)$",
+      "a": ["$4$", "$8$", "$16$", "$2$"],
       "correct": 0
     },
     {
       "id": 43,
-      "q": "(Lớp 7) Trong một tam giác, có tối đa bao nhiêu góc vuông?",
-      "a": ["1 góc", "2 góc", "3 góc", "0 góc"],
+      "q": "Điền vào chỗ trống: $4x^2 - 9 = (... - 3)(... + 3)$",
+      "a": ["$2x$", "$4x$", "$x$", "$2$"],
       "correct": 0
     },
     {
       "id": 44,
-      "q": "(Lớp 7) Cho tam giác ABC có góc A = 80, góc B = 60. So sánh cạnh:",
-      "a": ["$BC > AC > AB$", "$AB > AC > BC$", "$AC > AB > BC$", "$BC > AB > AC$"],
+      "q": "Kết quả của phép tính $(5 - x)(5 + x)$ là:",
+      "a": ["$25 - x^2$", "$x^2 - 25$", "$25 + x^2$", "$5 - x^2$"],
       "correct": 0
     },
     {
       "id": 45,
-      "q": "(Lớp 7) Giao điểm của ba đường cao nằm bên ngoài tam giác khi tam giác đó là:",
-      "a": ["Tam giác tù", "Tam giác nhọn", "Tam giác vuông", "Tam giác đều"],
+      "q": "Kết quả của phép tính $(2x - 3y)(2x + 3y)$ là:",
+      "a": ["$4x^2 - 9y^2$", "$4x^2 + 9y^2$", "$2x^2 - 3y^2$", "$4x^2 - 6xy + 9y^2$"],
       "correct": 0
     },
     {
       "id": 46,
-      "q": "(Lớp 8) Định lí Pythagore áp dụng cho tam giác nào?",
-      "a": ["Tam giác vuông", "Tam giác đều", "Tam giác nhọn", "Tam giác tù"],
+      "q": "Nhân đơn thức với đa thức: $x(x + 1)$",
+      "a": ["$x^2 + x$", "$x^2 + 1$", "$2x + 1$", "$x^2 + 2x$"],
       "correct": 0
     },
     {
       "id": 47,
-      "q": "(Lớp 8) Cho $\\Delta ABC$ vuông tại A. Hệ thức nào đúng?",
-      "a": ["$BC^2 = AB^2 + AC^2$", "$AB^2 = BC^2 + AC^2$", "$AC^2 = AB^2 + BC^2$", "$BC = AB + AC$"],
+      "q": "Nhân đơn thức với đa thức: $x(x - 2)$",
+      "a": ["$x^2 - 2x$", "$x^2 - 2$", "$x^2 + 2x$", "$2x^2 - x$"],
       "correct": 0
     },
     {
       "id": 48,
-      "q": "(Lớp 8) Bộ ba số nào là bộ ba số Pythagore?",
-      "a": ["3, 4, 5", "4, 5, 6", "2, 3, 4", "1, 1, 2"],
+      "q": "Nhân đơn thức với đa thức: $2x(x + 3)$",
+      "a": ["$2x^2 + 6x$", "$2x^2 + 3$", "$2x^2 + 3x$", "$2x^2 + 6$"],
       "correct": 0
     },
     {
       "id": 49,
-      "q": "(Lớp 8) Tam giác có độ dài ba cạnh là 6cm, 8cm, 10cm là tam giác gì?",
-      "a": ["Tam giác vuông", "Tam giác đều", "Tam giác cân", "Tam giác nhọn"],
+      "q": "Nhân đơn thức với đa thức: $3x(2x - 1)$",
+      "a": ["$6x^2 - 3x$", "$6x^2 - 1$", "$6x^2 - 3$", "$3x^2 - 3x$"],
       "correct": 0
     },
     {
       "id": 50,
-      "q": "(Lớp 8) Tổng các góc của một tứ giác bằng:",
-      "a": ["$360^o$", "$180^o$", "$90^o$", "$540^o$"],
+      "q": "Nhân đơn thức với đa thức: $x(x^2 + 1)$",
+      "a": ["$x^3 + x$", "$x^3 + 1$", "$x^2 + x$", "$x^3 + x^2$"],
       "correct": 0
     },
     {
       "id": 51,
-      "q": "(Lớp 8) Hình thang là tứ giác có:",
-      "a": ["Hai cạnh đối song song", "Hai cạnh bên bằng nhau", "Hai đường chéo bằng nhau", "Bốn cạnh bằng nhau"],
+      "q": "Nhân đơn thức với đa thức: $-x(x + 2)$",
+      "a": ["$-x^2 - 2x$", "$-x^2 + 2x$", "$x^2 - 2x$", "$-x^2 + 2$"],
       "correct": 0
     },
     {
       "id": 52,
-      "q": "(Lớp 8) Hình thang cân là hình thang có:",
-      "a": ["Hai góc kề một đáy bằng nhau", "Hai cạnh bên song song", "Hai đường chéo vuông góc", "Một góc vuông"],
+      "q": "Nhân đơn thức với đa thức: $-2x(x - 3)$",
+      "a": ["$-2x^2 + 6x$", "$-2x^2 - 6x$", "$-2x^2 - 3$", "$2x^2 - 6x$"],
       "correct": 0
     },
     {
       "id": 53,
-      "q": "(Lớp 8) Trong hình thang cân, hai đường chéo:",
-      "a": ["Bằng nhau", "Vuông góc với nhau", "Cắt nhau tại trung điểm", "Song song"],
+      "q": "Thực hiện phép tính: $x(x + y)$",
+      "a": ["$x^2 + xy$", "$x^2 + y$", "$x + xy$", "$x^2y$"],
       "correct": 0
     },
     {
       "id": 54,
-      "q": "(Lớp 8) Hình bình hành là tứ giác có:",
-      "a": ["Các cạnh đối song song", "Các cạnh đối không song song", "Hai đường chéo vuông góc", "Bốn góc vuông"],
+      "q": "Thực hiện phép tính: $2x(3x + 2)$",
+      "a": ["$6x^2 + 4x$", "$6x^2 + 2$", "$5x^2 + 4x$", "$6x^2 + 4$"],
       "correct": 0
     },
     {
       "id": 55,
-      "q": "(Lớp 8) Trong hình bình hành, hai đường chéo:",
-      "a": ["Cắt nhau tại trung điểm mỗi đường", "Bằng nhau", "Vuông góc với nhau", "Là phân giác các góc"],
+      "q": "Thực hiện phép tính: $4x(x - 2)$",
+      "a": ["$4x^2 - 8x$", "$4x^2 - 2$", "$4x^2 - 8$", "$4x^2 + 8x$"],
       "correct": 0
     },
     {
       "id": 56,
-      "q": "(Lớp 8) Trong hình bình hành, các cạnh đối:",
-      "a": ["Bằng nhau", "Không bằng nhau", "Vuông góc", "Cắt nhau"],
+      "q": "Thực hiện phép tính: $5x(1 - x)$",
+      "a": ["$5x - 5x^2$", "$5x - x$", "$5 - 5x^2$", "$5x^2 - 5x$"],
       "correct": 0
     },
     {
       "id": 57,
-      "q": "(Lớp 8) Hình chữ nhật là tứ giác có:",
-      "a": ["Bốn góc vuông", "Bốn cạnh bằng nhau", "Hai đường chéo vuông góc", "Hai cạnh kề bằng nhau"],
+      "q": "Thực hiện phép tính: $xy(x + y)$",
+      "a": ["$x^2y + xy^2$", "$x^2y + y$", "$x + xy^2$", "$x^2 + y^2$"],
       "correct": 0
     },
     {
       "id": 58,
-      "q": "(Lớp 8) Hình chữ nhật có các tính chất của:",
-      "a": ["Hình thang cân và hình bình hành", "Hình thoi và hình vuông", "Chỉ hình thang", "Chỉ hình bình hành"],
+      "q": "Thực hiện phép tính: $x(2x - 5)$",
+      "a": ["$2x^2 - 5x$", "$2x^2 - 5$", "$x^2 - 5x$", "$2x - 5x$"],
       "correct": 0
     },
     {
       "id": 59,
-      "q": "(Lớp 8) Hai đường chéo của hình chữ nhật thì:",
-      "a": ["Bằng nhau và cắt nhau tại trung điểm mỗi đường", "Vuông góc với nhau", "Là phân giác của các góc", "Không bằng nhau"],
+      "q": "Thực hiện phép tính: $3(x^2 - 2x)$",
+      "a": ["$3x^2 - 6x$", "$3x^2 - 2x$", "$x^2 - 6x$", "$3x^2 - 6$"],
       "correct": 0
     },
     {
       "id": 60,
-      "q": "(Lớp 8) Dấu hiệu nhận biết hình chữ nhật:",
-      "a": ["Hình bình hành có một góc vuông", "Hình bình hành có hai cạnh kề bằng nhau", "Hình thang có hai cạnh bên bằng nhau", "Tứ giác có hai đường chéo vuông góc"],
+      "q": "Thực hiện phép tính: $-x(3x + 4)$",
+      "a": ["$-3x^2 - 4x$", "$-3x^2 + 4x$", "$3x^2 + 4x$", "$-3x^2 - 4$"],
       "correct": 0
     },
     {
       "id": 61,
-      "q": "(Lớp 8) Hình thoi là tứ giác có:",
-      "a": ["Bốn cạnh bằng nhau", "Bốn góc bằng nhau", "Hai đường chéo bằng nhau", "Một góc vuông"],
+      "q": "Tổng các góc trong một tứ giác bằng:",
+      "a": ["$360^o$", "$180^o$", "$90^o$", "$540^o$"],
       "correct": 0
     },
     {
       "id": 62,
-      "q": "(Lớp 8) Trong hình thoi, hai đường chéo:",
-      "a": ["Vuông góc với nhau và cắt nhau tại trung điểm mỗi đường", "Bằng nhau", "Không cắt nhau", "Song song"],
+      "q": "Hình thang là tứ giác có:",
+      "a": ["Hai cạnh đối song song", "Hai cạnh đối bằng nhau", "Hai đường chéo bằng nhau", "Bốn góc vuông"],
       "correct": 0
     },
     {
       "id": 63,
-      "q": "(Lớp 8) Hình thoi có các góc đối:",
-      "a": ["Bằng nhau", "Bù nhau", "Phụ nhau", "Vuông góc"],
+      "q": "Hình thang cân là hình thang có:",
+      "a": ["Hai góc kề một đáy bằng nhau", "Hai cạnh bên song song", "Hai đường chéo vuông góc", "Một góc vuông"],
       "correct": 0
     },
     {
       "id": 64,
-      "q": "(Lớp 8) Hình vuông là tứ giác có:",
-      "a": ["Bốn góc vuông và bốn cạnh bằng nhau", "Chỉ bốn góc vuông", "Chỉ bốn cạnh bằng nhau", "Hai đường chéo bằng nhau"],
+      "q": "Trong hình thang cân, hai đường chéo:",
+      "a": ["Bằng nhau", "Vuông góc", "Cắt nhau tại trung điểm", "Song song"],
       "correct": 0
     },
     {
       "id": 65,
-      "q": "(Lớp 8) Hình vuông có tính chất của:",
-      "a": ["Hình chữ nhật và hình thoi", "Hình thang và tam giác", "Hình bình hành và hình thang vuông", "Chỉ hình thoi"],
+      "q": "Hình bình hành là tứ giác có:",
+      "a": ["Các cạnh đối song song", "Các cạnh đối không song song", "Hai đường chéo vuông góc", "Bốn góc vuông"],
       "correct": 0
     },
     {
       "id": 66,
-      "q": "(Lớp 8) Hai đường chéo của hình vuông:",
-      "a": ["Bằng nhau, vuông góc và cắt nhau tại trung điểm", "Chỉ bằng nhau", "Chỉ vuông góc", "Không cắt nhau"],
+      "q": "Trong hình bình hành, hai đường chéo:",
+      "a": ["Cắt nhau tại trung điểm mỗi đường", "Bằng nhau", "Vuông góc với nhau", "Là phân giác các góc"],
       "correct": 0
     },
     {
       "id": 67,
-      "q": "(Lớp 8) Tâm đối xứng của hình bình hành là:",
-      "a": ["Giao điểm hai đường chéo", "Trọng tâm tam giác", "Giao điểm các đường phân giác", "Trung điểm một cạnh"],
+      "q": "Hình chữ nhật là tứ giác có:",
+      "a": ["Bốn góc vuông", "Bốn cạnh bằng nhau", "Hai đường chéo vuông góc", "Hai cạnh kề bằng nhau"],
       "correct": 0
     },
     {
       "id": 68,
-      "q": "(Lớp 8) Hình nào sau đây có trục đối xứng?",
-      "a": ["Hình thang cân", "Hình bình hành (thường)", "Hình thang vuông", "Tứ giác thường"],
+      "q": "Hình chữ nhật có các tính chất của:",
+      "a": ["Hình thang cân và hình bình hành", "Hình thoi và hình vuông", "Chỉ hình thang", "Chỉ hình bình hành"],
       "correct": 0
     },
     {
       "id": 69,
-      "q": "(Lớp 8) Hình vuông có bao nhiêu trục đối xứng?",
-      "a": ["4 trục", "2 trục", "1 trục", "Vô số"],
+      "q": "Hai đường chéo của hình chữ nhật thì:",
+      "a": ["Bằng nhau và cắt nhau tại trung điểm mỗi đường", "Vuông góc với nhau", "Là phân giác của các góc", "Không bằng nhau"],
       "correct": 0
     },
     {
       "id": 70,
-      "q": "(Lớp 8) Hình chữ nhật có bao nhiêu trục đối xứng?",
-      "a": ["2 trục", "4 trục", "1 trục", "0 trục"],
+      "q": "Dấu hiệu nhận biết hình chữ nhật:",
+      "a": ["Hình bình hành có một góc vuông", "Hình bình hành có hai cạnh kề bằng nhau", "Hình thang có hai cạnh bên bằng nhau", "Tứ giác có hai đường chéo vuông góc"],
       "correct": 0
     },
     {
       "id": 71,
-      "q": "(Lớp 8) Tứ giác có hai đường chéo cắt nhau tại trung điểm mỗi đường là:",
-      "a": ["Hình bình hành", "Hình thang cân", "Hình thang", "Hình diều"],
+      "q": "Hình thoi là tứ giác có:",
+      "a": ["Bốn cạnh bằng nhau", "Bốn góc bằng nhau", "Hai đường chéo bằng nhau", "Một góc vuông"],
       "correct": 0
     },
     {
       "id": 72,
-      "q": "(Lớp 8) Hình bình hành có hai đường chéo bằng nhau là:",
-      "a": ["Hình chữ nhật", "Hình thoi", "Hình vuông", "Hình thang cân"],
+      "q": "Trong hình thoi, hai đường chéo:",
+      "a": ["Vuông góc với nhau và cắt nhau tại trung điểm mỗi đường", "Bằng nhau", "Không cắt nhau", "Song song"],
       "correct": 0
     },
     {
       "id": 73,
-      "q": "(Lớp 8) Hình thoi có một góc vuông là:",
-      "a": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Hình thang"],
+      "q": "Hình vuông là tứ giác có:",
+      "a": ["Bốn góc vuông và bốn cạnh bằng nhau", "Chỉ bốn góc vuông", "Chỉ bốn cạnh bằng nhau", "Hai đường chéo bằng nhau"],
       "correct": 0
     },
     {
       "id": 74,
-      "q": "(Lớp 8) Khoảng cách giữa hai đường thẳng song song là:",
-      "a": ["Độ dài đoạn vuông góc chung", "Độ dài đoạn xiên bất kỳ", "Khoảng cách giữa hai điểm bất kỳ", "Luôn bằng 0"],
+      "q": "Hình vuông có tính chất của:",
+      "a": ["Hình chữ nhật và hình thoi", "Hình thang và tam giác", "Hình bình hành và hình thang vuông", "Chỉ hình thoi"],
       "correct": 0
     },
     {
       "id": 75,
-      "q": "(Lớp 8) Tứ giác ABCD có $\\widehat{A} + \\widehat{B} + \\widehat{C} = 260^o$. Góc D bằng:",
-      "a": ["$100^o$", "$120^o$", "$80^o$", "$60^o$"],
+      "q": "Hai đường chéo của hình vuông:",
+      "a": ["Bằng nhau, vuông góc và cắt nhau tại trung điểm", "Chỉ bằng nhau", "Chỉ vuông góc", "Không cắt nhau"],
       "correct": 0
     },
     {
       "id": 76,
-      "q": "(Lớp 8) Một hình chữ nhật có chiều dài 4cm, chiều rộng 3cm. Độ dài đường chéo là:",
-      "a": ["$5cm$", "$7cm$", "$6cm$", "$\\sqrt{7}cm$"],
+      "q": "Tâm đối xứng của hình bình hành là:",
+      "a": ["Giao điểm hai đường chéo", "Trọng tâm tam giác", "Giao điểm các đường phân giác", "Trung điểm một cạnh"],
       "correct": 0
     },
     {
       "id": 77,
-      "q": "(Lớp 8) Hình thang có hai cạnh bên song song thì:",
+      "q": "Hình thang có hai cạnh bên song song thì:",
       "a": ["Trở thành hình bình hành", "Trở thành hình chữ nhật", "Trở thành hình thang cân", "Hai cạnh bên vuông góc"],
       "correct": 0
     },
     {
       "id": 78,
-      "q": "(Lớp 8) Hình bình hành có hai cạnh kề bằng nhau là:",
+      "q": "Hình bình hành có hai cạnh kề bằng nhau là:",
       "a": ["Hình thoi", "Hình chữ nhật", "Hình vuông", "Hình thang"],
       "correct": 0
     },
     {
       "id": 79,
-      "q": "(Lớp 8) Trong các hình sau, hình nào không có tâm đối xứng?",
-      "a": ["Hình thang cân", "Hình bình hành", "Hình chữ nhật", "Hình vuông"],
+      "q": "Hình thoi có một góc vuông là:",
+      "a": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Hình thang"],
       "correct": 0
     },
     {
       "id": 80,
-      "q": "(Lớp 8) Để kiểm tra một góc tường có vuông hay không, người thợ thường dùng quy tắc bộ ba số nào?",
-      "a": ["3-4-5", "1-2-3", "2-3-4", "4-5-6"],
+      "q": "Tứ giác ABCD có $\\widehat{A} + \\widehat{B} + \\widehat{C} = 260^o$. Góc D bằng:",
+      "a": ["$100^o$", "$120^o$", "$80^o$", "$60^o$"],
       "correct": 0
     }
   ]
