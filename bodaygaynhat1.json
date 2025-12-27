@@ -1,0 +1,485 @@
+
+{
+  "questions": [
+    {
+      "id": 1,
+      "q": "Khai triển: $(x + 1)^2$",
+      "a": ["$x^2 + 2x + 1$", "$x^2 + 1$", "$x^2 + x + 1$", "$x^2 + 2x + 2$"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "q": "Khai triển: $(x + 2)^2$",
+      "a": ["$x^2 + 4x + 4$", "$x^2 + 4$", "$x^2 + 2x + 4$", "$x^2 + 4x + 2$"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "q": "Khai triển: $(x + 3)^2$",
+      "a": ["$x^2 + 6x + 9$", "$x^2 + 9$", "$x^2 + 3x + 9$", "$x^2 + 6x + 6$"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "q": "Khai triển: $(x + 4)^2$",
+      "a": ["$x^2 + 8x + 16$", "$x^2 + 16$", "$x^2 + 4x + 16$", "$x^2 + 8x + 8$"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "q": "Khai triển: $(x + 5)^2$",
+      "a": ["$x^2 + 10x + 25$", "$x^2 + 25$", "$x^2 + 5x + 25$", "$x^2 + 10x + 5$"],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "q": "Khai triển: $(2x + 1)^2$",
+      "a": ["$4x^2 + 4x + 1$", "$2x^2 + 4x + 1$", "$4x^2 + 1$", "$4x^2 + 2x + 1$"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "q": "Khai triển: $(3x + 1)^2$",
+      "a": ["$9x^2 + 6x + 1$", "$3x^2 + 6x + 1$", "$9x^2 + 1$", "$9x^2 + 3x + 1$"],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "q": "Khai triển: $(2x + 3)^2$",
+      "a": ["$4x^2 + 12x + 9$", "$4x^2 + 9$", "$2x^2 + 12x + 9$", "$4x^2 + 6x + 9$"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "q": "Khai triển: $(x + y)^2$",
+      "a": ["$x^2 + 2xy + y^2$", "$x^2 + y^2$", "$x^2 + xy + y^2$", "$2x + 2y$"],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "q": "Khai triển: $(2x + y)^2$",
+      "a": ["$4x^2 + 4xy + y^2$", "$4x^2 + y^2$", "$2x^2 + 2xy + y^2$", "$4x^2 + 2xy + y^2$"],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "q": "Khai triển: $(x + 2y)^2$",
+      "a": ["$x^2 + 4xy + 4y^2$", "$x^2 + 4y^2$", "$x^2 + 2xy + 4y^2$", "$x^2 + 4xy + 2y^2$"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "q": "Khai triển: $(4x + 1)^2$",
+      "a": ["$16x^2 + 8x + 1$", "$16x^2 + 1$", "$4x^2 + 8x + 1$", "$16x^2 + 4x + 1$"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "q": "Khai triển: $(x^2 + 1)^2$",
+      "a": ["$x^4 + 2x^2 + 1$", "$x^4 + 1$", "$x^2 + 2x + 1$", "$x^4 + x^2 + 1$"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "q": "Viết biểu thức $x^2 + 2x + 1$ dưới dạng bình phương:",
+      "a": ["$(x + 1)^2$", "$(x - 1)^2$", "$(x + 2)^2$", "$(x^2 + 1)$"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "q": "Viết biểu thức $4x^2 + 4x + 1$ dưới dạng bình phương:",
+      "a": ["$(2x + 1)^2$", "$(2x - 1)^2$", "$(4x + 1)^2$", "$(x + 2)^2$"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "q": "Khai triển: $(x - 1)^2$",
+      "a": ["$x^2 - 2x + 1$", "$x^2 - 1$", "$x^2 + 2x + 1$", "$x^2 - x + 1$"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "q": "Khai triển: $(x - 2)^2$",
+      "a": ["$x^2 - 4x + 4$", "$x^2 - 4$", "$x^2 + 4x + 4$", "$x^2 - 2x + 4$"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "q": "Khai triển: $(x - 3)^2$",
+      "a": ["$x^2 - 6x + 9$", "$x^2 - 9$", "$x^2 - 3x + 9$", "$x^2 + 6x + 9$"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "q": "Khai triển: $(x - 4)^2$",
+      "a": ["$x^2 - 8x + 16$", "$x^2 - 16$", "$x^2 - 4x + 16$", "$x^2 + 8x + 16$"],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "q": "Khai triển: $(x - 5)^2$",
+      "a": ["$x^2 - 10x + 25$", "$x^2 - 25$", "$x^2 - 5x + 25$", "$x^2 + 10x + 25$"],
+      "correct": 0
+    },
+    {
+      "id": 21,
+      "q": "Khai triển: $(2x - 1)^2$",
+      "a": ["$4x^2 - 4x + 1$", "$4x^2 - 1$", "$2x^2 - 4x + 1$", "$4x^2 + 4x + 1$"],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "q": "Khai triển: $(3x - 2)^2$",
+      "a": ["$9x^2 - 12x + 4$", "$9x^2 - 4$", "$9x^2 - 6x + 4$", "$3x^2 - 12x + 4$"],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "q": "Khai triển: $(x - y)^2$",
+      "a": ["$x^2 - 2xy + y^2$", "$x^2 - y^2$", "$x^2 + 2xy + y^2$", "$x^2 - xy + y^2$"],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "q": "Khai triển: $(2x - y)^2$",
+      "a": ["$4x^2 - 4xy + y^2$", "$4x^2 - y^2$", "$2x^2 - 4xy + y^2$", "$4x^2 - 2xy + y^2$"],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "q": "Khai triển: $(x - 3y)^2$",
+      "a": ["$x^2 - 6xy + 9y^2$", "$x^2 - 9y^2$", "$x^2 - 3xy + 9y^2$", "$x^2 - 6xy + 3y^2$"],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "q": "Khai triển: $(5x - 1)^2$",
+      "a": ["$25x^2 - 10x + 1$", "$25x^2 - 1$", "$5x^2 - 10x + 1$", "$25x^2 - 5x + 1$"],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "q": "Khai triển: $(1 - x)^2$",
+      "a": ["$1 - 2x + x^2$", "$1 - x^2$", "$1 + 2x + x^2$", "$x^2 - 1$"],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "q": "Khai triển: $(2 - 3x)^2$",
+      "a": ["$4 - 12x + 9x^2$", "$4 - 9x^2$", "$4 - 6x + 9x^2$", "$9x^2 - 4$"],
+      "correct": 0
+    },
+    {
+      "id": 29,
+      "q": "Viết biểu thức $x^2 - 6x + 9$ dưới dạng bình phương:",
+      "a": ["$(x - 3)^2$", "$(x + 3)^2$", "$(x - 9)^2$", "$(x - 6)^2$"],
+      "correct": 0
+    },
+    {
+      "id": 30,
+      "q": "Viết biểu thức $4x^2 - 4x + 1$ dưới dạng bình phương:",
+      "a": ["$(2x - 1)^2$", "$(2x + 1)^2$", "$(1 - 2x)^2$", "Cả A và C đều đúng"],
+      "correct": 3
+    },
+    {
+      "id": 31,
+      "q": "Tính nhanh: $(x - 1)(x + 1)$",
+      "a": ["$x^2 - 1$", "$x^2 + 1$", "$x^2 - 2x + 1$", "$x^2 + 2x + 1$"],
+      "correct": 0
+    },
+    {
+      "id": 32,
+      "q": "Tính nhanh: $(x - 2)(x + 2)$",
+      "a": ["$x^2 - 4$", "$x^2 + 4$", "$x^2 - 2$", "$x^2 - 4x + 4$"],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "q": "Tính nhanh: $(x - 3)(x + 3)$",
+      "a": ["$x^2 - 9$", "$x^2 + 9$", "$x^2 - 6$", "$x^2 - 3$"],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "q": "Tính nhanh: $(x - 4)(x + 4)$",
+      "a": ["$x^2 - 16$", "$x^2 + 16$", "$x^2 - 8$", "$x^2 - 4$"],
+      "correct": 0
+    },
+    {
+      "id": 35,
+      "q": "Tính nhanh: $(x - 5)(x + 5)$",
+      "a": ["$x^2 - 25$", "$x^2 + 25$", "$x^2 - 10$", "$x^2 - 5$"],
+      "correct": 0
+    },
+    {
+      "id": 36,
+      "q": "Tính nhanh: $(2x - 1)(2x + 1)$",
+      "a": ["$4x^2 - 1$", "$4x^2 + 1$", "$2x^2 - 1$", "$4x^2 - 2$"],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "q": "Tính nhanh: $(3x - 2)(3x + 2)$",
+      "a": ["$9x^2 - 4$", "$9x^2 + 4$", "$3x^2 - 4$", "$9x^2 - 2$"],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "q": "Tính nhanh: $(x - y)(x + y)$",
+      "a": ["$x^2 - y^2$", "$x^2 + y^2$", "$x^2 - 2xy + y^2$", "$x - y$"],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "q": "Tính nhanh: $(2x - y)(2x + y)$",
+      "a": ["$4x^2 - y^2$", "$4x^2 + y^2$", "$2x^2 - y^2$", "$4x^2 - 2xy + y^2$"],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "q": "Tính nhanh: $(1 - 3x)(1 + 3x)$",
+      "a": ["$1 - 9x^2$", "$9x^2 - 1$", "$1 + 9x^2$", "$1 - 3x^2$"],
+      "correct": 0
+    },
+    {
+      "id": 41,
+      "q": "Tính nhanh: $(x^2 - 1)(x^2 + 1)$",
+      "a": ["$x^4 - 1$", "$x^4 + 1$", "$x^2 - 1$", "$x^4 - 2x^2 + 1$"],
+      "correct": 0
+    },
+    {
+      "id": 42,
+      "q": "Điền vào chỗ trống: $x^2 - 16 = (x - ...)(x + ...)$",
+      "a": ["$4$", "$8$", "$16$", "$2$"],
+      "correct": 0
+    },
+    {
+      "id": 43,
+      "q": "Điền vào chỗ trống: $4x^2 - 9 = (... - 3)(... + 3)$",
+      "a": ["$2x$", "$4x$", "$x$", "$2$"],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "q": "Kết quả của phép tính $(5 - x)(5 + x)$ là:",
+      "a": ["$25 - x^2$", "$x^2 - 25$", "$25 + x^2$", "$5 - x^2$"],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "q": "Kết quả của phép tính $(2x - 3y)(2x + 3y)$ là:",
+      "a": ["$4x^2 - 9y^2$", "$4x^2 + 9y^2$", "$2x^2 - 3y^2$", "$4x^2 - 6xy + 9y^2$"],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "q": "Nhân đơn thức với đa thức: $x(x + 1)$",
+      "a": ["$x^2 + x$", "$x^2 + 1$", "$2x + 1$", "$x^2 + 2x$"],
+      "correct": 0
+    },
+    {
+      "id": 47,
+      "q": "Nhân đơn thức với đa thức: $x(x - 2)$",
+      "a": ["$x^2 - 2x$", "$x^2 - 2$", "$x^2 + 2x$", "$2x^2 - x$"],
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "q": "Nhân đơn thức với đa thức: $2x(x + 3)$",
+      "a": ["$2x^2 + 6x$", "$2x^2 + 3$", "$2x^2 + 3x$", "$2x^2 + 6$"],
+      "correct": 0
+    },
+    {
+      "id": 49,
+      "q": "Nhân đơn thức với đa thức: $3x(2x - 1)$",
+      "a": ["$6x^2 - 3x$", "$6x^2 - 1$", "$6x^2 - 3$", "$3x^2 - 3x$"],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "q": "Nhân đơn thức với đa thức: $x(x^2 + 1)$",
+      "a": ["$x^3 + x$", "$x^3 + 1$", "$x^2 + x$", "$x^3 + x^2$"],
+      "correct": 0
+    },
+    {
+      "id": 51,
+      "q": "Nhân đơn thức với đa thức: $-x(x + 2)$",
+      "a": ["$-x^2 - 2x$", "$-x^2 + 2x$", "$x^2 - 2x$", "$-x^2 + 2$"],
+      "correct": 0
+    },
+    {
+      "id": 52,
+      "q": "Nhân đơn thức với đa thức: $-2x(x - 3)$",
+      "a": ["$-2x^2 + 6x$", "$-2x^2 - 6x$", "$-2x^2 - 3$", "$2x^2 - 6x$"],
+      "correct": 0
+    },
+    {
+      "id": 53,
+      "q": "Thực hiện phép tính: $x(x + y)$",
+      "a": ["$x^2 + xy$", "$x^2 + y$", "$x + xy$", "$x^2y$"],
+      "correct": 0
+    },
+    {
+      "id": 54,
+      "q": "Thực hiện phép tính: $2x(3x + 2)$",
+      "a": ["$6x^2 + 4x$", "$6x^2 + 2$", "$5x^2 + 4x$", "$6x^2 + 4$"],
+      "correct": 0
+    },
+    {
+      "id": 55,
+      "q": "Thực hiện phép tính: $4x(x - 2)$",
+      "a": ["$4x^2 - 8x$", "$4x^2 - 2$", "$4x^2 - 8$", "$4x^2 + 8x$"],
+      "correct": 0
+    },
+    {
+      "id": 56,
+      "q": "Thực hiện phép tính: $5x(1 - x)$",
+      "a": ["$5x - 5x^2$", "$5x - x$", "$5 - 5x^2$", "$5x^2 - 5x$"],
+      "correct": 0
+    },
+    {
+      "id": 57,
+      "q": "Thực hiện phép tính: $xy(x + y)$",
+      "a": ["$x^2y + xy^2$", "$x^2y + y$", "$x + xy^2$", "$x^2 + y^2$"],
+      "correct": 0
+    },
+    {
+      "id": 58,
+      "q": "Thực hiện phép tính: $x(2x - 5)$",
+      "a": ["$2x^2 - 5x$", "$2x^2 - 5$", "$x^2 - 5x$", "$2x - 5x$"],
+      "correct": 0
+    },
+    {
+      "id": 59,
+      "q": "Thực hiện phép tính: $3(x^2 - 2x)$",
+      "a": ["$3x^2 - 6x$", "$3x^2 - 2x$", "$x^2 - 6x$", "$3x^2 - 6$"],
+      "correct": 0
+    },
+    {
+      "id": 60,
+      "q": "Thực hiện phép tính: $-x(3x + 4)$",
+      "a": ["$-3x^2 - 4x$", "$-3x^2 + 4x$", "$3x^2 + 4x$", "$-3x^2 - 4$"],
+      "correct": 0
+    },
+    {
+      "id": 61,
+      "q": "Tổng các góc trong một tứ giác bằng:",
+      "a": ["$360^o$", "$180^o$", "$90^o$", "$540^o$"],
+      "correct": 0
+    },
+    {
+      "id": 62,
+      "q": "Hình thang là tứ giác có:",
+      "a": ["Hai cạnh đối song song", "Hai cạnh đối bằng nhau", "Hai đường chéo bằng nhau", "Bốn góc vuông"],
+      "correct": 0
+    },
+    {
+      "id": 63,
+      "q": "Hình thang cân là hình thang có:",
+      "a": ["Hai góc kề một đáy bằng nhau", "Hai cạnh bên song song", "Hai đường chéo vuông góc", "Một góc vuông"],
+      "correct": 0
+    },
+    {
+      "id": 64,
+      "q": "Trong hình thang cân, hai đường chéo:",
+      "a": ["Bằng nhau", "Vuông góc", "Cắt nhau tại trung điểm", "Song song"],
+      "correct": 0
+    },
+    {
+      "id": 65,
+      "q": "Hình bình hành là tứ giác có:",
+      "a": ["Các cạnh đối song song", "Các cạnh đối không song song", "Hai đường chéo vuông góc", "Bốn góc vuông"],
+      "correct": 0
+    },
+    {
+      "id": 66,
+      "q": "Trong hình bình hành, hai đường chéo:",
+      "a": ["Cắt nhau tại trung điểm mỗi đường", "Bằng nhau", "Vuông góc với nhau", "Là phân giác các góc"],
+      "correct": 0
+    },
+    {
+      "id": 67,
+      "q": "Hình chữ nhật là tứ giác có:",
+      "a": ["Bốn góc vuông", "Bốn cạnh bằng nhau", "Hai đường chéo vuông góc", "Hai cạnh kề bằng nhau"],
+      "correct": 0
+    },
+    {
+      "id": 68,
+      "q": "Hình chữ nhật có các tính chất của:",
+      "a": ["Hình thang cân và hình bình hành", "Hình thoi và hình vuông", "Chỉ hình thang", "Chỉ hình bình hành"],
+      "correct": 0
+    },
+    {
+      "id": 69,
+      "q": "Hai đường chéo của hình chữ nhật thì:",
+      "a": ["Bằng nhau và cắt nhau tại trung điểm mỗi đường", "Vuông góc với nhau", "Là phân giác của các góc", "Không bằng nhau"],
+      "correct": 0
+    },
+    {
+      "id": 70,
+      "q": "Dấu hiệu nhận biết hình chữ nhật:",
+      "a": ["Hình bình hành có một góc vuông", "Hình bình hành có hai cạnh kề bằng nhau", "Hình thang có hai cạnh bên bằng nhau", "Tứ giác có hai đường chéo vuông góc"],
+      "correct": 0
+    },
+    {
+      "id": 71,
+      "q": "Hình thoi là tứ giác có:",
+      "a": ["Bốn cạnh bằng nhau", "Bốn góc bằng nhau", "Hai đường chéo bằng nhau", "Một góc vuông"],
+      "correct": 0
+    },
+    {
+      "id": 72,
+      "q": "Trong hình thoi, hai đường chéo:",
+      "a": ["Vuông góc với nhau và cắt nhau tại trung điểm mỗi đường", "Bằng nhau", "Không cắt nhau", "Song song"],
+      "correct": 0
+    },
+    {
+      "id": 73,
+      "q": "Hình vuông là tứ giác có:",
+      "a": ["Bốn góc vuông và bốn cạnh bằng nhau", "Chỉ bốn góc vuông", "Chỉ bốn cạnh bằng nhau", "Hai đường chéo bằng nhau"],
+      "correct": 0
+    },
+    {
+      "id": 74,
+      "q": "Hình vuông có tính chất của:",
+      "a": ["Hình chữ nhật và hình thoi", "Hình thang và tam giác", "Hình bình hành và hình thang vuông", "Chỉ hình thoi"],
+      "correct": 0
+    },
+    {
+      "id": 75,
+      "q": "Hai đường chéo của hình vuông:",
+      "a": ["Bằng nhau, vuông góc và cắt nhau tại trung điểm", "Chỉ bằng nhau", "Chỉ vuông góc", "Không cắt nhau"],
+      "correct": 0
+    },
+    {
+      "id": 76,
+      "q": "Tâm đối xứng của hình bình hành là:",
+      "a": ["Giao điểm hai đường chéo", "Trọng tâm tam giác", "Giao điểm các đường phân giác", "Trung điểm một cạnh"],
+      "correct": 0
+    },
+    {
+      "id": 77,
+      "q": "Hình thang có hai cạnh bên song song thì:",
+      "a": ["Trở thành hình bình hành", "Trở thành hình chữ nhật", "Trở thành hình thang cân", "Hai cạnh bên vuông góc"],
+      "correct": 0
+    },
+    {
+      "id": 78,
+      "q": "Hình bình hành có hai cạnh kề bằng nhau là:",
+      "a": ["Hình thoi", "Hình chữ nhật", "Hình vuông", "Hình thang"],
+      "correct": 0
+    },
+    {
+      "id": 79,
+      "q": "Hình thoi có một góc vuông là:",
+      "a": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Hình thang"],
+      "correct": 0
+    },
+    {
+      "id": 80,
+      "q": "Tứ giác ABCD có $\\widehat{A} + \\widehat{B} + \\widehat{C} = 260^o$. Góc D bằng:",
+      "a": ["$100^o$", "$120^o$", "$80^o$", "$60^o$"],
+      "correct": 0
+    }
+  ]
+}
