@@ -1,484 +1,303 @@
-
 {
   "questions": [
     {
       "id": 1,
-      "q": "Khai triển: $(x + 1)^2$",
-      "a": ["$x^2 + 2x + 1$", "$x^2 + 1$", "$x^2 + x + 1$", "$x^2 + 2x + 2$"],
+      "q": "Dữ liệu thống kê được chia làm mấy loại chính?",
+      "a": ["2 loại: Số liệu và Dữ liệu không là số", "3 loại: Số liệu, Văn bản và Hình ảnh", "1 loại: Số liệu", "4 loại: Số, Chữ, Kí hiệu, Hình vẽ"],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "Khai triển: $(x + 2)^2$",
-      "a": ["$x^2 + 4x + 4$", "$x^2 + 4$", "$x^2 + 2x + 4$", "$x^2 + 4x + 2$"],
+      "q": "Dữ liệu nào sau đây là số liệu (dữ liệu định lượng)?",
+      "a": ["Chiều cao của các học sinh trong tổ", "Màu sắc ưa thích", "Nơi sinh", "Xếp loại học lực"],
       "correct": 0
     },
     {
       "id": 3,
-      "q": "Khai triển: $(x + 3)^2$",
-      "a": ["$x^2 + 6x + 9$", "$x^2 + 9$", "$x^2 + 3x + 9$", "$x^2 + 6x + 6$"],
+      "q": "Dữ liệu nào sau đây là dữ liệu không là số (dữ liệu định tính)?",
+      "a": ["Danh sách các loại trái cây yêu thích", "Điểm kiểm tra môn Toán", "Số lượng học sinh nghỉ học", "Nhiệt độ trung bình tháng"],
       "correct": 0
     },
     {
       "id": 4,
-      "q": "Khai triển: $(x + 4)^2$",
-      "a": ["$x^2 + 8x + 16$", "$x^2 + 16$", "$x^2 + 4x + 16$", "$x^2 + 8x + 8$"],
+      "q": "Phương pháp nào thường dùng để thu thập dữ liệu về ý kiến cá nhân của số lượng lớn người?",
+      "a": ["Lập phiếu hỏi (phiếu khảo sát)", "Làm thí nghiệm", "Quan sát trực tiếp", "Đếm thủ công"],
       "correct": 0
     },
     {
       "id": 5,
-      "q": "Khai triển: $(x + 5)^2$",
-      "a": ["$x^2 + 10x + 25$", "$x^2 + 25$", "$x^2 + 5x + 25$", "$x^2 + 10x + 5$"],
+      "q": "Trong dãy số liệu về chiều cao (cm): 150, 155, 300, 160. Giá trị nào không hợp lý?",
+      "a": ["300", "150", "155", "160"],
       "correct": 0
     },
     {
       "id": 6,
-      "q": "Khai triển: $(2x + 1)^2$",
-      "a": ["$4x^2 + 4x + 1$", "$2x^2 + 4x + 1$", "$4x^2 + 1$", "$4x^2 + 2x + 1$"],
+      "q": "Để biết cây đậu phát triển thế nào theo từng ngày, ta nên dùng phương pháp thu thập nào?",
+      "a": ["Quan sát và đo đạc thực nghiệm", "Phỏng vấn cây đậu", "Tìm trên internet", "Lập bảng hỏi"],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "Khai triển: $(3x + 1)^2$",
-      "a": ["$9x^2 + 6x + 1$", "$3x^2 + 6x + 1$", "$9x^2 + 1$", "$9x^2 + 3x + 1$"],
+      "q": "Dữ liệu 'Số điện thoại' được xếp vào loại nào?",
+      "a": ["Dữ liệu không là số (định danh)", "Số liệu (định lượng)", "Số thực", "Số thập phân"],
       "correct": 0
     },
     {
       "id": 8,
-      "q": "Khai triển: $(2x + 3)^2$",
-      "a": ["$4x^2 + 12x + 9$", "$4x^2 + 9$", "$2x^2 + 12x + 9$", "$4x^2 + 6x + 9$"],
+      "q": "Dữ liệu nào sau đây là số liệu rời rạc?",
+      "a": ["Số con trong một gia đình", "Chiều cao", "Cân nặng", "Thời gian chạy 100m"],
       "correct": 0
     },
     {
       "id": 9,
-      "q": "Khai triển: $(x + y)^2$",
-      "a": ["$x^2 + 2xy + y^2$", "$x^2 + y^2$", "$x^2 + xy + y^2$", "$2x + 2y$"],
+      "q": "Dữ liệu nào sau đây là số liệu liên tục?",
+      "a": ["Cân nặng của học sinh", "Số học sinh trong lớp", "Số cây trồng được", "Số bàn thắng trong trận đấu"],
       "correct": 0
     },
     {
       "id": 10,
-      "q": "Khai triển: $(2x + y)^2$",
-      "a": ["$4x^2 + 4xy + y^2$", "$4x^2 + y^2$", "$2x^2 + 2xy + y^2$", "$4x^2 + 2xy + y^2$"],
+      "q": "Việc kiểm tra dữ liệu có đúng định dạng hay nằm trong phạm vi cho phép gọi là:",
+      "a": ["Đánh giá tính hợp lý của dữ liệu", "Phân tích dữ liệu", "Thu thập dữ liệu", "Mô tả dữ liệu"],
       "correct": 0
     },
     {
       "id": 11,
-      "q": "Khai triển: $(x + 2y)^2$",
-      "a": ["$x^2 + 4xy + 4y^2$", "$x^2 + 4y^2$", "$x^2 + 2xy + 4y^2$", "$x^2 + 4xy + 2y^2$"],
+      "q": "Kết quả xếp loại học lực: Giỏi, Khá, Trung bình, Yếu. Đây là dữ liệu:",
+      "a": ["Dữ liệu không là số có thứ bậc", "Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu hình ảnh"],
       "correct": 0
     },
     {
       "id": 12,
-      "q": "Khai triển: $(4x + 1)^2$",
-      "a": ["$16x^2 + 8x + 1$", "$16x^2 + 1$", "$4x^2 + 8x + 1$", "$16x^2 + 4x + 1$"],
+      "q": "Muốn biết nhiệt độ trung bình của Hà Nội trong 10 năm qua, nguồn dữ liệu nào đáng tin cậy nhất?",
+      "a": ["Niên giám thống kê hoặc trang web khí tượng thủy văn", "Hỏi người đi đường", "Tự đoán", "Facebook"],
       "correct": 0
     },
     {
       "id": 13,
-      "q": "Khai triển: $(x^2 + 1)^2$",
-      "a": ["$x^4 + 2x^2 + 1$", "$x^4 + 1$", "$x^2 + 2x + 1$", "$x^4 + x^2 + 1$"],
+      "q": "Dãy dữ liệu nào sau đây là hợp lý cho 'Tháng sinh của học sinh'?",
+      "a": ["1, 2, 5, 12", "1, 13, 5, 2", "0, 5, 7, 9", "2, 4, 15, 8"],
       "correct": 0
     },
     {
       "id": 14,
-      "q": "Viết biểu thức $x^2 + 2x + 1$ dưới dạng bình phương:",
-      "a": ["$(x + 1)^2$", "$(x - 1)^2$", "$(x + 2)^2$", "$(x^2 + 1)$"],
+      "q": "Câu hỏi nào phù hợp để thu thập dữ liệu định lượng?",
+      "a": ["Bạn nặng bao nhiêu kg?", "Bạn thích màu gì?", "Nhà bạn ở quận nào?", "Bạn thấy môn Toán thế nào?"],
       "correct": 0
     },
     {
       "id": 15,
-      "q": "Viết biểu thức $4x^2 + 4x + 1$ dưới dạng bình phương:",
-      "a": ["$(2x + 1)^2$", "$(2x - 1)^2$", "$(4x + 1)^2$", "$(x + 2)^2$"],
+      "q": "Dữ liệu sơ cấp là gì?",
+      "a": ["Dữ liệu do người điều tra trực tiếp thu thập", "Dữ liệu lấy từ sách báo", "Dữ liệu từ internet", "Dữ liệu do người khác cung cấp"],
       "correct": 0
     },
     {
       "id": 16,
-      "q": "Khai triển: $(x - 1)^2$",
-      "a": ["$x^2 - 2x + 1$", "$x^2 - 1$", "$x^2 + 2x + 1$", "$x^2 - x + 1$"],
+      "q": "Dữ liệu thứ cấp là gì?",
+      "a": ["Dữ liệu được thu thập từ nguồn có sẵn (sách, báo, web...)", "Dữ liệu tự mình đo đạc", "Dữ liệu phỏng vấn trực tiếp", "Dữ liệu làm thí nghiệm"],
       "correct": 0
     },
     {
       "id": 17,
-      "q": "Khai triển: $(x - 2)^2$",
-      "a": ["$x^2 - 4x + 4$", "$x^2 - 4$", "$x^2 + 4x + 4$", "$x^2 - 2x + 4$"],
+      "q": "Khi điều tra về phương tiện đến trường, bạn Lan ghi: 'Xe đạp, 5km, Đi bộ'. Dữ liệu nào bị sai loại?",
+      "a": ["5km", "Xe đạp", "Đi bộ", "Không có dữ liệu sai"],
       "correct": 0
     },
     {
       "id": 18,
-      "q": "Khai triển: $(x - 3)^2$",
-      "a": ["$x^2 - 6x + 9$", "$x^2 - 9$", "$x^2 - 3x + 9$", "$x^2 + 6x + 9$"],
+      "q": "Để biểu diễn tỉ lệ phần trăm các loại rác thải, biểu đồ nào phù hợp nhất?",
+      "a": ["Biểu đồ hình quạt tròn", "Biểu đồ đoạn thẳng", "Biểu đồ cột", "Biểu đồ tranh"],
       "correct": 0
     },
     {
       "id": 19,
-      "q": "Khai triển: $(x - 4)^2$",
-      "a": ["$x^2 - 8x + 16$", "$x^2 - 16$", "$x^2 - 4x + 16$", "$x^2 + 8x + 16$"],
+      "q": "Để biểu diễn sự thay đổi dân số qua các năm, biểu đồ nào phù hợp nhất?",
+      "a": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ tranh", "Biểu đồ cột chồng"],
       "correct": 0
     },
     {
       "id": 20,
-      "q": "Khai triển: $(x - 5)^2$",
-      "a": ["$x^2 - 10x + 25$", "$x^2 - 25$", "$x^2 - 5x + 25$", "$x^2 + 10x + 25$"],
+      "q": "Danh sách các môn thể thao: Bóng đá, Cầu lông, 100, Bơi lội. Giá trị không hợp lý là:",
+      "a": ["100", "Bóng đá", "Cầu lông", "Bơi lội"],
       "correct": 0
     },
     {
       "id": 21,
-      "q": "Khai triển: $(2x - 1)^2$",
-      "a": ["$4x^2 - 4x + 1$", "$4x^2 - 1$", "$2x^2 - 4x + 1$", "$4x^2 + 4x + 1$"],
+      "q": "Biển số xe máy (Ví dụ: 29H1-123.45) là loại dữ liệu gì?",
+      "a": ["Dữ liệu không là số", "Số liệu", "Dữ liệu liên tục", "Số nguyên"],
       "correct": 0
     },
     {
       "id": 22,
-      "q": "Khai triển: $(3x - 2)^2$",
-      "a": ["$9x^2 - 12x + 4$", "$9x^2 - 4$", "$9x^2 - 6x + 4$", "$3x^2 - 12x + 4$"],
+      "q": "Mã định danh học sinh (ID) thường được xử lý như loại dữ liệu nào?",
+      "a": ["Dữ liệu không là số (để phân biệt)", "Số liệu (để tính toán)", "Số thập phân", "Số đo lường"],
       "correct": 0
     },
     {
       "id": 23,
-      "q": "Khai triển: $(x - y)^2$",
-      "a": ["$x^2 - 2xy + y^2$", "$x^2 - y^2$", "$x^2 + 2xy + y^2$", "$x^2 - xy + y^2$"],
+      "q": "Khi tung một đồng xu 20 lần, ta thu được dãy kết quả: S, N, N, S... Đây là phương pháp thu thập gì?",
+      "a": ["Thực nghiệm", "Quan sát", "Phỏng vấn", "Tra cứu"],
       "correct": 0
     },
     {
       "id": 24,
-      "q": "Khai triển: $(2x - y)^2$",
-      "a": ["$4x^2 - 4xy + y^2$", "$4x^2 - y^2$", "$2x^2 - 4xy + y^2$", "$4x^2 - 2xy + y^2$"],
+      "q": "Trong các dữ liệu sau, dữ liệu nào KHÔNG THỂ thực hiện phép tính cộng trừ?",
+      "a": ["Số điện thoại", "Chiều cao", "Cân nặng", "Tiền lương"],
       "correct": 0
     },
     {
       "id": 25,
-      "q": "Khai triển: $(x - 3y)^2$",
-      "a": ["$x^2 - 6xy + 9y^2$", "$x^2 - 9y^2$", "$x^2 - 3xy + 9y^2$", "$x^2 - 6xy + 3y^2$"],
+      "q": "Một bảng thống kê ghi: 'Số người: 10, 15, 4.5, 20'. Số liệu vô lý là:",
+      "a": ["4.5", "10", "15", "20"],
       "correct": 0
     },
     {
       "id": 26,
-      "q": "Khai triển: $(5x - 1)^2$",
-      "a": ["$25x^2 - 10x + 1$", "$25x^2 - 1$", "$5x^2 - 10x + 1$", "$25x^2 - 5x + 1$"],
+      "q": "Câu hỏi trong phiếu điều tra: 'Bạn có thích học Toán không?' thu được dữ liệu dạng:",
+      "a": ["Có/Không (Định tính)", "Số liệu", "Số thực", "Hình ảnh"],
       "correct": 0
     },
     {
       "id": 27,
-      "q": "Khai triển: $(1 - x)^2$",
-      "a": ["$1 - 2x + x^2$", "$1 - x^2$", "$1 + 2x + x^2$", "$x^2 - 1$"],
+      "q": "Để điều tra mức độ hài lòng của khách hàng, người ta thường dùng thang đo nào?",
+      "a": ["Rất hài lòng - Hài lòng - Bình thường - Không hài lòng", "1kg - 2kg - 3kg", "Xanh - Đỏ - Tím", "Nam - Nữ"],
       "correct": 0
     },
     {
       "id": 28,
-      "q": "Khai triển: $(2 - 3x)^2$",
-      "a": ["$4 - 12x + 9x^2$", "$4 - 9x^2$", "$4 - 6x + 9x^2$", "$9x^2 - 4$"],
+      "q": "Dữ liệu 'Địa chỉ nhà' thuộc nhóm:",
+      "a": ["Dữ liệu văn bản (không là số)", "Số liệu", "Dữ liệu thời gian", "Dữ liệu âm thanh"],
       "correct": 0
     },
     {
       "id": 29,
-      "q": "Viết biểu thức $x^2 - 6x + 9$ dưới dạng bình phương:",
-      "a": ["$(x - 3)^2$", "$(x + 3)^2$", "$(x - 9)^2$", "$(x - 6)^2$"],
+      "q": "Khi ghi lại sĩ số của các lớp học: 35, 40, 38, -5. Giá trị nào sai?",
+      "a": ["-5", "35", "40", "38"],
       "correct": 0
     },
     {
       "id": 30,
-      "q": "Viết biểu thức $4x^2 - 4x + 1$ dưới dạng bình phương:",
-      "a": ["$(2x - 1)^2$", "$(2x + 1)^2$", "$(1 - 2x)^2$", "Cả A và C đều đúng"],
-      "correct": 3
+      "q": "Nguồn dữ liệu nào sau đây được coi là chính thống và đáng tin cậy nhất?",
+      "a": ["Cổng thông tin điện tử Chính phủ", "Blog cá nhân", "Mạng xã hội", "Lời đồn"],
+      "correct": 0
     },
     {
       "id": 31,
-      "q": "Tính nhanh: $(x - 1)(x + 1)$",
-      "a": ["$x^2 - 1$", "$x^2 + 1$", "$x^2 - 2x + 1$", "$x^2 + 2x + 1$"],
+      "q": "Trong nghiên cứu khoa học, việc ghi chép lại những gì nhìn thấy gọi là:",
+      "a": ["Quan sát", "Phỏng vấn", "Điều tra", "Thực nghiệm"],
       "correct": 0
     },
     {
       "id": 32,
-      "q": "Tính nhanh: $(x - 2)(x + 2)$",
-      "a": ["$x^2 - 4$", "$x^2 + 4$", "$x^2 - 2$", "$x^2 - 4x + 4$"],
+      "q": "Dữ liệu về 'Thời gian hoàn thành bài thi' (phút) là:",
+      "a": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Dữ liệu thứ bậc"],
       "correct": 0
     },
     {
       "id": 33,
-      "q": "Tính nhanh: $(x - 3)(x + 3)$",
-      "a": ["$x^2 - 9$", "$x^2 + 9$", "$x^2 - 6$", "$x^2 - 3$"],
+      "q": "Nếu muốn biết loài hoa nào được yêu thích nhất trường, em sẽ thu thập dữ liệu về:",
+      "a": ["Tên các loài hoa", "Số cánh hoa", "Giá tiền của hoa", "Màu sắc hoa"],
       "correct": 0
     },
     {
       "id": 34,
-      "q": "Tính nhanh: $(x - 4)(x + 4)$",
-      "a": ["$x^2 - 16$", "$x^2 + 16$", "$x^2 - 8$", "$x^2 - 4$"],
+      "q": "Bảng dữ liệu: Tên (An, Bình), Tuổi (13, 13), Giới tính (Nam, Nữ). Cột nào chứa dữ liệu số?",
+      "a": ["Cột Tuổi", "Cột Tên", "Cột Giới tính", "Cả 3 cột"],
       "correct": 0
     },
     {
       "id": 35,
-      "q": "Tính nhanh: $(x - 5)(x + 5)$",
-      "a": ["$x^2 - 25$", "$x^2 + 25$", "$x^2 - 10$", "$x^2 - 5$"],
+      "q": "Dữ liệu nào sau đây có thể dùng để so sánh hơn kém?",
+      "a": ["Điểm trung bình môn", "Số báo danh", "Họ và tên", "Nơi ở"],
       "correct": 0
     },
     {
       "id": 36,
-      "q": "Tính nhanh: $(2x - 1)(2x + 1)$",
-      "a": ["$4x^2 - 1$", "$4x^2 + 1$", "$2x^2 - 1$", "$4x^2 - 2$"],
+      "q": "Khi thu thập dữ liệu về 'Các tỉnh thành phố của Việt Nam', dữ liệu thu được là:",
+      "a": ["Tên gọi (Hà Nội, TP.HCM...)", "Diện tích", "Dân số", "Mã vùng"],
       "correct": 0
     },
     {
       "id": 37,
-      "q": "Tính nhanh: $(3x - 2)(3x + 2)$",
-      "a": ["$9x^2 - 4$", "$9x^2 + 4$", "$3x^2 - 4$", "$9x^2 - 2$"],
+      "q": "Lỗi thường gặp khi lập phiếu hỏi là:",
+      "a": ["Câu hỏi dài dòng, khó hiểu, dẫn dắt người trả lời", "Câu hỏi ngắn gọn", "Câu hỏi trắc nghiệm", "Câu hỏi có nhiều lựa chọn"],
       "correct": 0
     },
     {
       "id": 38,
-      "q": "Tính nhanh: $(x - y)(x + y)$",
-      "a": ["$x^2 - y^2$", "$x^2 + y^2$", "$x^2 - 2xy + y^2$", "$x - y$"],
+      "q": "Dãy số liệu: 2, 4, 6, 8, 10. Đây là dữ liệu:",
+      "a": ["Số liệu chẵn", "Số liệu lẻ", "Dữ liệu định tính", "Dữ liệu văn bản"],
       "correct": 0
     },
     {
       "id": 39,
-      "q": "Tính nhanh: $(2x - y)(2x + y)$",
-      "a": ["$4x^2 - y^2$", "$4x^2 + y^2$", "$2x^2 - y^2$", "$4x^2 - 2xy + y^2$"],
+      "q": "Để kiểm tra chất lượng bóng đèn, người ta thử nghiệm 100 bóng. Dữ liệu thu được là 'Số giờ sáng'. Đây là:",
+      "a": ["Số liệu", "Dữ liệu không là số", "Dữ liệu định danh", "Dữ liệu nhị phân"],
       "correct": 0
     },
     {
       "id": 40,
-      "q": "Tính nhanh: $(1 - 3x)(1 + 3x)$",
-      "a": ["$1 - 9x^2$", "$9x^2 - 1$", "$1 + 9x^2$", "$1 - 3x^2$"],
+      "q": "Một học sinh ghi: 'Nhiệt độ hôm nay là Mát mẻ'. Đây là dữ liệu:",
+      "a": ["Định tính", "Định lượng", "Số liệu", "Số đo"],
       "correct": 0
     },
     {
       "id": 41,
-      "q": "Tính nhanh: $(x^2 - 1)(x^2 + 1)$",
-      "a": ["$x^4 - 1$", "$x^4 + 1$", "$x^2 - 1$", "$x^4 - 2x^2 + 1$"],
+      "q": "Trong thống kê, 'Đối tượng thống kê' là gì?",
+      "a": ["Các đối tượng mà ta cần thu thập thông tin về chúng", "Người đi thu thập dữ liệu", "Bảng dữ liệu", "Biểu đồ"],
       "correct": 0
     },
     {
       "id": 42,
-      "q": "Điền vào chỗ trống: $x^2 - 16 = (x - ...)(x + ...)$",
-      "a": ["$4$", "$8$", "$16$", "$2$"],
+      "q": "Tiêu chí quan trọng nhất của dữ liệu thống kê là:",
+      "a": ["Trung thực và khách quan", "Đẹp mắt", "Ngắn gọn", "Nhiều chữ"],
       "correct": 0
     },
     {
       "id": 43,
-      "q": "Điền vào chỗ trống: $4x^2 - 9 = (... - 3)(... + 3)$",
-      "a": ["$2x$", "$4x$", "$x$", "$2$"],
+      "q": "Dữ liệu 'Kích thước áo: S, M, L, XL' là dữ liệu:",
+      "a": ["Không là số (có thứ tự)", "Số liệu", "Số thực", "Văn bản tùy ý"],
       "correct": 0
     },
     {
       "id": 44,
-      "q": "Kết quả của phép tính $(5 - x)(5 + x)$ là:",
-      "a": ["$25 - x^2$", "$x^2 - 25$", "$25 + x^2$", "$5 - x^2$"],
+      "q": "Khi điều tra về 'Màu mắt', các kết quả có thể là:",
+      "a": ["Đen, Nâu, Xanh", "10/10, 9/10", "To, Nhỏ", "Cận, Viễn"],
       "correct": 0
     },
     {
       "id": 45,
-      "q": "Kết quả của phép tính $(2x - 3y)(2x + 3y)$ là:",
-      "a": ["$4x^2 - 9y^2$", "$4x^2 + 9y^2$", "$2x^2 - 3y^2$", "$4x^2 - 6xy + 9y^2$"],
+      "q": "Giá trị nào sau đây không hợp lý cho dữ liệu 'Số giờ tự học trong một ngày'?",
+      "a": ["25 giờ", "2 giờ", "0 giờ", "5 giờ"],
       "correct": 0
     },
     {
       "id": 46,
-      "q": "Nhân đơn thức với đa thức: $x(x + 1)$",
-      "a": ["$x^2 + x$", "$x^2 + 1$", "$2x + 1$", "$x^2 + 2x$"],
+      "q": "Phương pháp 'Phỏng vấn' có ưu điểm gì?",
+      "a": ["Thu thập được thông tin chi tiết, sâu sắc", "Nhanh chóng", "Tốn ít chi phí", "Thu thập được số lượng rất lớn cùng lúc"],
       "correct": 0
     },
     {
       "id": 47,
-      "q": "Nhân đơn thức với đa thức: $x(x - 2)$",
-      "a": ["$x^2 - 2x$", "$x^2 - 2$", "$x^2 + 2x$", "$2x^2 - x$"],
+      "q": "Phương pháp 'Quan sát' thường dùng trong trường hợp nào?",
+      "a": ["Nghiên cứu hành vi động vật hoặc sự kiện đang diễn ra", "Muốn biết ý kiến thầm kín", "Muốn biết quá khứ", "Muốn biết tương lai"],
       "correct": 0
     },
     {
       "id": 48,
-      "q": "Nhân đơn thức với đa thức: $2x(x + 3)$",
-      "a": ["$2x^2 + 6x$", "$2x^2 + 3$", "$2x^2 + 3x$", "$2x^2 + 6$"],
+      "q": "Dữ liệu thu được từ máy đo nhịp tim là:",
+      "a": ["Số liệu (nhịp/phút)", "Hình ảnh", "Âm thanh", "Văn bản"],
       "correct": 0
     },
     {
       "id": 49,
-      "q": "Nhân đơn thức với đa thức: $3x(2x - 1)$",
-      "a": ["$6x^2 - 3x$", "$6x^2 - 1$", "$6x^2 - 3$", "$3x^2 - 3x$"],
+      "q": "Khi thống kê điểm thi, dữ liệu 'Điểm 11' là:",
+      "a": ["Dữ liệu không hợp lý (nếu thang điểm 10)", "Dữ liệu xuất sắc", "Dữ liệu bình thường", "Dữ liệu định tính"],
       "correct": 0
     },
     {
       "id": 50,
-      "q": "Nhân đơn thức với đa thức: $x(x^2 + 1)$",
-      "a": ["$x^3 + x$", "$x^3 + 1$", "$x^2 + x$", "$x^3 + x^2$"],
-      "correct": 0
-    },
-    {
-      "id": 51,
-      "q": "Nhân đơn thức với đa thức: $-x(x + 2)$",
-      "a": ["$-x^2 - 2x$", "$-x^2 + 2x$", "$x^2 - 2x$", "$-x^2 + 2$"],
-      "correct": 0
-    },
-    {
-      "id": 52,
-      "q": "Nhân đơn thức với đa thức: $-2x(x - 3)$",
-      "a": ["$-2x^2 + 6x$", "$-2x^2 - 6x$", "$-2x^2 - 3$", "$2x^2 - 6x$"],
-      "correct": 0
-    },
-    {
-      "id": 53,
-      "q": "Thực hiện phép tính: $x(x + y)$",
-      "a": ["$x^2 + xy$", "$x^2 + y$", "$x + xy$", "$x^2y$"],
-      "correct": 0
-    },
-    {
-      "id": 54,
-      "q": "Thực hiện phép tính: $2x(3x + 2)$",
-      "a": ["$6x^2 + 4x$", "$6x^2 + 2$", "$5x^2 + 4x$", "$6x^2 + 4$"],
-      "correct": 0
-    },
-    {
-      "id": 55,
-      "q": "Thực hiện phép tính: $4x(x - 2)$",
-      "a": ["$4x^2 - 8x$", "$4x^2 - 2$", "$4x^2 - 8$", "$4x^2 + 8x$"],
-      "correct": 0
-    },
-    {
-      "id": 56,
-      "q": "Thực hiện phép tính: $5x(1 - x)$",
-      "a": ["$5x - 5x^2$", "$5x - x$", "$5 - 5x^2$", "$5x^2 - 5x$"],
-      "correct": 0
-    },
-    {
-      "id": 57,
-      "q": "Thực hiện phép tính: $xy(x + y)$",
-      "a": ["$x^2y + xy^2$", "$x^2y + y$", "$x + xy^2$", "$x^2 + y^2$"],
-      "correct": 0
-    },
-    {
-      "id": 58,
-      "q": "Thực hiện phép tính: $x(2x - 5)$",
-      "a": ["$2x^2 - 5x$", "$2x^2 - 5$", "$x^2 - 5x$", "$2x - 5x$"],
-      "correct": 0
-    },
-    {
-      "id": 59,
-      "q": "Thực hiện phép tính: $3(x^2 - 2x)$",
-      "a": ["$3x^2 - 6x$", "$3x^2 - 2x$", "$x^2 - 6x$", "$3x^2 - 6$"],
-      "correct": 0
-    },
-    {
-      "id": 60,
-      "q": "Thực hiện phép tính: $-x(3x + 4)$",
-      "a": ["$-3x^2 - 4x$", "$-3x^2 + 4x$", "$3x^2 + 4x$", "$-3x^2 - 4$"],
-      "correct": 0
-    },
-    {
-      "id": 61,
-      "q": "Tổng các góc trong một tứ giác bằng:",
-      "a": ["$360^o$", "$180^o$", "$90^o$", "$540^o$"],
-      "correct": 0
-    },
-    {
-      "id": 62,
-      "q": "Hình thang là tứ giác có:",
-      "a": ["Hai cạnh đối song song", "Hai cạnh đối bằng nhau", "Hai đường chéo bằng nhau", "Bốn góc vuông"],
-      "correct": 0
-    },
-    {
-      "id": 63,
-      "q": "Hình thang cân là hình thang có:",
-      "a": ["Hai góc kề một đáy bằng nhau", "Hai cạnh bên song song", "Hai đường chéo vuông góc", "Một góc vuông"],
-      "correct": 0
-    },
-    {
-      "id": 64,
-      "q": "Trong hình thang cân, hai đường chéo:",
-      "a": ["Bằng nhau", "Vuông góc", "Cắt nhau tại trung điểm", "Song song"],
-      "correct": 0
-    },
-    {
-      "id": 65,
-      "q": "Hình bình hành là tứ giác có:",
-      "a": ["Các cạnh đối song song", "Các cạnh đối không song song", "Hai đường chéo vuông góc", "Bốn góc vuông"],
-      "correct": 0
-    },
-    {
-      "id": 66,
-      "q": "Trong hình bình hành, hai đường chéo:",
-      "a": ["Cắt nhau tại trung điểm mỗi đường", "Bằng nhau", "Vuông góc với nhau", "Là phân giác các góc"],
-      "correct": 0
-    },
-    {
-      "id": 67,
-      "q": "Hình chữ nhật là tứ giác có:",
-      "a": ["Bốn góc vuông", "Bốn cạnh bằng nhau", "Hai đường chéo vuông góc", "Hai cạnh kề bằng nhau"],
-      "correct": 0
-    },
-    {
-      "id": 68,
-      "q": "Hình chữ nhật có các tính chất của:",
-      "a": ["Hình thang cân và hình bình hành", "Hình thoi và hình vuông", "Chỉ hình thang", "Chỉ hình bình hành"],
-      "correct": 0
-    },
-    {
-      "id": 69,
-      "q": "Hai đường chéo của hình chữ nhật thì:",
-      "a": ["Bằng nhau và cắt nhau tại trung điểm mỗi đường", "Vuông góc với nhau", "Là phân giác của các góc", "Không bằng nhau"],
-      "correct": 0
-    },
-    {
-      "id": 70,
-      "q": "Dấu hiệu nhận biết hình chữ nhật:",
-      "a": ["Hình bình hành có một góc vuông", "Hình bình hành có hai cạnh kề bằng nhau", "Hình thang có hai cạnh bên bằng nhau", "Tứ giác có hai đường chéo vuông góc"],
-      "correct": 0
-    },
-    {
-      "id": 71,
-      "q": "Hình thoi là tứ giác có:",
-      "a": ["Bốn cạnh bằng nhau", "Bốn góc bằng nhau", "Hai đường chéo bằng nhau", "Một góc vuông"],
-      "correct": 0
-    },
-    {
-      "id": 72,
-      "q": "Trong hình thoi, hai đường chéo:",
-      "a": ["Vuông góc với nhau và cắt nhau tại trung điểm mỗi đường", "Bằng nhau", "Không cắt nhau", "Song song"],
-      "correct": 0
-    },
-    {
-      "id": 73,
-      "q": "Hình vuông là tứ giác có:",
-      "a": ["Bốn góc vuông và bốn cạnh bằng nhau", "Chỉ bốn góc vuông", "Chỉ bốn cạnh bằng nhau", "Hai đường chéo bằng nhau"],
-      "correct": 0
-    },
-    {
-      "id": 74,
-      "q": "Hình vuông có tính chất của:",
-      "a": ["Hình chữ nhật và hình thoi", "Hình thang và tam giác", "Hình bình hành và hình thang vuông", "Chỉ hình thoi"],
-      "correct": 0
-    },
-    {
-      "id": 75,
-      "q": "Hai đường chéo của hình vuông:",
-      "a": ["Bằng nhau, vuông góc và cắt nhau tại trung điểm", "Chỉ bằng nhau", "Chỉ vuông góc", "Không cắt nhau"],
-      "correct": 0
-    },
-    {
-      "id": 76,
-      "q": "Tâm đối xứng của hình bình hành là:",
-      "a": ["Giao điểm hai đường chéo", "Trọng tâm tam giác", "Giao điểm các đường phân giác", "Trung điểm một cạnh"],
-      "correct": 0
-    },
-    {
-      "id": 77,
-      "q": "Hình thang có hai cạnh bên song song thì:",
-      "a": ["Trở thành hình bình hành", "Trở thành hình chữ nhật", "Trở thành hình thang cân", "Hai cạnh bên vuông góc"],
-      "correct": 0
-    },
-    {
-      "id": 78,
-      "q": "Hình bình hành có hai cạnh kề bằng nhau là:",
-      "a": ["Hình thoi", "Hình chữ nhật", "Hình vuông", "Hình thang"],
-      "correct": 0
-    },
-    {
-      "id": 79,
-      "q": "Hình thoi có một góc vuông là:",
-      "a": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Hình thang"],
-      "correct": 0
-    },
-    {
-      "id": 80,
-      "q": "Tứ giác ABCD có $\\widehat{A} + \\widehat{B} + \\widehat{C} = 260^o$. Góc D bằng:",
-      "a": ["$100^o$", "$120^o$", "$80^o$", "$60^o$"],
+      "q": "Việc sắp xếp dữ liệu vào bảng giúp ích gì?",
+      "a": ["Dễ dàng theo dõi, so sánh và nhận xét", "Làm dữ liệu phức tạp hơn", "Che giấu thông tin", "Không có tác dụng gì"],
       "correct": 0
     }
   ]
