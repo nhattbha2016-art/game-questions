@@ -2,362 +2,362 @@
   "questions": [
     {
       "id": 1,
-      "q": "Xác suất của một biến cố A bất kì, kí hiệu là P(A), luôn thỏa mãn điều kiện nào?",
-      "a": ["$0 \\le P(A) \\le 1$", "$0 < P(A) < 1$", "$P(A) \\ge 1$", "$P(A) \\le 0$"],
+      "q": "Dữ liệu nào sau đây là số liệu (dữ liệu định lượng)?",
+      "a": ["Chiều cao của các học sinh trong lớp (cm)", "Màu sắc ưa thích của học sinh", "Nơi sinh của các nhân viên", "Xếp loại hạnh kiểm (Tốt, Khá, TB)"],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "Biến cố chắc chắn có xác suất bằng bao nhiêu?",
-      "a": ["1", "0", "0,5", "100"],
+      "q": "Dữ liệu nào sau đây là dữ liệu không là số (dữ liệu định tính)?",
+      "a": ["Tên các loại trái cây yêu thích", "Số lượng học sinh nghỉ học", "Điểm thi môn Toán", "Nhiệt độ trung bình tháng"],
       "correct": 0
     },
     {
       "id": 3,
-      "q": "Biến cố không thể có xác suất bằng bao nhiêu?",
-      "a": ["0", "1", "0,5", "-1"],
+      "q": "Để biểu diễn sự thay đổi của một đại lượng theo thời gian, ta thường dùng biểu đồ nào nhất?",
+      "a": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ cột", "Biểu đồ tranh"],
       "correct": 0
     },
     {
       "id": 4,
-      "q": "Công thức tính xác suất lí thuyết của biến cố A trong trò chơi đơn giản là:",
-      "a": ["$P(A) = \\frac{\\text{Số kết quả thuận lợi}}{\\text{Tổng số kết quả có thể}}$", "$P(A) = \\frac{\\text{Tổng số kết quả có thể}}{\\text{Số kết quả thuận lợi}}$", "$P(A) = \\text{Số kết quả thuận lợi} \\times 100$", "$P(A) = \\text{Tổng số kết quả} - \\text{Số kết quả thuận lợi}$"],
+      "q": "Để so sánh số liệu của hai đối tượng trên cùng một tiêu chí qua các năm, biểu đồ nào thích hợp nhất?",
+      "a": ["Biểu đồ cột kép", "Biểu đồ hình quạt tròn", "Biểu đồ đoạn thẳng đơn", "Biểu đồ tranh"],
       "correct": 0
     },
     {
       "id": 5,
-      "q": "Gieo một con xúc xắc cân đối 6 mặt. Số kết quả có thể xảy ra là:",
-      "a": ["6", "1", "36", "12"],
+      "q": "Biểu đồ hình quạt tròn thường được dùng để làm gì?",
+      "a": ["Biểu diễn tỉ lệ phần trăm của từng phần trong tổng thể", "So sánh độ lớn giữa các đại lượng độc lập", "Thể hiện sự biến thiên theo thời gian", "Đếm số lượng phần tử"],
       "correct": 0
     },
     {
       "id": 6,
-      "q": "Tung một đồng xu cân đối 1 lần. Tập hợp các kết quả có thể xảy ra là:",
-      "a": ["{Sấp; Ngửa}", "{Sấp}", "{Ngửa}", "{Sấp; Sấp}"],
+      "q": "Tổng các thành phần phần trăm trong một biểu đồ hình quạt tròn phải bằng bao nhiêu?",
+      "a": ["100%", "90%", "360%", "10%"],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "Trong một lồng cầu xổ số chứa các quả bóng từ 1 đến 10. Biến cố 'Lấy được quả bóng số 11' là:",
-      "a": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Biến cố sơ cấp"],
+      "q": "Trong các phương pháp thu thập dữ liệu sau, phương pháp nào là thu thập gián tiếp?",
+      "a": ["Lấy số liệu từ Niên giám thống kê", "Phỏng vấn trực tiếp", "Quan sát và ghi chép", "Làm thí nghiệm và đo đạc"],
       "correct": 0
     },
     {
       "id": 8,
-      "q": "Gieo xúc xắc, biến cố 'Số chấm xuất hiện nhỏ hơn 7' là:",
-      "a": ["Biến cố chắc chắn", "Biến cố không thể", "Biến cố ngẫu nhiên", "Biến cố sơ cấp"],
+      "q": "Dữ liệu nào sau đây được coi là không hợp lí (phi thực tế) khi nói về tuổi của con người?",
+      "a": ["-5 tuổi", "15 tuổi", "80 tuổi", "1 tuổi"],
       "correct": 0
     },
     {
       "id": 9,
-      "q": "Xác suất thực nghiệm phụ thuộc vào yếu tố nào?",
-      "a": ["Người thực hiện và số lần thực nghiệm", "Chỉ phụ thuộc vào lý thuyết", "Luôn cố định không đổi", "Không phụ thuộc vào số lần thử"],
+      "q": "Trục ngang của biểu đồ cột thường biểu diễn yếu tố gì?",
+      "a": ["Các danh mục/đối tượng thống kê", "Số lượng", "Tỉ lệ phần trăm", "Tần số"],
       "correct": 0
     },
     {
       "id": 10,
-      "q": "Khi số lần thực nghiệm càng lớn, xác suất thực nghiệm của một biến cố sẽ:",
-      "a": ["Càng gần với xác suất lí thuyết của biến cố đó", "Càng xa rời xác suất lí thuyết", "Bằng 0", "Bằng 1"],
+      "q": "Trục đứng của biểu đồ đoạn thẳng thường biểu diễn yếu tố gì?",
+      "a": ["Độ lớn của đại lượng quan tâm", "Thời gian", "Tên các đối tượng", "Tiêu đề biểu đồ"],
       "correct": 0
     },
     {
       "id": 11,
-      "q": "Gieo một con xúc xắc. Xác suất xuất hiện mặt 5 chấm là:",
-      "a": ["$\\frac{1}{6}$", "$\\frac{5}{6}$", "$\\frac{1}{5}$", "$1$"],
+      "q": "Muốn biết tỉ lệ học sinh đi xe buýt, xe đạp, đi bộ so với cả lớp, ta nên dùng biểu đồ nào?",
+      "a": ["Biểu đồ hình quạt tròn", "Biểu đồ đoạn thẳng", "Biểu đồ cột kép", "Biểu đồ cột đơn"],
       "correct": 0
     },
     {
       "id": 12,
-      "q": "Gieo một con xúc xắc. Xác suất xuất hiện mặt có số chấm chẵn là:",
-      "a": ["$\\frac{3}{6} = 0,5$", "$\\frac{1}{6}$", "$\\frac{2}{6}$", "$\\frac{4}{6}$"],
+      "q": "Để so sánh doanh thu của công ty A và công ty B trong 4 quý của năm, nên dùng biểu đồ:",
+      "a": ["Biểu đồ cột kép", "Biểu đồ hình quạt tròn", "Biểu đồ tranh", "Biểu đồ cột chồng"],
       "correct": 0
     },
     {
       "id": 13,
-      "q": "Gieo một con xúc xắc. Xác suất xuất hiện mặt có số chấm lớn hơn 4 là:",
-      "a": ["$\\frac{2}{6} = \\frac{1}{3}$", "$\\frac{4}{6}$", "$\\frac{1}{6}$", "$\\frac{3}{6}$"],
+      "q": "Khi vẽ biểu đồ đoạn thẳng, các điểm mốc thời gian thường được sắp xếp như thế nào?",
+      "a": ["Theo thứ tự từ trái sang phải trên trục hoành", "Sắp xếp ngẫu nhiên", "Theo thứ tự từ trên xuống dưới", "Theo độ lớn của dữ liệu"],
       "correct": 0
     },
     {
       "id": 14,
-      "q": "Một hộp có 3 bi Xanh, 4 bi Đỏ, 3 bi Vàng. Tổng số kết quả có thể khi lấy ngẫu nhiên 1 bi là:",
-      "a": ["10", "3", "4", "7"],
+      "q": "Một bảng thống kê về các loại nhạc cụ yêu thích gồm: Piano, Guitar, Violin. Dữ liệu này thuộc loại:",
+      "a": ["Dữ liệu định tính", "Dữ liệu định lượng rời rạc", "Dữ liệu định lượng liên tục", "Số liệu đo lường"],
       "correct": 0
     },
     {
       "id": 15,
-      "q": "Một hộp có 3 bi Xanh, 7 bi Đỏ. Xác suất lấy được bi Xanh là:",
-      "a": ["$\\frac{3}{10}$", "$\\frac{7}{10}$", "$\\frac{3}{7}$", "$\\frac{1}{2}$"],
+      "q": "Số học sinh của 4 lớp 8A, 8B, 8C, 8D lần lượt là: 40, 42, 38, 45. Dữ liệu này là:",
+      "a": ["Số liệu (định lượng)", "Dữ liệu định tính", "Dữ liệu liên tục", "Dữ liệu thứ bậc"],
       "correct": 0
     },
     {
       "id": 16,
-      "q": "Bộ bài Tây 52 lá. Rút ngẫu nhiên 1 lá. Xác suất rút được lá Át (A) là:",
-      "a": ["$\\frac{4}{52} = \\frac{1}{13}$", "$\\frac{1}{52}$", "$\\frac{13}{52}$", "$\\frac{2}{52}$"],
+      "q": "Trong biểu đồ cột, độ cao của cột biểu thị điều gì?",
+      "a": ["Số liệu thống kê của đối tượng tương ứng", "Thời gian thu thập", "Tên của đối tượng", "Đơn vị đo"],
       "correct": 0
     },
     {
       "id": 17,
-      "q": "Gieo xúc xắc. Các kết quả thuận lợi cho biến cố 'Số chấm là số nguyên tố' gồm:",
-      "a": ["2, 3, 5", "1, 2, 3", "1, 3, 5", "2, 4, 6"],
+      "q": "Nếu muốn thể hiện nhiệt độ trung bình của Hà Nội thay đổi thế nào từ tháng 1 đến tháng 12, biểu đồ tối ưu là:",
+      "a": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ cột kép", "Biểu đồ tranh"],
       "correct": 0
     },
     {
       "id": 18,
-      "q": "Tung đồng xu 20 lần, có 12 lần mặt Ngửa. Xác suất thực nghiệm của mặt Ngửa là:",
-      "a": ["$\\frac{12}{20} = 0,6$", "$\\frac{8}{20}$", "$0,5$", "$12$"],
+      "q": "Khẳng định nào sau đây sai khi nói về biểu đồ hình quạt tròn?",
+      "a": ["Có thể dùng để biểu diễn sự thay đổi theo thời gian rất tốt", "Biểu diễn cơ cấu, tỉ lệ các phần trong tổng thể", "Tổng các phần trăm phải là 100%", "Hình tròn đại diện cho toàn bộ dữ liệu"],
       "correct": 0
     },
     {
       "id": 19,
-      "q": "Tung đồng xu 20 lần, có 12 lần mặt Ngửa. Xác suất thực nghiệm của mặt Sấp là:",
-      "a": ["$\\frac{8}{20} = 0,4$", "$\\frac{12}{20}$", "$0,5$", "$8$"],
+      "q": "Dữ liệu về 'Size áo' (S, M, L, XL) của khách hàng là loại dữ liệu nào?",
+      "a": ["Dữ liệu không là số", "Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu đo đạc"],
       "correct": 0
     },
     {
       "id": 20,
-      "q": "Chọn ngẫu nhiên một số từ tập hợp $M = \\{1; 2; 3; 4; 5\\}$. Xác suất chọn được số lẻ là:",
-      "a": ["$\\frac{3}{5}$", "$\\frac{2}{5}$", "$\\frac{1}{5}$", "$\\frac{4}{5}$"],
+      "q": "Bạn Lan ghi chép lại màu xe của các xe máy đi qua cổng trường: Đỏ, Xanh, Trắng, Đen, Đỏ... Phương pháp thu thập này là:",
+      "a": ["Quan sát", "Phỏng vấn", "Làm thí nghiệm", "Tra cứu tài liệu"],
       "correct": 0
     },
     {
       "id": 21,
-      "q": "Trong hộp bút có 2 bút đen và 8 bút xanh. Xác suất lấy được bút đen là:",
-      "a": ["0,2", "0,8", "0,25", "0,5"],
+      "q": "Trong bảng số liệu sau, giá trị nào là bất hợp lí? Số ngày nghỉ học của học sinh: 0, 1, 2, 1000.",
+      "a": ["1000", "0", "2", "1"],
       "correct": 0
     },
     {
       "id": 22,
-      "q": "Nếu xác suất của biến cố A là $P(A) = 0,75$, thì khả năng xảy ra của A là:",
-      "a": ["Rất cao (75%)", "Thấp", "Không thể xảy ra", "Chắc chắn xảy ra"],
+      "q": "Biểu đồ nào dùng các hình chữ nhật dựng thẳng đứng để biểu diễn dữ liệu?",
+      "a": ["Biểu đồ cột", "Biểu đồ đoạn thẳng", "Biểu đồ hình quạt", "Biểu đồ điểm"],
       "correct": 0
     },
     {
       "id": 23,
-      "q": "Một lớp có 20 nam và 20 nữ. Chọn ngẫu nhiên 1 bạn làm lớp trưởng. Xác suất bạn đó là nữ là:",
-      "a": ["0,5", "0,25", "1", "0"],
+      "q": "Khi phân tích biểu đồ, bước đầu tiên thường là gì?",
+      "a": ["Đọc tiêu đề và chú thích để hiểu nội dung", "Tính toán ngay số liệu", "Tìm giá trị lớn nhất", "Vẽ lại biểu đồ"],
       "correct": 0
     },
     {
       "id": 24,
-      "q": "Gieo xúc xắc. Xác suất để số chấm chia hết cho 3 là:",
-      "a": ["$\\frac{2}{6}$", "$\\frac{3}{6}$", "$\\frac{1}{6}$", "$\\frac{4}{6}$"],
+      "q": "Một biểu đồ hình quạt tròn chia thành 4 phần: 25%, 35%, 10% và x%. Giá trị của x là:",
+      "a": ["30", "20", "40", "100"],
       "correct": 0
     },
     {
       "id": 25,
-      "q": "Chọn ngẫu nhiên một chữ cái trong từ 'TOAN'. Xác suất chọn được chữ 'A' là:",
-      "a": ["$\\frac{1}{4}$", "$\\frac{1}{3}$", "$\\frac{1}{2}$", "$\\frac{2}{4}$"],
+      "q": "Để biểu diễn sản lượng lúa (tấn) của một tỉnh trong 5 năm liên tiếp, biểu đồ nào phù hợp?",
+      "a": ["Biểu đồ cột hoặc biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ tranh", "Biểu đồ điểm"],
       "correct": 0
     },
     {
       "id": 26,
-      "q": "Chọn ngẫu nhiên một chữ cái trong từ 'HOA HONG'. Tổng số kết quả có thể là:",
-      "a": ["7", "8", "6", "9"],
+      "q": "Trong biểu đồ cột kép, mỗi nhóm đối tượng trên trục hoành có bao nhiêu cột?",
+      "a": ["2 cột", "1 cột", "3 cột", "4 cột"],
       "correct": 0
     },
     {
       "id": 27,
-      "q": "Một hộp có các thẻ số từ 1 đến 20. Xác suất rút được thẻ số 25 là:",
-      "a": ["0", "1", "0,5", "0,05"],
+      "q": "Dữ liệu thống kê được chia làm mấy loại chính?",
+      "a": ["2 loại (Số liệu và Dữ liệu không là số)", "1 loại", "3 loại", "4 loại"],
       "correct": 0
     },
     {
       "id": 28,
-      "q": "Một hộp có các thẻ số từ 1 đến 10. Biến cố 'Rút được số nhỏ hơn 11' có xác suất là:",
-      "a": ["1", "0", "0,9", "0,1"],
+      "q": "Danh sách các môn thể thao: Bóng đá, Cầu lông, Bơi lội. Đây là dữ liệu dạng:",
+      "a": ["Chữ (Từ)", "Số nguyên", "Số thực", "Kí hiệu toán học"],
       "correct": 0
     },
     {
       "id": 29,
-      "q": "Trong trò chơi vòng quay may mắn có 4 ô: Xanh, Đỏ, Tím, Vàng (diện tích bằng nhau). Xác suất quay vào ô Đỏ là:",
-      "a": ["25%", "50%", "75%", "10%"],
+      "q": "Khi vẽ biểu đồ cột, khoảng cách giữa các cột (hoặc cụm cột) phải như thế nào?",
+      "a": ["Đều nhau", "Tùy ý", "Lớn dần", "Nhỏ dần"],
       "correct": 0
     },
     {
       "id": 30,
-      "q": "Gieo xúc xắc 100 lần, mặt 1 chấm xuất hiện 15 lần. Xác suất thực nghiệm của mặt 1 chấm là:",
-      "a": ["0,15", "0,015", "1,5", "15"],
+      "q": "Chú giải (chú thích) trong biểu đồ có tác dụng gì?",
+      "a": ["Giải thích ý nghĩa của các màu sắc, kí hiệu", "Làm đẹp biểu đồ", "Tăng kích thước biểu đồ", "Thay thế tiêu đề"],
       "correct": 0
     },
     {
       "id": 31,
-      "q": "Một hộp chứa 5 quả cầu trắng và 5 quả cầu đen. Lấy ngẫu nhiên 1 quả. Xác suất quả cầu đó KHÔNG phải màu trắng là:",
-      "a": ["0,5", "1", "0", "0,2"],
+      "q": "Nếu biểu đồ đoạn thẳng có đường đi lên từ trái sang phải, điều đó thể hiện xu hướng gì?",
+      "a": ["Tăng", "Giảm", "Không đổi", "Biến động mạnh"],
       "correct": 0
     },
     {
       "id": 32,
-      "q": "Từ các số 1, 2, ..., 9. Chọn ngẫu nhiên 1 số. Xác suất chọn được số chia hết cho 5 là:",
-      "a": ["$\\frac{1}{9}$", "$\\frac{2}{9}$", "$\\frac{5}{9}$", "$\\frac{1}{5}$"],
+      "q": "Nếu biểu đồ đoạn thẳng nằm ngang, điều đó thể hiện xu hướng gì?",
+      "a": ["Ổn định (không đổi)", "Tăng", "Giảm", "Tăng rồi giảm"],
       "correct": 0
     },
     {
       "id": 33,
-      "q": "Biến cố đối của biến cố 'Tung được mặt Ngửa' là:",
-      "a": ["Tung được mặt Sấp", "Tung được mặt Ngửa", "Không tung được mặt nào", "Đồng xu đứng thẳng"],
+      "q": "Trong một cuộc khảo sát về phương tiện đi học, câu hỏi nào sau đây thu được dữ liệu định tính?",
+      "a": ["Bạn đi học bằng phương tiện gì?", "Bạn mất bao nhiêu phút để đến trường?", "Nhà bạn cách trường bao nhiêu km?", "Mỗi tháng bạn đi học bao nhiêu ngày?"],
       "correct": 0
     },
     {
       "id": 34,
-      "q": "Trong hộp có 1 bóng xanh, 1 bóng đỏ, 1 bóng vàng. Xác suất lấy được bóng đỏ là:",
-      "a": ["$\\frac{1}{3}$", "$\\frac{1}{2}$", "$\\frac{2}{3}$", "$1$"],
+      "q": "Một biểu đồ tròn biểu diễn kết quả học tập gồm: Giỏi (30%), Khá (45%), Trung bình (25%). Tổng số học sinh là 40. Số học sinh Giỏi là:",
+      "a": ["12", "18", "10", "30"],
       "correct": 0
     },
     {
       "id": 35,
-      "q": "Để ước lượng số cá trong hồ, người ta bắt 100 con, đánh dấu rồi thả lại. Sau đó bắt 100 con thấy có 10 con có dấu. Ước lượng số cá trong hồ:",
-      "a": ["1000 con", "100 con", "500 con", "2000 con"],
+      "q": "Dữ liệu nào sau đây là số liệu liên tục?",
+      "a": ["Cân nặng của trẻ sơ sinh (kg)", "Số người trong một gia đình", "Số bàn thắng trong một trận đấu", "Số quyển sách trong cặp"],
       "correct": 0
     },
     {
       "id": 36,
-      "q": "Xác suất thực nghiệm của biến cố 'Mặt 6 chấm' khi gieo xúc xắc 60 lần là 12/60. Số lần xuất hiện mặt 6 chấm là:",
-      "a": ["12 lần", "10 lần", "6 lần", "60 lần"],
+      "q": "Biểu đồ nào không thích hợp để biểu diễn dữ liệu về tỉ lệ phần trăm?",
+      "a": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ cột chồng (100%)", "Biểu đồ ô vuông (Tree map)"],
       "correct": 0
     },
     {
       "id": 37,
-      "q": "Một hộp có 10 viên bi. Bạn An lấy ngẫu nhiên, xem màu rồi trả lại. Thực hiện 20 lần thấy 4 lần được bi Đỏ. Hãy dự đoán số bi Đỏ trong hộp.",
-      "a": ["Khoảng 2 viên", "Khoảng 4 viên", "Khoảng 5 viên", "Khoảng 1 viên"],
+      "q": "Muốn so sánh dân số Việt Nam và Thái Lan qua các năm 2019, 2020, 2021, dùng biểu đồ nào tốt nhất?",
+      "a": ["Biểu đồ cột kép", "Biểu đồ hình quạt tròn", "Biểu đồ tranh", "Biểu đồ cột đơn"],
       "correct": 0
     },
     {
       "id": 38,
-      "q": "Nếu $P(A) = 0,4$. Trong 1000 lần thử, biến cố A dự kiến xuất hiện khoảng bao nhiêu lần?",
-      "a": ["400 lần", "600 lần", "40 lần", "100 lần"],
+      "q": "Việc đầu tiên khi muốn có bảng thống kê là gì?",
+      "a": ["Thu thập dữ liệu", "Vẽ biểu đồ", "Tính toán số liệu", "Viết báo cáo"],
       "correct": 0
     },
     {
       "id": 39,
-      "q": "Gieo xúc xắc. Xác suất ra mặt có số chấm là số chính phương (1, 4) là:",
-      "a": ["$\\frac{2}{6} = \\frac{1}{3}$", "$\\frac{1}{6}$", "$\\frac{3}{6}$", "$\\frac{4}{6}$"],
+      "q": "Số liệu nào sau đây là không hợp lí cho dữ liệu 'Thời gian chạy 100m của học sinh lớp 8'?",
+      "a": ["2 giây", "13 giây", "15 giây", "20 giây"],
       "correct": 0
     },
     {
       "id": 40,
-      "q": "Trong hộp có 100 tấm thẻ đánh số từ 1 đến 100. Xác suất rút được thẻ có số tận cùng là 0 (10, 20..., 100) là:",
-      "a": ["$\\frac{10}{100} = \\frac{1}{10}$", "$\\frac{1}{100}$", "$\\frac{9}{100}$", "$\\frac{5}{100}$"],
+      "q": "Phát hiện vấn đề trong dữ liệu sau: Số học sinh yêu thích Toán: 50%, Văn: 40%, Anh: 20%.",
+      "a": ["Tổng tỉ lệ vượt quá 100%", "Tỉ lệ môn Toán quá cao", "Không có môn Thể dục", "Dữ liệu quá ít"],
       "correct": 0
     },
     {
       "id": 41,
-      "q": "Một xạ thủ bắn 100 phát, trúng tâm 85 phát. Xác suất thực nghiệm của biến cố 'Bắn trúng tâm' là:",
-      "a": ["0,85", "0,15", "85", "100"],
+      "q": "Trên biểu đồ cột, cột cao nhất tương ứng với:",
+      "a": ["Giá trị lớn nhất", "Giá trị nhỏ nhất", "Giá trị trung bình", "Giá trị đầu tiên"],
       "correct": 0
     },
     {
       "id": 42,
-      "q": "Một xạ thủ bắn 100 phát, trúng tâm 85 phát. Xác suất thực nghiệm của biến cố 'Bắn trượt' là:",
-      "a": ["0,15", "0,85", "15", "1"],
+      "q": "Để biết môn học nào được yêu thích nhất trong lớp qua biểu đồ cột, ta nhìn vào:",
+      "a": ["Cột cao nhất", "Cột thấp nhất", "Cột ở giữa", "Cột đầu tiên"],
       "correct": 0
     },
     {
       "id": 43,
-      "q": "Có 4 tấm bìa ghi chữ H, O, C, T. Rút ngẫu nhiên 1 tấm. Xác suất rút được chữ cái nguyên âm (O) là:",
-      "a": ["$\\frac{1}{4}$", "$\\frac{3}{4}$", "$\\frac{1}{2}$", "$\\frac{2}{4}$"],
+      "q": "Dữ liệu 'Điểm trung bình môn Toán' của lớp 8A: 6.5; 7.0; 8.2; 9.5; 11.0. Giá trị nào bất thường?",
+      "a": ["11.0", "9.5", "6.5", "8.2"],
       "correct": 0
     },
     {
       "id": 44,
-      "q": "Gieo 2 đồng xu cùng lúc. Xác suất để cả 2 đều Sấp là:",
-      "a": ["$\\frac{1}{4}$", "$\\frac{1}{2}$", "$\\frac{1}{3}$", "$\\frac{3}{4}$"],
+      "q": "Khi muốn biểu diễn hai tập dữ liệu có đơn vị đo khác nhau trên cùng một biểu đồ (ví dụ: Nhiệt độ và Lượng mưa), người ta thường dùng:",
+      "a": ["Biểu đồ kết hợp (Cột và Đường)", "Biểu đồ hình quạt", "Biểu đồ tranh", "Biểu đồ cột kép thông thường"],
       "correct": 0
     },
     {
       "id": 45,
-      "q": "Gieo 2 đồng xu cùng lúc. Số kết quả có thể xảy ra là:",
-      "a": ["4 (SS, SN, NS, NN)", "2 (S, N)", "3 (SS, SN, NN)", "1"],
+      "q": "Tần số của một giá trị trong bảng thống kê là gì?",
+      "a": ["Số lần xuất hiện của giá trị đó", "Giá trị đó cộng lại", "Tỉ lệ phần trăm của giá trị đó", "Vị trí của giá trị đó"],
       "correct": 0
     },
     {
       "id": 46,
-      "q": "Một túi kẹo có 20% kẹo Chanh, 30% kẹo Cam, 50% kẹo Dâu. Xác suất lấy ngẫu nhiên được kẹo Dâu là:",
-      "a": ["0,5", "0,2", "0,3", "0,8"],
+      "q": "Biểu đồ hình quạt tròn biểu diễn 3 nhóm A, B, C. Nếu góc của nhóm A là 90 độ thì nhóm A chiếm bao nhiêu phần trăm?",
+      "a": ["25%", "50%", "75%", "10%"],
       "correct": 0
     },
     {
       "id": 47,
-      "q": "Trong một lô hàng 1000 sản phẩm, kiểm tra ngẫu nhiên 50 sản phẩm thấy có 2 phế phẩm. Ước lượng số phế phẩm trong cả lô hàng.",
-      "a": ["Khoảng 40 sản phẩm", "Khoảng 20 sản phẩm", "Khoảng 100 sản phẩm", "Khoảng 4 sản phẩm"],
+      "q": "Biểu đồ hình quạt tròn biểu diễn 3 nhóm A, B, C. Nếu nhóm B chiếm 50% thì góc ở tâm tương ứng là:",
+      "a": ["$180^\\circ$", "$90^\\circ$", "$360^\\circ$", "$45^\\circ$"],
       "correct": 0
     },
     {
       "id": 48,
-      "q": "Cho tập hợp $A = \\{x \\in \\mathbb{N} | x < 5\\}$. Chọn ngẫu nhiên một số. Xác suất chọn được số 0 là:",
-      "a": ["$\\frac{1}{5}$", "$\\frac{1}{4}$", "0", "$\\frac{1}{6}$"],
+      "q": "Để kiểm tra xem dữ liệu thu thập được có đáng tin cậy không, ta cần xem xét:",
+      "a": ["Nguồn gốc và phương pháp thu thập", "Màu sắc biểu đồ", "Font chữ trình bày", "Tên người lập bảng"],
       "correct": 0
     },
     {
       "id": 49,
-      "q": "Một hộp chứa 5 bi xanh và một số bi đỏ. Biết xác suất lấy được bi xanh là 1/3. Hỏi hộp có bao nhiêu bi đỏ?",
-      "a": ["10 bi đỏ", "5 bi đỏ", "15 bi đỏ", "20 bi đỏ"],
+      "q": "Số liệu 'Tổng số huy chương vàng' của các đoàn thể thao tại SEA Games nên dùng biểu đồ nào để so sánh?",
+      "a": ["Biểu đồ cột", "Biểu đồ đoạn thẳng", "Biểu đồ hình quạt (nếu không cần so sánh tổng thể)", "Biểu đồ miền"],
       "correct": 0
     },
     {
       "id": 50,
-      "q": "Gieo xúc xắc. Xác suất để số chấm lớn hơn 2 là:",
-      "a": ["$\\frac{4}{6}$", "$\\frac{2}{6}$", "$\\frac{3}{6}$", "$\\frac{5}{6}$"],
+      "q": "Trong biểu đồ đoạn thẳng, trục hoành thường chia các mốc thời gian:",
+      "a": ["Theo tỉ lệ tương ứng với khoảng thời gian", "Cách đều nhau bất kể thời gian", "Tùy ý người vẽ", "Ngược chiều kim đồng hồ"],
       "correct": 0
     },
     {
       "id": 51,
-      "q": "Một hộp có 12 thẻ đánh số 1 đến 12. Xác suất rút được thẻ chia hết cho 3 (3, 6, 9, 12) là:",
-      "a": ["$\\frac{4}{12} = \\frac{1}{3}$", "$\\frac{3}{12}$", "$\\frac{6}{12}$", "$\\frac{2}{12}$"],
+      "q": "(Vận dụng) Lớp 8A có 40 học sinh. 50% thích bóng đá, 25% thích cầu lông. Số học sinh thích môn khác là:",
+      "a": ["10 học sinh", "20 học sinh", "5 học sinh", "15 học sinh"],
       "correct": 0
     },
     {
       "id": 52,
-      "q": "Tung đồng xu 3 lần. Số kết quả có thể xảy ra là:",
-      "a": ["8", "6", "3", "9"],
+      "q": "(Vận dụng) Biểu đồ cột cho thấy lượng mưa tháng 6 là 100mm, tháng 7 là 120mm. Lượng mưa tăng bao nhiêu mm?",
+      "a": ["20mm", "220mm", "100mm", "120mm"],
       "correct": 0
     },
     {
       "id": 53,
-      "q": "Lớp 8A có 30 học sinh, trong đó có 10 học sinh Giỏi. Chọn ngẫu nhiên 1 bạn. Xác suất chọn được học sinh KHÔNG phải loại Giỏi là:",
-      "a": ["$\\frac{20}{30} = \\frac{2}{3}$", "$\\frac{1}{3}$", "$\\frac{10}{30}$", "$\\frac{1}{2}$"],
+      "q": "(Vận dụng) Doanh thu 3 tháng đầu năm lần lượt là: 10, 15, 20 (triệu đồng). Tổng doanh thu quý 1 là:",
+      "a": ["45 triệu", "35 triệu", "30 triệu", "50 triệu"],
       "correct": 0
     },
     {
       "id": 54,
-      "q": "Trong hộp có 100 viên bi. Bạn Minh muốn ước lượng số bi Đỏ nên lấy ngẫu nhiên 20 viên, thấy có 8 viên Đỏ. Tỉ lệ bi Đỏ ước lượng là:",
-      "a": ["40%", "8%", "20%", "50%"],
+      "q": "(Vận dụng) Trong biểu đồ hình quạt, phần 'Chi phí ăn uống' chiếm 40%. Nếu tổng chi phí là 10 triệu thì tiền ăn là bao nhiêu?",
+      "a": ["4 triệu", "6 triệu", "2 triệu", "5 triệu"],
       "correct": 0
     },
     {
       "id": 55,
-      "q": "Biến cố 'Tháng Hai năm sau có 30 ngày' là:",
-      "a": ["Biến cố không thể", "Biến cố ngẫu nhiên", "Biến cố chắc chắn", "Biến cố thường gặp"],
+      "q": "(Vận dụng) Biểu đồ đoạn thẳng biểu diễn nhiệt độ: 8h (20 độ), 10h (25 độ), 12h (30 độ). Nhiệt độ tăng trung bình mỗi giờ trong khoảng 8h-10h là:",
+      "a": ["2,5 độ/giờ", "5 độ/giờ", "2 độ/giờ", "10 độ/giờ"],
       "correct": 0
     },
     {
       "id": 56,
-      "q": "Một cửa hàng có 50 chiếc áo, trong đó 5 chiếc bị lỗi. Xác suất mua phải áo lỗi là:",
-      "a": ["$\\frac{5}{50} = 0,1$", "0,5", "0,05", "0,01"],
+      "q": "(Vận dụng) Một cửa hàng bán được 100 áo, trong đó 20 áo lỗi. Tỉ lệ áo không lỗi là:",
+      "a": ["80%", "20%", "100%", "120%"],
       "correct": 0
     },
     {
       "id": 57,
-      "q": "Gieo xúc xắc 2 lần. Xác suất để tổng số chấm 2 lần gieo bằng 2 (1+1) là:",
-      "a": ["$\\frac{1}{36}$", "$\\frac{2}{36}$", "$\\frac{1}{12}$", "$\\frac{1}{6}$"],
+      "q": "(Vận dụng) Quan sát biểu đồ cột kép: Năm 2020 (Nam: 15, Nữ: 20). Năm 2021 (Nam: 18, Nữ: 22). Tổng số học sinh nữ trong 2 năm là:",
+      "a": ["42", "33", "37", "75"],
       "correct": 0
     },
     {
       "id": 58,
-      "q": "Trong một bài thi trắc nghiệm có 4 đáp án A, B, C, D. Chọn bừa 1 đáp án. Xác suất đúng là:",
-      "a": ["25%", "50%", "75%", "0%"],
+      "q": "(Vận dụng) Nếu biểu đồ quạt tròn có 2 phần bằng nhau và 1 phần còn lại chiếm 50%. Hai phần kia chiếm mỗi phần bao nhiêu %?",
+      "a": ["25%", "50%", "20%", "30%"],
       "correct": 0
     },
     {
       "id": 59,
-      "q": "Một hộp có 3 viên bi: Đỏ, Xanh, Vàng. Lấy ra 1 viên rồi trả lại, sau đó lấy tiếp 1 viên. Có bao nhiêu kết quả có thể xảy ra?",
-      "a": ["9", "6", "3", "1"],
+      "q": "(Vận dụng) Cho bảng dữ liệu: Tháng 1 (5 sản phẩm), Tháng 2 (10 sản phẩm), Tháng 3 (20 sản phẩm). Nhận xét nào đúng về xu hướng?",
+      "a": ["Tăng dần đều hoặc tăng nhanh", "Giảm dần", "Không đổi", "Tăng rồi giảm"],
       "correct": 0
     },
     {
       "id": 60,
-      "q": "Xác suất thực nghiệm của biến cố A là 0,6 trong 50 lần thử. Số lần biến cố A xuất hiện là:",
-      "a": ["30", "20", "40", "25"],
+      "q": "(Vận dụng) Một cuộc khảo sát 200 người, có 3/4 số người chọn màu Xanh. Số người chọn màu Xanh là:",
+      "a": ["150", "100", "50", "75"],
       "correct": 0
     }
   ]
