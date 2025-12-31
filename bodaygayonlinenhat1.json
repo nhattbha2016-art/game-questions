@@ -116,7 +116,7 @@
     },
     {
       "id": 20,
-      "q": "Chọn ngẫu nhiên một số từ tập hợp $M = \{1; 2; 3; 4; 5\}$. Xác suất chọn được số lẻ là:",
+      "q": "Chọn ngẫu nhiên một số từ tập hợp $M = {1; 2; 3; 4; 5}$. Xác suất chọn được số lẻ là:",
       "a": ["$\\frac{3}{5}$", "$\\frac{2}{5}$", "$\\frac{1}{5}$", "$\\frac{4}{5}$"],
       "correct": 0
     },
