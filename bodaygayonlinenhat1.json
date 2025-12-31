@@ -284,7 +284,7 @@
     },
     {
       "id": 48,
-      "q": "Cho tập hợp $A = \{x \\in \\mathbb{N} | x < 5\}$. Chọn ngẫu nhiên một số. Xác suất chọn được số 0 là:",
+      "q": "Cho tập hợp $A=\{x\in\mathbb{N}\mid x<5\}$  Chọn ngẫu nhiên một số. Xác suất chọn được số 0 là:",
       "a": ["$\\frac{1}{5}$ (vì tập A có 0,1,2,3,4)", "$\\frac{1}{4}$", "0", "$\\frac{1}{6}$"],
       "correct": 0
     },
