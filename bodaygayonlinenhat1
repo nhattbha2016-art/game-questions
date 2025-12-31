@@ -1,0 +1,364 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "q": "Xác suất của một biến cố A bất kì, kí hiệu là P(A), luôn thỏa mãn điều kiện nào?",
+      "a": ["$0 \\le P(A) \\le 1$", "$0 < P(A) < 1$", "$P(A) \\ge 1$", "$P(A) \\le 0$"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "q": "Biến cố chắc chắn có xác suất bằng bao nhiêu?",
+      "a": ["1", "0", "0,5", "100"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "q": "Biến cố không thể có xác suất bằng bao nhiêu?",
+      "a": ["0", "1", "0,5", "-1"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "q": "Công thức tính xác suất lí thuyết của biến cố A trong trò chơi đơn giản là:",
+      "a": ["$P(A) = \\frac{\\text{Số kết quả thuận lợi}}{\\text{Tổng số kết quả có thể}}$", "$P(A) = \\frac{\\text{Tổng số kết quả có thể}}{\\text{Số kết quả thuận lợi}}$", "$P(A) = \\text{Số kết quả thuận lợi} \\times 100$", "$P(A) = \\text{Tổng số kết quả} - \\text{Số kết quả thuận lợi}$"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "q": "Gieo một con xúc xắc cân đối 6 mặt. Số kết quả có thể xảy ra là:",
+      "a": ["6", "1", "36", "12"],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "q": "Tung một đồng xu cân đối 1 lần. Tập hợp các kết quả có thể xảy ra là:",
+      "a": ["{Sấp; Ngửa}", "{Sấp}", "{Ngửa}", "{Sấp; Sấp}"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "q": "Trong một lồng cầu xổ số chứa các quả bóng từ 1 đến 10. Biến cố 'Lấy được quả bóng số 11' là:",
+      "a": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Biến cố sơ cấp"],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "q": "Gieo xúc xắc, biến cố 'Số chấm xuất hiện nhỏ hơn 7' là:",
+      "a": ["Biến cố chắc chắn", "Biến cố không thể", "Biến cố ngẫu nhiên", "Biến cố sơ cấp"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "q": "Xác suất thực nghiệm phụ thuộc vào yếu tố nào?",
+      "a": ["Người thực hiện và số lần thực nghiệm", "Chỉ phụ thuộc vào lý thuyết", "Luôn cố định không đổi", "Không phụ thuộc vào số lần thử"],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "q": "Khi số lần thực nghiệm càng lớn, xác suất thực nghiệm của một biến cố sẽ:",
+      "a": ["Càng gần với xác suất lí thuyết của biến cố đó", "Càng xa rời xác suất lí thuyết", "Bằng 0", "Bằng 1"],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "q": "Gieo một con xúc xắc. Xác suất xuất hiện mặt 5 chấm là:",
+      "a": ["$\\frac{1}{6}$", "$\\frac{5}{6}$", "$\\frac{1}{5}$", "$1$"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "q": "Gieo một con xúc xắc. Xác suất xuất hiện mặt có số chấm chẵn là:",
+      "a": ["$\\frac{3}{6} = 0,5$", "$\\frac{1}{6}$", "$\\frac{2}{6}$", "$\\frac{4}{6}$"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "q": "Gieo một con xúc xắc. Xác suất xuất hiện mặt có số chấm lớn hơn 4 là:",
+      "a": ["$\\frac{2}{6} = \\frac{1}{3}$", "$\\frac{4}{6}$", "$\\frac{1}{6}$", "$\\frac{3}{6}$"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "q": "Một hộp có 3 bi Xanh, 4 bi Đỏ, 3 bi Vàng. Tổng số kết quả có thể khi lấy ngẫu nhiên 1 bi là:",
+      "a": ["10", "3", "4", "7"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "q": "Một hộp có 3 bi Xanh, 7 bi Đỏ. Xác suất lấy được bi Xanh là:",
+      "a": ["$\\frac{3}{10}$", "$\\frac{7}{10}$", "$\\frac{3}{7}$", "$\\frac{1}{2}$"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "q": "Bộ bài Tây 52 lá. Rút ngẫu nhiên 1 lá. Xác suất rút được lá Át (A) là:",
+      "a": ["$\\frac{4}{52} = \\frac{1}{13}$", "$\\frac{1}{52}$", "$\\frac{13}{52}$", "$\\frac{2}{52}$"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "q": "Gieo xúc xắc. Các kết quả thuận lợi cho biến cố 'Số chấm là số nguyên tố' gồm:",
+      "a": ["2, 3, 5", "1, 2, 3", "1, 3, 5", "2, 4, 6"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "q": "Tung đồng xu 20 lần, có 12 lần mặt Ngửa. Xác suất thực nghiệm của mặt Ngửa là:",
+      "a": ["$\\frac{12}{20} = 0,6$", "$\\frac{8}{20}$", "$0,5$", "$12$"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "q": "Tung đồng xu 20 lần, có 12 lần mặt Ngửa. Xác suất thực nghiệm của mặt Sấp là:",
+      "a": ["$\\frac{8}{20} = 0,4$", "$\\frac{12}{20}$", "$0,5$", "$8$"],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "q": "Chọn ngẫu nhiên một số từ tập hợp $M = \{1; 2; 3; 4; 5\}$. Xác suất chọn được số lẻ là:",
+      "a": ["$\\frac{3}{5}$", "$\\frac{2}{5}$", "$\\frac{1}{5}$", "$\\frac{4}{5}$"],
+      "correct": 0
+    },
+    {
+      "id": 21,
+      "q": "Trong hộp bút có 2 bút đen và 8 bút xanh. Xác suất lấy được bút đen là:",
+      "a": ["0,2", "0,8", "0,25", "0,5"],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "q": "Nếu xác suất của biến cố A là $P(A) = 0,75$, thì khả năng xảy ra của A là:",
+      "a": ["Rất cao (75%)", "Thấp", "Không thể xảy ra", "Chắc chắn xảy ra"],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "q": "Một lớp có 20 nam và 20 nữ. Chọn ngẫu nhiên 1 bạn làm lớp trưởng. Xác suất bạn đó là nữ là:",
+      "a": ["0,5", "0,25", "1", "0"],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "q": "Gieo xúc xắc. Xác suất để số chấm chia hết cho 3 là:",
+      "a": ["$\\frac{2}{6}$", "$\\frac{3}{6}$", "$\\frac{1}{6}$", "$\\frac{4}{6}$"],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "q": "Chọn ngẫu nhiên một chữ cái trong từ 'TOAN'. Xác suất chọn được chữ 'A' là:",
+      "a": ["$\\frac{1}{4}$", "$\\frac{1}{3}$", "$\\frac{1}{2}$", "$\\frac{2}{4}$"],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "q": "Chọn ngẫu nhiên một chữ cái trong từ 'HOA HONG'. Tổng số kết quả có thể là:",
+      "a": ["7", "8", "6", "9"],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "q": "Một hộp có các thẻ số từ 1 đến 20. Xác suất rút được thẻ số 25 là:",
+      "a": ["0", "1", "0,5", "0,05"],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "q": "Một hộp có các thẻ số từ 1 đến 10. Biến cố 'Rút được số nhỏ hơn 11' có xác suất là:",
+      "a": ["1", "0", "0,9", "0,1"],
+      "correct": 0
+    },
+    {
+      "id": 29,
+      "q": "Trong trò chơi vòng quay may mắn có 4 ô: Xanh, Đỏ, Tím, Vàng (diện tích bằng nhau). Xác suất quay vào ô Đỏ là:",
+      "a": ["25%", "50%", "75%", "10%"],
+      "correct": 0
+    },
+    {
+      "id": 30,
+      "q": "Gieo xúc xắc 100 lần, mặt 1 chấm xuất hiện 15 lần. Xác suất thực nghiệm của mặt 1 chấm là:",
+      "a": ["0,15", "0,015", "1,5", "15"],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "q": "Một hộp chứa 5 quả cầu trắng và 5 quả cầu đen. Lấy ngẫu nhiên 1 quả. Xác suất quả cầu đó KHÔNG phải màu trắng là:",
+      "a": ["0,5", "1", "0", "0,2"],
+      "correct": 0
+    },
+    {
+      "id": 32,
+      "q": "Từ các số 1, 2, ..., 9. Chọn ngẫu nhiên 1 số. Xác suất chọn được số chia hết cho 5 là:",
+      "a": ["$\\frac{1}{9}$", "$\\frac{2}{9}$", "$\\frac{5}{9}$", "$\\frac{1}{5}$"],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "q": "Biến cố đối của biến cố 'Tung được mặt Ngửa' là:",
+      "a": ["Tung được mặt Sấp", "Tung được mặt Ngửa", "Không tung được mặt nào", "Đồng xu đứng thẳng"],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "q": "Trong hộp có 1 bóng xanh, 1 bóng đỏ, 1 bóng vàng. Xác suất lấy được bóng đỏ là:",
+      "a": ["$\\frac{1}{3}$", "$\\frac{1}{2}$", "$\\frac{2}{3}$", "$1$"],
+      "correct": 0
+    },
+    {
+      "id": 35,
+      "q": "Để ước lượng số cá trong hồ, người ta bắt 100 con, đánh dấu rồi thả lại. Sau đó bắt 100 con thấy có 10 con có dấu. Ước lượng số cá trong hồ:",
+      "a": ["1000 con", "100 con", "500 con", "2000 con"],
+      "correct": 0
+    },
+    {
+      "id": 36,
+      "q": "Xác suất thực nghiệm của biến cố 'Mặt 6 chấm' khi gieo xúc xắc 60 lần là 12/60. Số lần xuất hiện mặt 6 chấm là:",
+      "a": ["12 lần", "10 lần", "6 lần", "60 lần"],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "q": "Một hộp có 10 viên bi. Bạn An lấy ngẫu nhiên, xem màu rồi trả lại. Thực hiện 20 lần thấy 4 lần được bi Đỏ. Hãy dự đoán số bi Đỏ trong hộp.",
+      "a": ["Khoảng 2 viên", "Khoảng 4 viên", "Khoảng 5 viên", "Khoảng 1 viên"],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "q": "Nếu $P(A) = 0,4$. Trong 1000 lần thử, biến cố A dự kiến xuất hiện khoảng bao nhiêu lần?",
+      "a": ["400 lần", "600 lần", "40 lần", "100 lần"],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "q": "Gieo xúc xắc. Xác suất ra mặt có số chấm là số chính phương (1, 4) là:",
+      "a": ["$\\frac{2}{6} = \\frac{1}{3}$", "$\\frac{1}{6}$", "$\\frac{3}{6}$", "$\\frac{4}{6}$"],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "q": "Trong hộp có 100 tấm thẻ đánh số từ 1 đến 100. Xác suất rút được thẻ có số tận cùng là 0 (10, 20..., 100) là:",
+      "a": ["$\\frac{10}{100} = \\frac{1}{10}$", "$\\frac{1}{100}$", "$\\frac{9}{100}$", "$\\frac{5}{100}$"],
+      "correct": 0
+    },
+    {
+      "id": 41,
+      "q": "Một xạ thủ bắn 100 phát, trúng tâm 85 phát. Xác suất thực nghiệm của biến cố 'Bắn trúng tâm' là:",
+      "a": ["0,85", "0,15", "85", "100"],
+      "correct": 0
+    },
+    {
+      "id": 42,
+      "q": "Một xạ thủ bắn 100 phát, trúng tâm 85 phát. Xác suất thực nghiệm của biến cố 'Bắn trượt' là:",
+      "a": ["0,15", "0,85", "15", "1"],
+      "correct": 0
+    },
+    {
+      "id": 43,
+      "q": "Có 4 tấm bìa ghi chữ H, O, C, T. Rút ngẫu nhiên 1 tấm. Xác suất rút được chữ cái nguyên âm (O) là:",
+      "a": ["$\\frac{1}{4}$", "$\\frac{3}{4}$", "$\\frac{1}{2}$", "$\\frac{2}{4}$"],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "q": "Gieo 2 đồng xu cùng lúc. Xác suất để cả 2 đều Sấp là:",
+      "a": ["$\\frac{1}{4}$", "$\\frac{1}{2}$", "$\\frac{1}{3}$", "$\\frac{3}{4}$"],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "q": "Gieo 2 đồng xu cùng lúc. Số kết quả có thể xảy ra là:",
+      "a": ["4 (SS, SN, NS, NN)", "2 (S, N)", "3 (SS, SN, NN)", "1"],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "q": "Một túi kẹo có 20% kẹo Chanh, 30% kẹo Cam, 50% kẹo Dâu. Xác suất lấy ngẫu nhiên được kẹo Dâu là:",
+      "a": ["0,5", "0,2", "0,3", "0,8"],
+      "correct": 0
+    },
+    {
+      "id": 47,
+      "q": "Trong một lô hàng 1000 sản phẩm, kiểm tra ngẫu nhiên 50 sản phẩm thấy có 2 phế phẩm. Ước lượng số phế phẩm trong cả lô hàng.",
+      "a": ["Khoảng 40 sản phẩm", "Khoảng 20 sản phẩm", "Khoảng 100 sản phẩm", "Khoảng 4 sản phẩm"],
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "q": "Cho tập hợp $A = \{x \\in \\mathbb{N} | x < 5\}$. Chọn ngẫu nhiên một số. Xác suất chọn được số 0 là:",
+      "a": ["$\\frac{1}{5}$ (vì tập A có 0,1,2,3,4)", "$\\frac{1}{4}$", "0", "$\\frac{1}{6}$"],
+      "correct": 0
+    },
+    {
+      "id": 49,
+      "q": "Một hộp chứa 5 bi xanh và một số bi đỏ. Biết xác suất lấy được bi xanh là 1/3. Hỏi hộp có bao nhiêu bi đỏ?",
+      "a": ["10 bi đỏ", "5 bi đỏ", "15 bi đỏ", "20 bi đỏ"],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "q": "Gieo xúc xắc. Xác suất để số chấm lớn hơn 2 là:",
+      "a": ["$\\frac{4}{6}$", "$\\frac{2}{6}$", "$\\frac{3}{6}$", "$\\frac{5}{6}$"],
+      "correct": 0
+    },
+    {
+      "id": 51,
+      "q": "Một hộp có 12 thẻ đánh số 1 đến 12. Xác suất rút được thẻ chia hết cho 3 (3, 6, 9, 12) là:",
+      "a": ["$\\frac{4}{12} = \\frac{1}{3}$", "$\\frac{3}{12}$", "$\\frac{6}{12}$", "$\\frac{2}{12}$"],
+      "correct": 0
+    },
+    {
+      "id": 52,
+      "q": "Tung đồng xu 3 lần. Số kết quả có thể xảy ra là:",
+      "a": ["8", "6", "3", "9"],
+      "correct": 0
+    },
+    {
+      "id": 53,
+      "q": "Lớp 8A có 30 học sinh, trong đó có 10 học sinh Giỏi. Chọn ngẫu nhiên 1 bạn. Xác suất chọn được học sinh KHÔNG phải loại Giỏi là:",
+      "a": ["$\\frac{20}{30} = \\frac{2}{3}$", "$\\frac{1}{3}$", "$\\frac{10}{30}$", "$\\frac{1}{2}$"],
+      "correct": 0
+    },
+    {
+      "id": 54,
+      "q": "Trong hộp có 100 viên bi. Bạn Minh muốn ước lượng số bi Đỏ nên lấy ngẫu nhiên 20 viên, thấy có 8 viên Đỏ. Tỉ lệ bi Đỏ ước lượng là:",
+      "a": ["40%", "8%", "20%", "50%"],
+      "correct": 0
+    },
+    {
+      "id": 55,
+      "q": "Biến cố 'Tháng Hai năm sau có 30 ngày' là:",
+      "a": ["Biến cố không thể", "Biến cố ngẫu nhiên", "Biến cố chắc chắn", "Biến cố thường gặp"],
+      "correct": 0
+    },
+    {
+      "id": 56,
+      "q": "Một cửa hàng có 50 chiếc áo, trong đó 5 chiếc bị lỗi. Xác suất mua phải áo lỗi là:",
+      "a": ["$\\frac{5}{50} = 0,1$", "0,5", "0,05", "0,01"],
+      "correct": 0
+    },
+    {
+      "id": 57,
+      "q": "Gieo xúc xắc 2 lần. Xác suất để tổng số chấm 2 lần gieo bằng 2 (1+1) là:",
+      "a": ["$\\frac{1}{36}$", "$\\frac{2}{36}$", "$\\frac{1}{12}$", "$\\frac{1}{6}$"],
+      "correct": 0
+    },
+    {
+      "id": 58,
+      "q": "Trong một bài thi trắc nghiệm có 4 đáp án A, B, C, D. Chọn bừa 1 đáp án. Xác suất đúng là:",
+      "a": ["25%", "50%", "75%", "0%"],
+      "correct": 0
+    },
+    {
+      "id": 59,
+      "q": "Một hộp có 3 viên bi: Đỏ, Xanh, Vàng. Lấy ra 1 viên rồi trả lại, sau đó lấy tiếp 1 viên. Có bao nhiêu kết quả có thể xảy ra?",
+      "a": ["9", "6", "3", "1"],
+      "correct": 0
+    },
+    {
+      "id": 60,
+      "q": "Xác suất thực nghiệm của biến cố A là 0,6 trong 50 lần thử. Số lần biến cố A xuất hiện là:",
+      "a": ["30", "20", "40", "25"],
+      "correct": 0
+    }
+  ]
+}
