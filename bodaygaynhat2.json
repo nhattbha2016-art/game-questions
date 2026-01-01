@@ -2,363 +2,363 @@
   "questions": [
     {
       "id": 1,
-      "q": "Dữ liệu nào sau đây là số liệu (dữ liệu định lượng)?",
-      "a": ["Chiều cao của các học sinh trong lớp (cm)", "Màu sắc ưa thích của học sinh", "Nơi sinh của các nhân viên", "Xếp loại hạnh kiểm (Tốt, Khá, TB)"],
+      "q": "Số đối của số -7 là:",
+      "a": ["7", "-7", "0", "1/7"],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "Dữ liệu nào sau đây là dữ liệu không là số (dữ liệu định tính)?",
-      "a": ["Tên các loại trái cây yêu thích", "Số lượng học sinh nghỉ học", "Điểm thi môn Toán", "Nhiệt độ trung bình tháng"],
-      "correct": 0
+      "q": "Số đối của số 15 là:",
+      "a": ["15", "-15", "0", "51"],
+      "correct": 1
     },
     {
       "id": 3,
-      "q": "Để biểu diễn sự thay đổi của một đại lượng theo thời gian, ta thường dùng biểu đồ nào nhất?",
-      "a": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ cột", "Biểu đồ tranh"],
-      "correct": 0
+      "q": "Số nguyên âm nhỏ nhất có 1 chữ số là:",
+      "a": ["-1", "-9", "0", "1"],
+      "correct": 1
     },
     {
       "id": 4,
-      "q": "Để so sánh số liệu của hai đối tượng trên cùng một tiêu chí qua các năm, biểu đồ nào thích hợp nhất?",
-      "a": ["Biểu đồ cột kép", "Biểu đồ hình quạt tròn", "Biểu đồ đoạn thẳng đơn", "Biểu đồ tranh"],
-      "correct": 0
+      "q": "Tổng của hai số nguyên đối nhau bằng:",
+      "a": ["1", "-1", "0", "10"],
+      "correct": 2
     },
     {
       "id": 5,
-      "q": "Biểu đồ hình quạt tròn thường được dùng để làm gì?",
-      "a": ["Biểu diễn tỉ lệ phần trăm của từng phần trong tổng thể", "So sánh độ lớn giữa các đại lượng độc lập", "Thể hiện sự biến thiên theo thời gian", "Đếm số lượng phần tử"],
-      "correct": 0
+      "q": "Giá trị tuyệt đối của -10 là:",
+      "a": ["-10", "10", "0", "-1"],
+      "correct": 1
     },
     {
       "id": 6,
-      "q": "Tổng các thành phần phần trăm trong một biểu đồ hình quạt tròn phải bằng bao nhiêu?",
-      "a": ["100%", "90%", "360%", "10%"],
+      "q": "Giá trị tuyệt đối của số 0 là:",
+      "a": ["0", "1", "-1", "Không xác định"],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "Trong các phương pháp thu thập dữ liệu sau, phương pháp nào là thu thập gián tiếp?",
-      "a": ["Lấy số liệu từ Niên giám thống kê", "Phỏng vấn trực tiếp", "Quan sát và ghi chép", "Làm thí nghiệm và đo đạc"],
-      "correct": 0
+      "q": "So sánh -5 và -3:",
+      "a": ["-5 > -3", "-5 < -3", "-5 = -3", "Không so sánh được"],
+      "correct": 1
     },
     {
       "id": 8,
-      "q": "Dữ liệu nào sau đây được coi là không hợp lí (phi thực tế) khi nói về tuổi của con người?",
-      "a": ["-5 tuổi", "15 tuổi", "80 tuổi", "1 tuổi"],
-      "correct": 0
+      "q": "Số nguyên liền sau của số -1 là:",
+      "a": ["-2", "0", "1", "-3"],
+      "correct": 1
     },
     {
       "id": 9,
-      "q": "Trục ngang của biểu đồ cột thường biểu diễn yếu tố gì?",
-      "a": ["Các danh mục/đối tượng thống kê", "Số lượng", "Tỉ lệ phần trăm", "Tần số"],
-      "correct": 0
+      "q": "Số nguyên liền trước của số -5 là:",
+      "a": ["-4", "-6", "0", "-5"],
+      "correct": 1
     },
     {
       "id": 10,
-      "q": "Trục đứng của biểu đồ đoạn thẳng thường biểu diễn yếu tố gì?",
-      "a": ["Độ lớn của đại lượng quan tâm", "Thời gian", "Tên các đối tượng", "Tiêu đề biểu đồ"],
-      "correct": 0
+      "q": "Kết quả của phép tính (-2) + (-3) là:",
+      "a": ["5", "-5", "1", "-1"],
+      "correct": 1
     },
     {
       "id": 11,
-      "q": "Muốn biết tỉ lệ học sinh đi xe buýt, xe đạp, đi bộ so với cả lớp, ta nên dùng biểu đồ nào?",
-      "a": ["Biểu đồ hình quạt tròn", "Biểu đồ đoạn thẳng", "Biểu đồ cột kép", "Biểu đồ cột đơn"],
+      "q": "Kết quả của phép tính (-10) + (-20) là:",
+      "a": ["-30", "30", "-10", "10"],
       "correct": 0
     },
     {
       "id": 12,
-      "q": "Để so sánh doanh thu của công ty A và công ty B trong 4 quý của năm, nên dùng biểu đồ:",
-      "a": ["Biểu đồ cột kép", "Biểu đồ hình quạt tròn", "Biểu đồ tranh", "Biểu đồ cột chồng"],
+      "q": "Kết quả của phép tính 5 + (-2) là:",
+      "a": ["3", "-3", "7", "-7"],
       "correct": 0
     },
     {
       "id": 13,
-      "q": "Khi vẽ biểu đồ đoạn thẳng, các điểm mốc thời gian thường được sắp xếp như thế nào?",
-      "a": ["Theo thứ tự từ trái sang phải trên trục hoành", "Sắp xếp ngẫu nhiên", "Theo thứ tự từ trên xuống dưới", "Theo độ lớn của dữ liệu"],
-      "correct": 0
+      "q": "Kết quả của phép tính (-8) + 10 là:",
+      "a": ["-2", "2", "-18", "18"],
+      "correct": 1
     },
     {
       "id": 14,
-      "q": "Một bảng thống kê về các loại nhạc cụ yêu thích gồm: Piano, Guitar, Violin. Dữ liệu này thuộc loại:",
-      "a": ["Dữ liệu định tính", "Dữ liệu định lượng rời rạc", "Dữ liệu định lượng liên tục", "Số liệu đo lường"],
-      "correct": 0
+      "q": "Kết quả của phép tính (-5) + 5 là:",
+      "a": ["10", "-10", "0", "5"],
+      "correct": 2
     },
     {
       "id": 15,
-      "q": "Số học sinh của 4 lớp 8A, 8B, 8C, 8D lần lượt là: 40, 42, 38, 45. Dữ liệu này là:",
-      "a": ["Số liệu (định lượng)", "Dữ liệu định tính", "Dữ liệu liên tục", "Dữ liệu thứ bậc"],
+      "q": "Muốn cộng hai số nguyên âm, ta làm thế nào?",
+      "a": ["Cộng hai giá trị tuyệt đối rồi đặt dấu \"-\" đằng trước", "Cộng hai giá trị tuyệt đối rồi đặt dấu \"+\" đằng trước", "Lấy số lớn trừ số bé", "Lấy số bé trừ số lớn"],
       "correct": 0
     },
     {
       "id": 16,
-      "q": "Trong biểu đồ cột, độ cao của cột biểu thị điều gì?",
-      "a": ["Số liệu thống kê của đối tượng tương ứng", "Thời gian thu thập", "Tên của đối tượng", "Đơn vị đo"],
-      "correct": 0
+      "q": "Phép trừ 10 - 15 có kết quả là:",
+      "a": ["5", "-5", "25", "-25"],
+      "correct": 1
     },
     {
       "id": 17,
-      "q": "Nếu muốn thể hiện nhiệt độ trung bình của Hà Nội thay đổi thế nào từ tháng 1 đến tháng 12, biểu đồ tối ưu là:",
-      "a": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ cột kép", "Biểu đồ tranh"],
+      "q": "Phép tính 5 - (-3) được viết lại thành phép cộng nào?",
+      "a": ["5 + 3", "5 + (-3)", "-5 + 3", "-5 + (-3)"],
       "correct": 0
     },
     {
       "id": 18,
-      "q": "Khẳng định nào sau đây sai khi nói về biểu đồ hình quạt tròn?",
-      "a": ["Có thể dùng để biểu diễn sự thay đổi theo thời gian rất tốt", "Biểu diễn cơ cấu, tỉ lệ các phần trong tổng thể", "Tổng các phần trăm phải là 100%", "Hình tròn đại diện cho toàn bộ dữ liệu"],
-      "correct": 0
+      "q": "Kết quả của 7 - (-2) là:",
+      "a": ["5", "9", "-5", "-9"],
+      "correct": 1
     },
     {
       "id": 19,
-      "q": "Dữ liệu về 'Size áo' (S, M, L, XL) của khách hàng là loại dữ liệu nào?",
-      "a": ["Dữ liệu không là số", "Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu đo đạc"],
-      "correct": 0
+      "q": "Kết quả của (-5) - 4 là:",
+      "a": ["-1", "1", "-9", "9"],
+      "correct": 2
     },
     {
       "id": 20,
-      "q": "Bạn Lan ghi chép lại màu xe của các xe máy đi qua cổng trường: Đỏ, Xanh, Trắng, Đen, Đỏ... Phương pháp thu thập này là:",
-      "a": ["Quan sát", "Phỏng vấn", "Làm thí nghiệm", "Tra cứu tài liệu"],
-      "correct": 0
+      "q": "Kết quả của (-10) - (-10) là:",
+      "a": ["-20", "20", "0", "10"],
+      "correct": 2
     },
     {
       "id": 21,
-      "q": "Trong bảng số liệu sau, giá trị nào là bất hợp lí? Số ngày nghỉ học của học sinh: 0, 1, 2, 1000.",
-      "a": ["1000", "0", "2", "1"],
+      "q": "Tìm x biết x + 2 = 5",
+      "a": ["x = 3", "x = -3", "x = 7", "x = -7"],
       "correct": 0
     },
     {
       "id": 22,
-      "q": "Biểu đồ nào dùng các hình chữ nhật dựng thẳng đứng để biểu diễn dữ liệu?",
-      "a": ["Biểu đồ cột", "Biểu đồ đoạn thẳng", "Biểu đồ hình quạt", "Biểu đồ điểm"],
-      "correct": 0
+      "q": "Tìm x biết x + 10 = 0",
+      "a": ["x = 10", "x = -10", "x = 0", "x = 1"],
+      "correct": 1
     },
     {
       "id": 23,
-      "q": "Khi phân tích biểu đồ, bước đầu tiên thường là gì?",
-      "a": ["Đọc tiêu đề và chú thích để hiểu nội dung", "Tính toán ngay số liệu", "Tìm giá trị lớn nhất", "Vẽ lại biểu đồ"],
+      "q": "Tìm x biết x - 5 = -2",
+      "a": ["x = 3", "x = -3", "x = -7", "x = 7"],
       "correct": 0
     },
     {
       "id": 24,
-      "q": "Một biểu đồ hình quạt tròn chia thành 4 phần: 25%, 35%, 10% và x%. Giá trị của x là:",
-      "a": ["30", "20", "40", "100"],
-      "correct": 0
+      "q": "Tìm x biết 5 - x = 2",
+      "a": ["x = 7", "x = -3", "x = 3", "x = -7"],
+      "correct": 2
     },
     {
       "id": 25,
-      "q": "Để biểu diễn sản lượng lúa (tấn) của một tỉnh trong 5 năm liên tiếp, biểu đồ nào phù hợp?",
-      "a": ["Biểu đồ cột hoặc biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ tranh", "Biểu đồ điểm"],
-      "correct": 0
+      "q": "Kết quả của phép tính 0 - 15 là:",
+      "a": ["15", "-15", "0", "1"],
+      "correct": 1
     },
     {
       "id": 26,
-      "q": "Trong biểu đồ cột kép, mỗi nhóm đối tượng trên trục hoành có bao nhiêu cột?",
-      "a": ["2 cột", "1 cột", "3 cột", "4 cột"],
-      "correct": 0
+      "q": "Tính: |-5| + |-3|",
+      "a": ["-8", "8", "2", "-2"],
+      "correct": 1
     },
     {
       "id": 27,
-      "q": "Dữ liệu thống kê được chia làm mấy loại chính?",
-      "a": ["2 loại (Số liệu và Dữ liệu không là số)", "1 loại", "3 loại", "4 loại"],
-      "correct": 0
+      "q": "Nhiệt độ đang là 2 độ C, giảm đi 5 độ C thì còn bao nhiêu độ?",
+      "a": ["3 độ C", "-3 độ C", "7 độ C", "-7 độ C"],
+      "correct": 1
     },
     {
       "id": 28,
-      "q": "Danh sách các môn thể thao: Bóng đá, Cầu lông, Bơi lội. Đây là dữ liệu dạng:",
-      "a": ["Chữ (Từ)", "Số nguyên", "Số thực", "Kí hiệu toán học"],
-      "correct": 0
+      "q": "Độ cao của tàu ngầm là -20m. Tàu lặn xuống thêm 10m nữa. Độ cao mới là:",
+      "a": ["-10m", "-30m", "10m", "30m"],
+      "correct": 1
     },
     {
       "id": 29,
-      "q": "Khi vẽ biểu đồ cột, khoảng cách giữa các cột (hoặc cụm cột) phải như thế nào?",
-      "a": ["Đều nhau", "Tùy ý", "Lớn dần", "Nhỏ dần"],
-      "correct": 0
+      "q": "Bạn An nợ bạn Bình 10 ngàn (ghi là -10). Bạn An mượn thêm 5 ngàn nữa. Số tiền của An được ghi là:",
+      "a": ["-5", "-15", "15", "5"],
+      "correct": 1
     },
     {
       "id": 30,
-      "q": "Chú giải (chú thích) trong biểu đồ có tác dụng gì?",
-      "a": ["Giải thích ý nghĩa của các màu sắc, kí hiệu", "Làm đẹp biểu đồ", "Tăng kích thước biểu đồ", "Thay thế tiêu đề"],
+      "q": "Khi bỏ dấu ngoặc có dấu \"+\" đằng trước thì:",
+      "a": ["Giữ nguyên dấu các số hạng trong ngoặc", "Đổi dấu các số hạng trong ngoặc", "Đổi dấu số hạng đầu tiên", "Xóa hết các số hạng"],
       "correct": 0
     },
     {
       "id": 31,
-      "q": "Nếu biểu đồ đoạn thẳng có đường đi lên từ trái sang phải, điều đó thể hiện xu hướng gì?",
-      "a": ["Tăng", "Giảm", "Không đổi", "Biến động mạnh"],
-      "correct": 0
+      "q": "Khi bỏ dấu ngoặc có dấu \"-\" đằng trước thì:",
+      "a": ["Giữ nguyên dấu các số hạng trong ngoặc", "Đổi dấu các số hạng trong ngoặc", "Giữ nguyên số hạng đầu tiên", "Xóa hết các số hạng"],
+      "correct": 1
     },
     {
       "id": 32,
-      "q": "Nếu biểu đồ đoạn thẳng nằm ngang, điều đó thể hiện xu hướng gì?",
-      "a": ["Ổn định (không đổi)", "Tăng", "Giảm", "Tăng rồi giảm"],
-      "correct": 0
+      "q": "Kết quả của -(3 + 4) là:",
+      "a": ["7", "-7", "1", "-1"],
+      "correct": 1
     },
     {
       "id": 33,
-      "q": "Trong một cuộc khảo sát về phương tiện đi học, câu hỏi nào sau đây thu được dữ liệu định tính?",
-      "a": ["Bạn đi học bằng phương tiện gì?", "Bạn mất bao nhiêu phút để đến trường?", "Nhà bạn cách trường bao nhiêu km?", "Mỗi tháng bạn đi học bao nhiêu ngày?"],
-      "correct": 0
+      "q": "Kết quả của -(-5 + 2) là:",
+      "a": ["-3", "3", "7", "-7"],
+      "correct": 1
     },
     {
       "id": 34,
-      "q": "Một biểu đồ tròn biểu diễn kết quả học tập gồm: Giỏi (30%), Khá (45%), Trung bình (25%). Tổng số học sinh là 40. Số học sinh Giỏi là:",
-      "a": ["12", "18", "10", "30"],
-      "correct": 0
+      "q": "Tính nhanh: 28 + (-15) + (-28)",
+      "a": ["15", "-15", "56", "-56"],
+      "correct": 1
     },
     {
       "id": 35,
-      "q": "Dữ liệu nào sau đây là số liệu liên tục?",
-      "a": ["Cân nặng của trẻ sơ sinh (kg)", "Số người trong một gia đình", "Số bàn thắng trong một trận đấu", "Số quyển sách trong cặp"],
-      "correct": 0
+      "q": "Tính nhanh: 12 + (-5) + 8",
+      "a": ["20", "25", "15", "10"],
+      "correct": 2
     },
     {
       "id": 36,
-      "q": "Biểu đồ nào không thích hợp để biểu diễn dữ liệu về tỉ lệ phần trăm?",
-      "a": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ cột chồng (100%)", "Biểu đồ ô vuông (Tree map)"],
-      "correct": 0
+      "q": "Phép tính nào có kết quả bằng 0?",
+      "a": ["(-5) - 5", "(-5) + 5", "5 + 5", "(-5) + (-5)"],
+      "correct": 1
     },
     {
       "id": 37,
-      "q": "Muốn so sánh dân số Việt Nam và Thái Lan qua các năm 2019, 2020, 2021, dùng biểu đồ nào tốt nhất?",
-      "a": ["Biểu đồ cột kép", "Biểu đồ hình quạt tròn", "Biểu đồ tranh", "Biểu đồ cột đơn"],
-      "correct": 0
+      "q": "Phép tính nào có kết quả là số dương?",
+      "a": ["(-5) + (-3)", "(-10) + 2", "5 + (-1)", "(-100) + 1"],
+      "correct": 2
     },
     {
       "id": 38,
-      "q": "Việc đầu tiên khi muốn có bảng thống kê là gì?",
-      "a": ["Thu thập dữ liệu", "Vẽ biểu đồ", "Tính toán số liệu", "Viết báo cáo"],
-      "correct": 0
+      "q": "Tìm x biết x + 3 = -2",
+      "a": ["x = 1", "x = -1", "x = 5", "x = -5"],
+      "correct": 3
     },
     {
       "id": 39,
-      "q": "Số liệu nào sau đây là không hợp lí cho dữ liệu 'Thời gian chạy 100m của học sinh lớp 8'?",
-      "a": ["2 giây", "13 giây", "15 giây", "20 giây"],
-      "correct": 0
+      "q": "Tính: (-1) + (-1) + (-1)",
+      "a": ["3", "-3", "0", "-1"],
+      "correct": 1
     },
     {
       "id": 40,
-      "q": "Phát hiện vấn đề trong dữ liệu sau: Số học sinh yêu thích Toán: 50%, Văn: 40%, Anh: 20%.",
-      "a": ["Tổng tỉ lệ vượt quá 100%", "Tỉ lệ môn Toán quá cao", "Không có môn Thể dục", "Dữ liệu quá ít"],
+      "q": "Trong tập hợp số nguyên Z, khẳng định nào đúng?",
+      "a": ["Mọi số nguyên âm đều nhỏ hơn 0", "Mọi số nguyên âm đều lớn hơn 0", "Số 0 là số nguyên dương", "Số 0 là số nguyên âm"],
       "correct": 0
     },
     {
       "id": 41,
-      "q": "Trên biểu đồ cột, cột cao nhất tương ứng với:",
-      "a": ["Giá trị lớn nhất", "Giá trị nhỏ nhất", "Giá trị trung bình", "Giá trị đầu tiên"],
-      "correct": 0
+      "q": "Sắp xếp các số sau theo thứ tự tăng dần: -2; 4; 0; -5",
+      "a": ["0; 4; -2; -5", "-5; -2; 0; 4", "4; 0; -2; -5", "-2; -5; 0; 4"],
+      "correct": 1
     },
     {
       "id": 42,
-      "q": "Để biết môn học nào được yêu thích nhất trong lớp qua biểu đồ cột, ta nhìn vào:",
-      "a": ["Cột cao nhất", "Cột thấp nhất", "Cột ở giữa", "Cột đầu tiên"],
+      "q": "Kết quả của 100 - (50 + 40) là:",
+      "a": ["10", "90", "190", "-10"],
       "correct": 0
     },
     {
       "id": 43,
-      "q": "Dữ liệu 'Điểm trung bình môn Toán' của lớp 8A: 6.5; 7.0; 8.2; 9.5; 11.0. Giá trị nào bất thường?",
-      "a": ["11.0", "9.5", "6.5", "8.2"],
-      "correct": 0
+      "q": "Kết quả của 20 - (10 - 5) là:",
+      "a": ["5", "15", "25", "-5"],
+      "correct": 1
     },
     {
       "id": 44,
-      "q": "Khi muốn biểu diễn hai tập dữ liệu có đơn vị đo khác nhau trên cùng một biểu đồ (ví dụ: Nhiệt độ và Lượng mưa), người ta thường dùng:",
-      "a": ["Biểu đồ kết hợp (Cột và Đường)", "Biểu đồ hình quạt", "Biểu đồ tranh", "Biểu đồ cột kép thông thường"],
+      "q": "Cho x = -2. Giá trị của x + 5 là:",
+      "a": ["3", "-3", "7", "-7"],
       "correct": 0
     },
     {
       "id": 45,
-      "q": "Tần số của một giá trị trong bảng thống kê là gì?",
-      "a": ["Số lần xuất hiện của giá trị đó", "Giá trị đó cộng lại", "Tỉ lệ phần trăm của giá trị đó", "Vị trí của giá trị đó"],
-      "correct": 0
+      "q": "Cho a = 10, b = -5. Tính a - b",
+      "a": ["5", "15", "-5", "-15"],
+      "correct": 1
     },
     {
       "id": 46,
-      "q": "Biểu đồ hình quạt tròn biểu diễn 3 nhóm A, B, C. Nếu góc của nhóm A là 90 độ thì nhóm A chiếm bao nhiêu phần trăm?",
-      "a": ["25%", "50%", "75%", "10%"],
-      "correct": 0
+      "q": "Biểu thức a - (b + c) khi bỏ ngoặc là:",
+      "a": ["a - b + c", "a - b - c", "a + b - c", "a + b + c"],
+      "correct": 1
     },
     {
       "id": 47,
-      "q": "Biểu đồ hình quạt tròn biểu diễn 3 nhóm A, B, C. Nếu nhóm B chiếm 50% thì góc ở tâm tương ứng là:",
-      "a": ["$180^\\circ$", "$90^\\circ$", "$360^\\circ$", "$45^\\circ$"],
-      "correct": 0
+      "q": "Tính: (-200) + 200",
+      "a": ["-400", "400", "0", "1"],
+      "correct": 2
     },
     {
       "id": 48,
-      "q": "Để kiểm tra xem dữ liệu thu thập được có đáng tin cậy không, ta cần xem xét:",
-      "a": ["Nguồn gốc và phương pháp thu thập", "Màu sắc biểu đồ", "Font chữ trình bày", "Tên người lập bảng"],
-      "correct": 0
+      "q": "Tính: 34 + (-30)",
+      "a": ["64", "-64", "4", "-4"],
+      "correct": 2
     },
     {
       "id": 49,
-      "q": "Số liệu 'Tổng số huy chương vàng' của các đoàn thể thao tại SEA Games nên dùng biểu đồ nào để so sánh?",
-      "a": ["Biểu đồ cột", "Biểu đồ đoạn thẳng", "Biểu đồ hình quạt (nếu không cần so sánh tổng thể)", "Biểu đồ miền"],
+      "q": "Kết quả của phép tính (-15) + (-5) + 10 là:",
+      "a": ["-10", "-30", "10", "30"],
       "correct": 0
     },
     {
       "id": 50,
-      "q": "Trong biểu đồ đoạn thẳng, trục hoành thường chia các mốc thời gian:",
-      "a": ["Theo tỉ lệ tương ứng với khoảng thời gian", "Cách đều nhau bất kể thời gian", "Tùy ý người vẽ", "Ngược chiều kim đồng hồ"],
-      "correct": 0
+      "q": "Tìm x biết -x = 10",
+      "a": ["x = 10", "x = -10", "x = 0", "x = 1"],
+      "correct": 1
     },
     {
       "id": 51,
-      "q": "(Vận dụng) Lớp 8A có 40 học sinh. 50% thích bóng đá, 25% thích cầu lông. Số học sinh thích môn khác là:",
-      "a": ["10 học sinh", "20 học sinh", "5 học sinh", "15 học sinh"],
+      "q": "Tìm số nguyên x thỏa mãn: -2 < x < 1",
+      "a": ["x thuộc {-1; 0}", "x thuộc {-2; -1; 0}", "x thuộc {-1; 0; 1}", "x thuộc {0; 1}"],
       "correct": 0
     },
     {
       "id": 52,
-      "q": "(Vận dụng) Biểu đồ cột cho thấy lượng mưa tháng 6 là 100mm, tháng 7 là 120mm. Lượng mưa tăng bao nhiêu mm?",
-      "a": ["20mm", "220mm", "100mm", "120mm"],
+      "q": "Tính tổng: (-10) + (-20) + (-30)",
+      "a": ["-60", "60", "0", "-50"],
       "correct": 0
     },
     {
       "id": 53,
-      "q": "(Vận dụng) Doanh thu 3 tháng đầu năm lần lượt là: 10, 15, 20 (triệu đồng). Tổng doanh thu quý 1 là:",
-      "a": ["45 triệu", "35 triệu", "30 triệu", "50 triệu"],
+      "q": "Kết quả của phép tính: (-4) + (-6) + 5",
+      "a": ["-5", "-15", "5", "15"],
       "correct": 0
     },
     {
       "id": 54,
-      "q": "(Vận dụng) Trong biểu đồ hình quạt, phần 'Chi phí ăn uống' chiếm 40%. Nếu tổng chi phí là 10 triệu thì tiền ăn là bao nhiêu?",
-      "a": ["4 triệu", "6 triệu", "2 triệu", "5 triệu"],
-      "correct": 0
+      "q": "Chọn câu sai:",
+      "a": ["(-3) + (-5) = -8", "(-3) + 5 = 2", "3 + (-5) = -2", "(-3) - 5 = 2"],
+      "correct": 3
     },
     {
       "id": 55,
-      "q": "(Vận dụng) Biểu đồ đoạn thẳng biểu diễn nhiệt độ: 8h (20 độ), 10h (25 độ), 12h (30 độ). Nhiệt độ tăng trung bình mỗi giờ trong khoảng 8h-10h là:",
-      "a": ["2,5 độ/giờ", "5 độ/giờ", "2 độ/giờ", "10 độ/giờ"],
+      "q": "Nhiệt độ buổi trưa là 30 độ C. Buổi tối giảm 5 độ C. Nhiệt độ buổi tối là:",
+      "a": ["25 độ C", "35 độ C", "-25 độ C", "5 độ C"],
       "correct": 0
     },
     {
       "id": 56,
-      "q": "(Vận dụng) Một cửa hàng bán được 100 áo, trong đó 20 áo lỗi. Tỉ lệ áo không lỗi là:",
-      "a": ["80%", "20%", "100%", "120%"],
-      "correct": 0
+      "q": "Một thang máy đang ở tầng 10, đi xuống 3 tầng. Thang máy đang ở tầng mấy?",
+      "a": ["Tầng 13", "Tầng 7", "Tầng -7", "Tầng -3"],
+      "correct": 1
     },
     {
       "id": 57,
-      "q": "(Vận dụng) Quan sát biểu đồ cột kép: Năm 2020 (Nam: 15, Nữ: 20). Năm 2021 (Nam: 18, Nữ: 22). Tổng số học sinh nữ trong 2 năm là:",
-      "a": ["42", "33", "37", "75"],
+      "q": "Tính giá trị của biểu thức A = x - 5 tại x = 2",
+      "a": ["-3", "3", "7", "-7"],
       "correct": 0
     },
     {
       "id": 58,
-      "q": "(Vận dụng) Nếu biểu đồ quạt tròn có 2 phần bằng nhau và 1 phần còn lại chiếm 50%. Hai phần kia chiếm mỗi phần bao nhiêu %?",
-      "a": ["25%", "50%", "20%", "30%"],
-      "correct": 0
+      "q": "Kết quả của phép tính: 123 + (-123)",
+      "a": ["246", "0", "-246", "1"],
+      "correct": 1
     },
     {
       "id": 59,
-      "q": "(Vận dụng) Cho bảng dữ liệu: Tháng 1 (5 sản phẩm), Tháng 2 (10 sản phẩm), Tháng 3 (20 sản phẩm). Nhận xét nào đúng về xu hướng?",
-      "a": ["Tăng dần đều hoặc tăng nhanh", "Giảm dần", "Không đổi", "Tăng rồi giảm"],
+      "q": "Tính: (-9) + 9 + (-5)",
+      "a": ["-5", "5", "23", "-23"],
       "correct": 0
     },
     {
       "id": 60,
-      "q": "(Vận dụng) Một cuộc khảo sát 200 người, có 3/4 số người chọn màu Xanh. Số người chọn màu Xanh là:",
-      "a": ["150", "100", "50", "75"],
-      "correct": 0
+      "q": "Số nào cộng với (-8) thì bằng 0?",
+      "a": ["-8", "0", "8", "1"],
+      "correct": 2
     }
   ]
 }
