@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "q": "Dữ liệu thống kê được chia làm mấy loại chính?",
+      "a": ["2 loại: Số liệu và Dữ liệu không là số", "3 loại: Số liệu, Văn bản và Hình ảnh", "1 loại: Số liệu", "4 loại: Số, Chữ, Kí hiệu, Hình vẽ"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "q": "Dữ liệu nào sau đây là số liệu (dữ liệu định lượng)?",
+      "a": ["Chiều cao của các học sinh trong tổ", "Màu sắc ưa thích", "Nơi sinh", "Xếp loại học lực"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "q": "Dữ liệu nào sau đây là dữ liệu không là số (dữ liệu định tính)?",
+      "a": ["Danh sách các loại trái cây yêu thích", "Điểm kiểm tra môn Toán", "Số lượng học sinh nghỉ học", "Nhiệt độ trung bình tháng"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "q": "Phương pháp nào thường dùng để thu thập dữ liệu về ý kiến cá nhân của số lượng lớn người?",
+      "a": ["Lập phiếu hỏi (phiếu khảo sát)", "Làm thí nghiệm", "Quan sát trực tiếp", "Đếm thủ công"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "q": "Trong dãy số liệu về chiều cao (cm): 150, 155, 300, 160. Giá trị nào không hợp lý?",
+      "a": ["300", "150", "155", "160"],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "q": "Để biết cây đậu phát triển thế nào theo từng ngày, ta nên dùng phương pháp thu thập nào?",
+      "a": ["Quan sát và đo đạc thực nghiệm", "Phỏng vấn cây đậu", "Tìm trên internet", "Lập bảng hỏi"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "q": "Dữ liệu 'Số điện thoại' được xếp vào loại nào?",
+      "a": ["Dữ liệu không là số (định danh)", "Số liệu (định lượng)", "Số thực", "Số thập phân"],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "q": "Dữ liệu nào sau đây là số liệu rời rạc?",
+      "a": ["Số con trong một gia đình", "Chiều cao", "Cân nặng", "Thời gian chạy 100m"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "q": "Dữ liệu nào sau đây là số liệu liên tục?",
+      "a": ["Cân nặng của học sinh", "Số học sinh trong lớp", "Số cây trồng được", "Số bàn thắng trong trận đấu"],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "q": "Việc kiểm tra dữ liệu có đúng định dạng hay nằm trong phạm vi cho phép gọi là:",
+      "a": ["Đánh giá tính hợp lý của dữ liệu", "Phân tích dữ liệu", "Thu thập dữ liệu", "Mô tả dữ liệu"],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "q": "Kết quả xếp loại học lực: Giỏi, Khá, Trung bình, Yếu. Đây là dữ liệu:",
+      "a": ["Dữ liệu không là số có thứ bậc", "Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu hình ảnh"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "q": "Muốn biết nhiệt độ trung bình của Hà Nội trong 10 năm qua, nguồn dữ liệu nào đáng tin cậy nhất?",
+      "a": ["Niên giám thống kê hoặc trang web khí tượng thủy văn", "Hỏi người đi đường", "Tự đoán", "Facebook"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "q": "Dãy dữ liệu nào sau đây là hợp lý cho 'Tháng sinh của học sinh'?",
+      "a": ["1, 2, 5, 12", "1, 13, 5, 2", "0, 5, 7, 9", "2, 4, 15, 8"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "q": "Câu hỏi nào phù hợp để thu thập dữ liệu định lượng?",
+      "a": ["Bạn nặng bao nhiêu kg?", "Bạn thích màu gì?", "Nhà bạn ở quận nào?", "Bạn thấy môn Toán thế nào?"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "q": "Dữ liệu sơ cấp là gì?",
+      "a": ["Dữ liệu do người điều tra trực tiếp thu thập", "Dữ liệu lấy từ sách báo", "Dữ liệu từ internet", "Dữ liệu do người khác cung cấp"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "q": "Dữ liệu thứ cấp là gì?",
+      "a": ["Dữ liệu được thu thập từ nguồn có sẵn (sách, báo, web...)", "Dữ liệu tự mình đo đạc", "Dữ liệu phỏng vấn trực tiếp", "Dữ liệu làm thí nghiệm"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "q": "Khi điều tra về phương tiện đến trường, bạn Lan ghi: 'Xe đạp, 5km, Đi bộ'. Dữ liệu nào bị sai loại?",
+      "a": ["5km", "Xe đạp", "Đi bộ", "Không có dữ liệu sai"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "q": "Để biểu diễn tỉ lệ phần trăm các loại rác thải, biểu đồ nào phù hợp nhất?",
+      "a": ["Biểu đồ hình quạt tròn", "Biểu đồ đoạn thẳng", "Biểu đồ cột", "Biểu đồ tranh"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "q": "Để biểu diễn sự thay đổi dân số qua các năm, biểu đồ nào phù hợp nhất?",
+      "a": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ tranh", "Biểu đồ cột chồng"],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "q": "Danh sách các môn thể thao: Bóng đá, Cầu lông, 100, Bơi lội. Giá trị không hợp lý là:",
+      "a": ["100", "Bóng đá", "Cầu lông", "Bơi lội"],
+      "correct": 0
+    },
+    {
+      "id": 21,
+      "q": "Biển số xe máy (Ví dụ: 29H1-123.45) là loại dữ liệu gì?",
+      "a": ["Dữ liệu không là số", "Số liệu", "Dữ liệu liên tục", "Số nguyên"],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "q": "Mã định danh học sinh (ID) thường được xử lý như loại dữ liệu nào?",
+      "a": ["Dữ liệu không là số (để phân biệt)", "Số liệu (để tính toán)", "Số thập phân", "Số đo lường"],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "q": "Khi tung một đồng xu 20 lần, ta thu được dãy kết quả: S, N, N, S... Đây là phương pháp thu thập gì?",
+      "a": ["Thực nghiệm", "Quan sát", "Phỏng vấn", "Tra cứu"],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "q": "Trong các dữ liệu sau, dữ liệu nào KHÔNG THỂ thực hiện phép tính cộng trừ?",
+      "a": ["Số điện thoại", "Chiều cao", "Cân nặng", "Tiền lương"],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "q": "Một bảng thống kê ghi: 'Số người: 10, 15, 4.5, 20'. Số liệu vô lý là:",
+      "a": ["4.5", "10", "15", "20"],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "q": "Câu hỏi trong phiếu điều tra: 'Bạn có thích học Toán không?' thu được dữ liệu dạng:",
+      "a": ["Có/Không (Định tính)", "Số liệu", "Số thực", "Hình ảnh"],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "q": "Để điều tra mức độ hài lòng của khách hàng, người ta thường dùng thang đo nào?",
+      "a": ["Rất hài lòng - Hài lòng - Bình thường - Không hài lòng", "1kg - 2kg - 3kg", "Xanh - Đỏ - Tím", "Nam - Nữ"],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "q": "Dữ liệu 'Địa chỉ nhà' thuộc nhóm:",
+      "a": ["Dữ liệu văn bản (không là số)", "Số liệu", "Dữ liệu thời gian", "Dữ liệu âm thanh"],
+      "correct": 0
+    },
+    {
+      "id": 29,
+      "q": "Khi ghi lại sĩ số của các lớp học: 35, 40, 38, -5. Giá trị nào sai?",
+      "a": ["-5", "35", "40", "38"],
+      "correct": 0
+    },
+    {
+      "id": 30,
+      "q": "Nguồn dữ liệu nào sau đây được coi là chính thống và đáng tin cậy nhất?",
+      "a": ["Cổng thông tin điện tử Chính phủ", "Blog cá nhân", "Mạng xã hội", "Lời đồn"],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "q": "Trong nghiên cứu khoa học, việc ghi chép lại những gì nhìn thấy gọi là:",
+      "a": ["Quan sát", "Phỏng vấn", "Điều tra", "Thực nghiệm"],
+      "correct": 0
+    },
+    {
+      "id": 32,
+      "q": "Dữ liệu về 'Thời gian hoàn thành bài thi' (phút) là:",
+      "a": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Dữ liệu thứ bậc"],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "q": "Nếu muốn biết loài hoa nào được yêu thích nhất trường, em sẽ thu thập dữ liệu về:",
+      "a": ["Tên các loài hoa", "Số cánh hoa", "Giá tiền của hoa", "Màu sắc hoa"],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "q": "Bảng dữ liệu: Tên (An, Bình), Tuổi (13, 13), Giới tính (Nam, Nữ). Cột nào chứa dữ liệu số?",
+      "a": ["Cột Tuổi", "Cột Tên", "Cột Giới tính", "Cả 3 cột"],
+      "correct": 0
+    },
+    {
+      "id": 35,
+      "q": "Dữ liệu nào sau đây có thể dùng để so sánh hơn kém?",
+      "a": ["Điểm trung bình môn", "Số báo danh", "Họ và tên", "Nơi ở"],
+      "correct": 0
+    },
+    {
+      "id": 36,
+      "q": "Khi thu thập dữ liệu về 'Các tỉnh thành phố của Việt Nam', dữ liệu thu được là:",
+      "a": ["Tên gọi (Hà Nội, TP.HCM...)", "Diện tích", "Dân số", "Mã vùng"],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "q": "Lỗi thường gặp khi lập phiếu hỏi là:",
+      "a": ["Câu hỏi dài dòng, khó hiểu, dẫn dắt người trả lời", "Câu hỏi ngắn gọn", "Câu hỏi trắc nghiệm", "Câu hỏi có nhiều lựa chọn"],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "q": "Dãy số liệu: 2, 4, 6, 8, 10. Đây là dữ liệu:",
+      "a": ["Số liệu chẵn", "Số liệu lẻ", "Dữ liệu định tính", "Dữ liệu văn bản"],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "q": "Để kiểm tra chất lượng bóng đèn, người ta thử nghiệm 100 bóng. Dữ liệu thu được là 'Số giờ sáng'. Đây là:",
+      "a": ["Số liệu", "Dữ liệu không là số", "Dữ liệu định danh", "Dữ liệu nhị phân"],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "q": "Một học sinh ghi: 'Nhiệt độ hôm nay là Mát mẻ'. Đây là dữ liệu:",
+      "a": ["Định tính", "Định lượng", "Số liệu", "Số đo"],
+      "correct": 0
+    },
+    {
+      "id": 41,
+      "q": "Trong thống kê, 'Đối tượng thống kê' là gì?",
+      "a": ["Các đối tượng mà ta cần thu thập thông tin về chúng", "Người đi thu thập dữ liệu", "Bảng dữ liệu", "Biểu đồ"],
+      "correct": 0
+    },
+    {
+      "id": 42,
+      "q": "Tiêu chí quan trọng nhất của dữ liệu thống kê là:",
+      "a": ["Trung thực và khách quan", "Đẹp mắt", "Ngắn gọn", "Nhiều chữ"],
+      "correct": 0
+    },
+    {
+      "id": 43,
+      "q": "Dữ liệu 'Kích thước áo: S, M, L, XL' là dữ liệu:",
+      "a": ["Không là số (có thứ tự)", "Số liệu", "Số thực", "Văn bản tùy ý"],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "q": "Khi điều tra về 'Màu mắt', các kết quả có thể là:",
+      "a": ["Đen, Nâu, Xanh", "10/10, 9/10", "To, Nhỏ", "Cận, Viễn"],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "q": "Giá trị nào sau đây không hợp lý cho dữ liệu 'Số giờ tự học trong một ngày'?",
+      "a": ["25 giờ", "2 giờ", "0 giờ", "5 giờ"],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "q": "Phương pháp 'Phỏng vấn' có ưu điểm gì?",
+      "a": ["Thu thập được thông tin chi tiết, sâu sắc", "Nhanh chóng", "Tốn ít chi phí", "Thu thập được số lượng rất lớn cùng lúc"],
+      "correct": 0
+    },
+    {
+      "id": 47,
+      "q": "Phương pháp 'Quan sát' thường dùng trong trường hợp nào?",
+      "a": ["Nghiên cứu hành vi động vật hoặc sự kiện đang diễn ra", "Muốn biết ý kiến thầm kín", "Muốn biết quá khứ", "Muốn biết tương lai"],
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "q": "Dữ liệu thu được từ máy đo nhịp tim là:",
+      "a": ["Số liệu (nhịp/phút)", "Hình ảnh", "Âm thanh", "Văn bản"],
+      "correct": 0
+    },
+    {
+      "id": 49,
+      "q": "Khi thống kê điểm thi, dữ liệu 'Điểm 11' là:",
+      "a": ["Dữ liệu không hợp lý (nếu thang điểm 10)", "Dữ liệu xuất sắc", "Dữ liệu bình thường", "Dữ liệu định tính"],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "q": "Việc sắp xếp dữ liệu vào bảng giúp ích gì?",
+      "a": ["Dễ dàng theo dõi, so sánh và nhận xét", "Làm dữ liệu phức tạp hơn", "Che giấu thông tin", "Không có tác dụng gì"],
+      "correct": 0
+    }
+  ]
+}
