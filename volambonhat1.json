@@ -2,243 +2,243 @@
   "questions": [
     {
       "id": 1,
-      "q": "Biểu diễn hệ thức: 'Hoành độ ($x$) và tung độ ($y$) có tổng bằng 15'.",
-      "a": ["$x + y = 15$", "$x - y = 15$", "$xy = 15$", "$x = y + 15$"],
+      "q": "$1 + 1 = ?$",
+      "a": ["$2$", "$3$", "$1$", "$4$"],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "Biểu diễn hệ thức: 'Hoành độ ($x$) lớn hơn tung độ ($y$) là 8 đơn vị'.",
-      "a": ["$x - y = 8$", "$y - x = 8$", "$x + y = 8$", "$x = 8y$"],
-      "correct": 0
+      "q": "$2 + 3 = ?$",
+      "a": ["$4$", "$6$", "$5$", "$7$"],
+      "correct": 2
     },
     {
       "id": 3,
-      "q": "Biểu diễn hệ thức: 'Tung độ ($y$) gấp 3 lần hoành độ ($x$)'.",
-      "a": ["$y = 3x$", "$x = 3y$", "$y = x + 3$", "$x = y + 3$"],
-      "correct": 0
+      "q": "$5 - 2 = ?$",
+      "a": ["$2$", "$3$", "$4$", "$1$"],
+      "correct": 1
     },
     {
       "id": 4,
-      "q": "Biểu diễn hệ thức: 'Hoành độ ($x$) bằng một nửa tung độ ($y$)'.",
-      "a": ["$x = \\frac{1}{2}y$", "$y = \\frac{1}{2}x$", "$x = 2y$", "$x - y = 2$"],
-      "correct": 0
+      "q": "$4 + 4 = ?$",
+      "a": ["$9$", "$7$", "$10$", "$8$"],
+      "correct": 3
     },
     {
       "id": 5,
-      "q": "Biểu diễn hệ thức: 'Tung độ ($y$) kém hoành độ ($x$) 5 đơn vị'.",
-      "a": ["$x - y = 5$", "$y - x = 5$", "$y = 5x$", "$x + y = 5$"],
+      "q": "$9 - 5 = ?$",
+      "a": ["$4$", "$3$", "$5$", "$6$"],
       "correct": 0
     },
     {
       "id": 6,
-      "q": "Biểu diễn hệ thức: 'Hai lần hoành độ cộng với ba lần tung độ bằng 12'.",
-      "a": ["$2x + 3y = 12$", "$3x + 2y = 12$", "$2x - 3y = 12$", "$2(x + y) = 12$"],
-      "correct": 0
+      "q": "$6 + 3 = ?$",
+      "a": ["$8$", "$9$", "$7$", "$10$"],
+      "correct": 1
     },
     {
       "id": 7,
-      "q": "Biểu diễn hệ thức: 'Tích của hoành độ và tung độ bằng 20'.",
-      "a": ["$xy = 20$", "$x + y = 20$", "$x : y = 20$", "$x^2 + y^2 = 20$"],
-      "correct": 0
+      "q": "$10 - 7 = ?$",
+      "a": ["$2$", "$4$", "$3$", "$1$"],
+      "correct": 2
     },
     {
       "id": 8,
-      "q": "Biểu diễn hệ thức: 'Hoành độ ($x$) bằng bình phương của tung độ ($y$)'.",
-      "a": ["$x = y^2$", "$y = x^2$", "$x^2 = y$", "$x = 2y$"],
-      "correct": 0
+      "q": "$2 + 6 = ?$",
+      "a": ["$9$", "$8$", "$7$", "$6$"],
+      "correct": 1
     },
     {
       "id": 9,
-      "q": "Biểu diễn hệ thức: 'Tổng bình phương của hoành độ và tung độ là 25'.",
-      "a": ["$x^2 + y^2 = 25$", "$(x + y)^2 = 25$", "$x^2 - y^2 = 25$", "$2x + 2y = 25$"],
-      "correct": 0
+      "q": "$8 - 4 = ?$",
+      "a": ["$3$", "$5$", "$4$", "$2$"],
+      "correct": 2
     },
     {
       "id": 10,
-      "q": "Biểu diễn hệ thức: 'Bình phương của tổng hoành độ và tung độ là 100'.",
-      "a": ["$(x + y)^2 = 100$", "$x^2 + y^2 = 100$", "$x^2 + y = 100$", "$x + y^2 = 100$"],
+      "q": "$0 + 5 = ?$",
+      "a": ["$5$", "$0$", "$1$", "$10$"],
       "correct": 0
     },
     {
       "id": 11,
-      "q": "Gọi chiều dài là $x$, chiều rộng là $y$. Hệ thức 'Chu vi hình chữ nhật bằng 40m' là:",
-      "a": ["$2(x + y) = 40$", "$x + y = 40$", "$xy = 40$", "$2x + y = 40$"],
-      "correct": 0
+      "q": "$7 - 0 = ?$",
+      "a": ["$0$", "$6$", "$8$", "$7$"],
+      "correct": 3
     },
     {
       "id": 12,
-      "q": "Gọi chiều dài là $x$, chiều rộng là $y$. Hệ thức 'Chiều dài hơn chiều rộng 10m' là:",
-      "a": ["$x - y = 10$", "$y - x = 10$", "$x + y = 10$", "$x = 10y$"],
-      "correct": 0
+      "q": "$3 + 3 = ?$",
+      "a": ["$5$", "$7$", "$6$", "$9$"],
+      "correct": 2
     },
     {
       "id": 13,
-      "q": "Gọi hai số là $x$ và $y$. Hệ thức 'Số lớn chia số bé được thương là 3 dư 2' (với $x$ là số lớn) là:",
-      "a": ["$x = 3y + 2$", "$y = 3x + 2$", "$x = 3y - 2$", "$x : y = 2$ dư 3"],
-      "correct": 0
+      "q": "$10 - 1 = ?$",
+      "a": ["$8$", "$9$", "$7$", "$10$"],
+      "correct": 1
     },
     {
       "id": 14,
-      "q": "Biểu diễn hệ thức: 'Hoành độ ($x$) tăng thêm 2 thì bằng tung độ ($y$) giảm đi 3'.",
-      "a": ["$x + 2 = y - 3$", "$x - 2 = y + 3$", "$x + 2 = y + 3$", "$x - 3 = y + 2$"],
+      "q": "$4 + 5 = ?$",
+      "a": ["$9$", "$8$", "$10$", "$7$"],
       "correct": 0
     },
     {
       "id": 15,
-      "q": "Biểu diễn hệ thức: 'Tung độ bằng 2/3 hoành độ'.",
-      "a": ["$y = \\frac{2}{3}x$", "$x = \\frac{2}{3}y$", "$y = x + \\frac{2}{3}$", "$3y = 2 + x$"],
-      "correct": 0
+      "q": "$6 - 6 = ?$",
+      "a": ["$6$", "$1$", "$0$", "$12$"],
+      "correct": 2
     },
     {
       "id": 16,
-      "q": "Biểu diễn hệ thức: 'Tổng của hai số $x$ và $y$ gấp đôi hiệu của chúng'.",
-      "a": ["$x + y = 2(x - y)$", "$x - y = 2(x + y)$", "$x + y = x - y + 2$", "$2(x + y) = x - y$"],
-      "correct": 0
+      "q": "$2 + 8 = ?$",
+      "a": ["$9$", "$11$", "$8$", "$10$"],
+      "correct": 3
     },
     {
       "id": 17,
-      "q": "Biểu diễn hệ thức: 'Số $x$ chiếm 40% số $y$'.",
-      "a": ["$x = 0,4y$", "$y = 0,4x$", "$x = y + 40$", "$x - y = 40$"],
-      "correct": 0
+      "q": "$5 - 3 = ?$",
+      "a": ["$1$", "$2$", "$3$", "$4$"],
+      "correct": 1
     },
     {
       "id": 18,
-      "q": "Biểu diễn hệ thức: 'Ba lần hoành độ lớn hơn tung độ là 5 đơn vị'.",
-      "a": ["$3x - y = 5$", "$y - 3x = 5$", "$3x + y = 5$", "$3(x - y) = 5$"],
+      "q": "$7 + 2 = ?$",
+      "a": ["$9$", "$8$", "$10$", "$6$"],
       "correct": 0
     },
     {
       "id": 19,
-      "q": "Gọi vận tốc là $v$ (km/h), thời gian là $t$ (h). Hệ thức 'Quãng đường đi được là 150km' là:",
-      "a": ["$v \\cdot t = 150$", "$v + t = 150$", "$v = 150t$", "$t = 150v$"],
-      "correct": 0
+      "q": "$9 - 2 = ?$",
+      "a": ["$6$", "$8$", "$7$", "$5$"],
+      "correct": 2
     },
     {
       "id": 20,
-      "q": "Gọi giá tiền 1 quyển vở là $x$, 1 cây bút là $y$. Hệ thức 'Mua 5 vở và 3 bút hết 50.000đ' là:",
-      "a": ["$5x + 3y = 50000$", "$3x + 5y = 50000$", "$5x - 3y = 50000$", "$x + y = 50000$"],
-      "correct": 0
+      "q": "$1 + 9 = ?$",
+      "a": ["$9$", "$10$", "$8$", "$11$"],
+      "correct": 1
     },
     {
       "id": 21,
-      "q": "Biểu diễn hệ thức: 'Tổng nghịch đảo của hoành độ và tung độ là 1/6'.",
-      "a": ["$\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{6}$", "$\\frac{1}{x+y} = \\frac{1}{6}$", "$x + y = 6$", "$\\frac{x}{y} = \\frac{1}{6}$"],
+      "q": "$8 - 3 = ?$",
+      "a": ["$5$", "$4$", "$6$", "$3$"],
       "correct": 0
     },
     {
       "id": 22,
-      "q": "Biểu diễn hệ thức: 'Hoành độ và tung độ là hai số đối nhau'.",
-      "a": ["$x = -y$", "$x = y$", "$xy = 1$", "$x - y = 0$"],
-      "correct": 0
+      "q": "$3 + 4 = ?$",
+      "a": ["$6$", "$8$", "$9$", "$7$"],
+      "correct": 3
     },
     {
       "id": 23,
-      "q": "Biểu diễn hệ thức: 'Hoành độ và tung độ là hai số nghịch đảo của nhau'.",
-      "a": ["$xy = 1$", "$x + y = 0$", "$x = y$", "$x - y = 1$"],
-      "correct": 0
+      "q": "$10 - 5 = ?$",
+      "a": ["$6$", "$5$", "$4$", "$3$"],
+      "correct": 1
     },
     {
       "id": 24,
-      "q": "Cho số tự nhiên có hai chữ số, chữ số hàng chục là $x$, hàng đơn vị là $y$. Giá trị của số đó là:",
-      "a": ["$10x + y$", "$xy$", "$10y + x$", "$x + y$"],
+      "q": "$5 + 1 = ?$",
+      "a": ["$6$", "$7$", "$5$", "$4$"],
       "correct": 0
     },
     {
       "id": 25,
-      "q": "Biểu diễn hệ thức: 'Nếu thêm 10 vào hoành độ ($x$) thì nó gấp đôi tung độ ($y$)'.",
-      "a": ["$x + 10 = 2y$", "$x = 2y + 10$", "$2(x + 10) = y$", "$x + 10 = y + 2$"],
-      "correct": 0
+      "q": "$4 - 2 = ?$",
+      "a": ["$1$", "$3$", "$2$", "$4$"],
+      "correct": 2
     },
     {
       "id": 26,
-      "q": "Biểu diễn hệ thức: 'Tung độ ($y$) giảm đi 20% thì bằng hoành độ ($x$)'.",
-      "a": ["$y - 0,2y = x$", "$y - 20 = x$", "$x - 0,2x = y$", "$y = 0,2x$"],
-      "correct": 0
+      "q": "$3 + 7 = ?$",
+      "a": ["$9$", "$11$", "$8$", "$10$"],
+      "correct": 3
     },
     {
       "id": 27,
-      "q": "Biểu diễn hệ thức: 'Trung bình cộng của $x$ và $y$ là 18'.",
-      "a": ["$\\frac{x + y}{2} = 18$", "$x + y = 18$", "$2(x + y) = 18$", "$xy = 18$"],
+      "q": "$6 - 2 = ?$",
+      "a": ["$4$", "$5$", "$3$", "$2$"],
       "correct": 0
     },
     {
       "id": 28,
-      "q": "Biểu diễn hệ thức: 'Hiệu bình phương của hoành độ và tung độ là 9'.",
-      "a": ["$x^2 - y^2 = 9$", "$(x - y)^2 = 9$", "$x - y^2 = 9$", "$x^2 - y = 9$"],
-      "correct": 0
+      "q": "$2 + 2 = ?$",
+      "a": ["$3$", "$4$", "$5$", "$2$"],
+      "correct": 1
     },
     {
       "id": 29,
-      "q": "Gọi số tuổi của cha là $x$, của con là $y$. Hệ thức 'Sau 5 năm nữa tuổi cha gấp 3 tuổi con' là:",
-      "a": ["$x + 5 = 3(y + 5)$", "$x = 3y + 5$", "$x + 5 = 3y + 5$", "$x = 3(y + 5)$"],
-      "correct": 0
+      "q": "$9 - 6 = ?$",
+      "a": ["$2$", "$4$", "$3$", "$1$"],
+      "correct": 2
     },
     {
       "id": 30,
-      "q": "Gọi số tuổi của mẹ là $x$, của con là $y$. Hệ thức 'Cách đây 3 năm tuổi mẹ gấp 4 tuổi con' là:",
-      "a": ["$x - 3 = 4(y - 3)$", "$x = 4y - 3$", "$x - 3 = 4y$", "$x - 3 = 4y - 3$"],
-      "correct": 0
+      "q": "$4 + 6 = ?$",
+      "a": ["$9$", "$11$", "$8$", "$10$"],
+      "correct": 3
     },
     {
       "id": 31,
-      "q": "Một hình chữ nhật có chiều dài ($x$) gấp 3 lần chiều rộng ($y$). Nếu tăng chiều rộng 2m thì diện tích tăng 10m². Phương trình biểu thị diện tích tăng là:",
-      "a": ["$x(y + 2) - xy = 10$", "$x(y + 2) = 10$", "$(x + 2)(y + 2) = 10$", "$xy + 2 = 10$"],
+      "q": "$8 - 1 = ?$",
+      "a": ["$7$", "$6$", "$9$", "$8$"],
       "correct": 0
     },
     {
       "id": 32,
-      "q": "Biểu diễn hệ thức: 'Tỉ số giữa hoành độ và tung độ là 3/4'.",
-      "a": ["$\\frac{x}{y} = \\frac{3}{4}$", "$x - y = \\frac{3}{4}$", "$xy = \\frac{3}{4}$", "$\\frac{y}{x} = \\frac{3}{4}$"],
-      "correct": 0
+      "q": "$1 + 4 = ?$",
+      "a": ["$6$", "$5$", "$4$", "$3$"],
+      "correct": 1
     },
     {
       "id": 33,
-      "q": "Biểu diễn hệ thức: 'Hoành độ và tung độ tỷ lệ thuận với 2 và 5'.",
-      "a": ["$\\frac{x}{2} = \\frac{y}{5}$", "$\\frac{x}{5} = \\frac{y}{2}$", "$2x = 5y$", "$x + y = 7$"],
-      "correct": 0
+      "q": "$7 - 4 = ?$",
+      "a": ["$4$", "$2$", "$3$", "$1$"],
+      "correct": 2
     },
     {
       "id": 34,
-      "q": "Biểu diễn hệ thức: 'Hoành độ và tung độ tỷ lệ nghịch với 3 và 4'.",
-      "a": ["$3x = 4y$", "$\\frac{x}{3} = \\frac{y}{4}$", "$x + y = 7$", "$4x = 3y$"],
+      "q": "$5 + 5 = ?$",
+      "a": ["$10$", "$9$", "$8$", "$11$"],
       "correct": 0
     },
     {
       "id": 35,
-      "q": "Gọi năng suất là $x$ (sản phẩm/ngày), thời gian là $y$ (ngày). Hệ thức 'Tổng sản phẩm làm được là 500' là:",
-      "a": ["$xy = 500$", "$x + y = 500$", "$\\frac{x}{y} = 500$", "$500x = y$"],
-      "correct": 0
+      "q": "$3 - 1 = ?$",
+      "a": ["$1$", "$2$", "$3$", "$0$"],
+      "correct": 1
     },
     {
       "id": 36,
-      "q": "Biểu diễn hệ thức: 'Hoành độ bằng 75% tung độ'.",
-      "a": ["$x = \\frac{3}{4}y$", "$x = \\frac{4}{3}y$", "$y = \\frac{3}{4}x$", "$x - y = 0,75$"],
-      "correct": 0
+      "q": "$6 + 1 = ?$",
+      "a": ["$8$", "$6$", "$7$", "$5$"],
+      "correct": 2
     },
     {
       "id": 37,
-      "q": "Biểu diễn hệ thức: 'Nếu giảm hoành độ đi 3 lần thì được tung độ'.",
-      "a": ["$\\frac{x}{3} = y$", "$x - 3 = y$", "$3x = y$", "$x = 3y$"],
-      "correct": 0
+      "q": "$10 - 8 = ?$",
+      "a": ["$3$", "$1$", "$4$", "$2$"],
+      "correct": 3
     },
     {
       "id": 38,
-      "q": "Biểu diễn hệ thức: 'Hoành độ dương, tung độ âm'.",
-      "a": ["$x > 0, y < 0$", "$x < 0, y > 0$", "$x > 0, y > 0$", "$x < 0, y < 0$"],
+      "q": "$2 + 5 = ?$",
+      "a": ["$7$", "$8$", "$6$", "$9$"],
       "correct": 0
     },
     {
       "id": 39,
-      "q": "Biểu diễn hệ thức: 'Điểm M(x; y) nằm trên đường phân giác góc phần tư thứ nhất (x=y)'.",
-      "a": ["$x = y$", "$x = -y$", "$x + y = 0$", "$xy = 1$"],
-      "correct": 0
+      "q": "$9 - 0 = ?$",
+      "a": ["$0$", "$9$", "$8$", "$10$"],
+      "correct": 1
     },
     {
       "id": 40,
-      "q": "Biểu diễn hệ thức: 'Tổng của $x$ và 2 lần $y$ lớn hơn 10'. (Bất phương trình)",
-      "a": ["$x + 2y > 10$", "$2x + y > 10$", "$x + 2y \\ge 10$", "$x + y > 20$"],
-      "correct": 0
+      "q": "$1 + 2 = ?$",
+      "a": ["$4$", "$2$", "$3$", "$1$"],
+      "correct": 2
     }
   ]
 }
