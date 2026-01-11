@@ -1,0 +1,604 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "q": "Cái gì của người ta mà mình lại nhìn thấy nhiều hơn người đó?",
+      "a": ["Tiền bạc", "Khuôn mặt", "Cái bóng", "Gáy"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "q": "Con gì sinh ra đã ồn ào?",
+      "a": ["Con la", "Con ve", "Con tôm", "Con heo"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "q": "Cái gì càng cất lại càng thấy?",
+      "a": ["Cất tiền", "Cất nhà", "Cất giấu", "Cất rượu"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "q": "Tháng nào trong năm có 28 ngày?",
+      "a": ["Tháng 2", "Tháng 1", "Tất cả các tháng", "Không tháng nào"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "q": "Cái gì bạn không thể ăn vào bữa sáng?",
+      "a": ["Cơm", "Phở", "Bữa trưa và tối", "Bánh mì"],
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "q": "Từ nào trong tiếng Việt có 9 chữ h?",
+      "a": ["Chính", "Hành", "Thánh", "Chính (chín h)"],
+      "correct": 3
+    },
+    {
+      "id": 7,
+      "q": "Cái gì nằm giữa bầu trời và trái đất?",
+      "a": ["Mây", "Chữ Và", "Không khí", "Gió"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "q": "Con gì mang được cả miếng gỗ nhưng không mang nổi hòn sỏi?",
+      "a": ["Con sông", "Con voi", "Con kiến", "Con trâu"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "q": "Cái gì có cổ nhưng không có đầu?",
+      "a": ["Cái áo", "Con hươu", "Cái chai", "Cây đàn"],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "q": "Làm sao để cái cân tự cân chính nó?",
+      "a": ["Lật ngược lại", "Không làm được", "Soi gương", "Dùng cân khác"],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "q": "Cái gì không cánh mà bay?",
+      "a": ["Máy bay", "Thời gian", "Con chim", "Cái diều"],
+      "correct": 1
+    },
+    {
+      "id": 12,
+      "q": "Biển nào không có nước?",
+      "a": ["Biển Chết", "Biển báo", "Biển Đông", "Biển hồ"],
+      "correct": 1
+    },
+    {
+      "id": 13,
+      "q": "Cái gì càng thắng càng thua?",
+      "a": ["Đánh bài", "Đua xe", "Cái phanh (thắng)", "Cãi nhau"],
+      "correct": 2
+    },
+    {
+      "id": 14,
+      "q": "Con gì đập thì sống, không đập thì chết?",
+      "a": ["Con muỗi", "Quả trứng", "Con tim", "Con quay"],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "q": "Cái gì đen khi bạn mua nó, đỏ khi dùng nó và xám xịt khi vứt đi?",
+      "a": ["Than", "Bút chì", "Dưa hấu", "Quả mận"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "q": "Cái gì có răng mà không có miệng?",
+      "a": ["Cái lược", "Cái cưa", "Con tem", "Củ tỏi"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "q": "Con gì không có xương sống mà vẫn đứng được?",
+      "a": ["Con dốc", "Con giun", "Con người", "Con tem"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "q": "Bỏ ngoài nướng trong, ăn ngoài bỏ trong là gì?",
+      "a": ["Bắp ngô", "Khoai lang", "Con gà", "Củ lạc"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "q": "Cái gì luôn đi đến mà không bao giờ đến nơi?",
+      "a": ["Gió", "Ngày mai", "Tương lai", "Cả B và C"],
+      "correct": 3
+    },
+    {
+      "id": 20,
+      "q": "Cái gì tay trái cầm được còn tay phải cầm không được?",
+      "a": ["Tay phải", "Tay trái", "Cái bút", "Cái thìa"],
+      "correct": 0
+    },
+    {
+      "id": 21,
+      "q": "Cái gì chặt không đứt, bứt không rời?",
+      "a": ["Sợi dây", "Nước", "Tình yêu", "Tơ nhện"],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "q": "Nơi nào có đường xá nhưng không có xe cộ, có nhà nhưng không có người?",
+      "a": ["Thành phố ma", "Bản đồ", "Phim trường", "Sa mạc"],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "q": "Cái gì càng to càng nhỏ?",
+      "a": ["Con cua", "Cái bóng", "Quả cam", "Con voi"],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "q": "Quần gì rộng nhất?",
+      "a": ["Quần đảo", "Quần bò", "Quần short", "Quần dài"],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "q": "Con gì đầu dê mình ốc?",
+      "a": ["Con dốc", "Con sên", "Con rùa", "Con rồng"],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "q": "Bệnh gì bác sĩ bó tay?",
+      "a": ["Gãy tay", "Sâu răng", "Đau đầu", "Đau bụng"],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "q": "Cái gì đánh cha, đánh má, đánh anh, đánh chị, đánh em?",
+      "a": ["Bàn chải đánh răng", "Cây gậy", "Cái roi", "Cái búa"],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "q": "Cái gì người mua biết, người bán biết, người xài không bao giờ biết?",
+      "a": ["Quan tài", "Tiền", "Điện thoại", "Thức ăn"],
+      "correct": 0
+    },
+    {
+      "id": 29,
+      "q": "Lịch nào dài nhất?",
+      "a": ["Lịch sử", "Lịch vạn niên", "Lịch treo tường", "Lịch để bàn"],
+      "correct": 0
+    },
+    {
+      "id": 30,
+      "q": "Xã nào đông nhất?",
+      "a": ["Xã hội", "Xã đàn", "Xã tắc", "Xã giao"],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "q": "Cái gì càng kéo càng ngắn?",
+      "a": ["Điếu thuốc", "Sợi dây", "Cây kẹo", "Cuộc đời"],
+      "correct": 0
+    },
+    {
+      "id": 32,
+      "q": "Con gì ăn lửa với nước than?",
+      "a": ["Con tàu", "Con rồng", "Con hổ", "Con người"],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "q": "Cái gì đi mãi không mỏi?",
+      "a": ["Bánh xe", "Đồng hồ", "Dòng sông", "Gió"],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "q": "Con gì sinh ra đã là vua?",
+      "a": ["Cua hoàng đế", "Sư tử", "Cá voi", "Con vua"],
+      "correct": 0
+    },
+    {
+      "id": 35,
+      "q": "Cây gì không có lá, không có hoa, không có trái?",
+      "a": ["Cây cột điện", "Cây xăng", "Cây cầu", "Cả A, B, C"],
+      "correct": 3
+    },
+    {
+      "id": 36,
+      "q": "Cái gì càng rửa càng bẩn?",
+      "a": ["Nước", "Quần áo", "Bát đĩa", "Xe cộ"],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "q": "Cái gì có chân mà không biết đi?",
+      "a": ["Cái bàn", "Con chó", "Con mèo", "Con gà"],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "q": "Con gì càng già càng trẻ?",
+      "a": ["Con cua (lột xác)", "Con người", "Trái đất", "Con gà"],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "q": "Cái gì càng phơi càng ướt?",
+      "a": ["Mực", "Quần áo", "Chăn màn", "Cá khô"],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "q": "Cái gì không mượn mà trả?",
+      "a": ["Lời cảm ơn", "Tiền", "Đồ vật", "Tình cảm"],
+      "correct": 0
+    },
+    {
+      "id": 41,
+      "q": "Hạt gì không mọc thành cây?",
+      "a": ["Hạt mưa", "Hạt lúa", "Hạt bắp", "Hạt đậu"],
+      "correct": 0
+    },
+    {
+      "id": 42,
+      "q": "Con gì có thịt, không xương, không da?",
+      "a": ["Con đỉa", "Con giun", "Con sứa", "Con sông"],
+      "correct": 0
+    },
+    {
+      "id": 43,
+      "q": "Môn thể thao nào mà người chơi đi lùi?",
+      "a": ["Kéo co", "Đá bóng", "Bơi lội", "Chạy"],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "q": "Cái gì mà bạn có, khi bạn chia sẻ với tôi thì bạn không còn có nó nữa?",
+      "a": ["Bí mật", "Tiền", "Bánh", "Kiến thức"],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "q": "Thứ gì bạn phải phá vỡ trước khi sử dụng nó?",
+      "a": ["Quả trứng", "Cái hộp", "Cái nhà", "Quy tắc"],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "q": "Tôi có các thành phố, nhưng không có nhà cửa. Tôi có núi, nhưng không có cây. Tôi là gì?",
+      "a": ["Bản đồ", "Giấc mơ", "Sa mạc", "Bức tranh"],
+      "correct": 0
+    },
+    {
+      "id": 47,
+      "q": "Người đàn ông nào duy nhất có sữa?",
+      "a": ["Ông Thọ", "Ông hàng xóm", "Ông nội", "Ông ngoại"],
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "q": "Càng chơi càng ra nước?",
+      "a": ["Cờ vua", "Cờ tướng", "Chơi game", "Cả A và B"],
+      "correct": 0
+    },
+    {
+      "id": 49,
+      "q": "Cái gì dài như trái chuối, cầm 1 lúc thì chảy nước?",
+      "a": ["Que kem", "Cây nến", "Viên đá", "Thanh sắt"],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "q": "Con gì 3 đầu 9 đuôi?",
+      "a": ["Không có con này", "Con rồng", "Con gà", "Con quái vật"],
+      "correct": 0
+    },
+    {
+      "id": 51,
+      "q": "Một ly thủy tinh đựng đầy nước, làm thế nào để lấy nước dưới đáy ly mà không đổ nước ra ngoài?",
+      "a": ["Dùng ống hút", "Đập vỡ ly", "Đun sôi", "Đổ ra ly khác"],
+      "correct": 0
+    },
+    {
+      "id": 52,
+      "q": "Xe gì có nhiều bánh nhất?",
+      "a": ["Xe lửa", "Xe buýt", "Xe tải", "Xe đạp"],
+      "correct": 0
+    },
+    {
+      "id": 53,
+      "q": "Cái gì càng to thì càng nhẹ?",
+      "a": ["Bong bóng", "Cục đá", "Cái thùng", "Tờ giấy"],
+      "correct": 0
+    },
+    {
+      "id": 54,
+      "q": "Cái gì có miệng mà không nói được, có giường mà không ngủ được?",
+      "a": ["Con sông", "Cái nhà", "Cái hang", "Cái ly"],
+      "correct": 0
+    },
+    {
+      "id": 55,
+      "q": "Sở thú bị cháy, con gì chạy ra đầu tiên?",
+      "a": ["Con người", "Con chim", "Con hổ", "Con voi"],
+      "correct": 0
+    },
+    {
+      "id": 56,
+      "q": "Khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?",
+      "a": ["Quả bóng", "Gôn", "Thủ môn", "Khán giả"],
+      "correct": 0
+    },
+    {
+      "id": 57,
+      "q": "Có 1 đàn chim đậu trên cành, người thợ săn bắn cái rầm. Hỏi chết mấy con?",
+      "a": ["Rằm (15) con", "1 con", "Không con nào", "Cả đàn"],
+      "correct": 0
+    },
+    {
+      "id": 58,
+      "q": "Con gì càng chạy nhanh thì càng sống lâu?",
+      "a": ["Con tim", "Con thỏ", "Con ngựa", "Con báo"],
+      "correct": 0
+    },
+    {
+      "id": 59,
+      "q": "Bà đó bả chết bả bay lên trời. Hỏi bà ấy chết năm bao nhiêu tuổi?",
+      "a": ["73 tuổi", "83 tuổi", "93 tuổi", "100 tuổi"],
+      "correct": 0
+    },
+    {
+      "id": 60,
+      "q": "Cái gì mà đi thì nằm, đứng cũng nằm, nhưng nằm lại đứng?",
+      "a": ["Bàn chân", "Cái ghế", "Con mèo", "Cái giường"],
+      "correct": 0
+    },
+    {
+      "id": 61,
+      "q": "Ở Việt Nam, rồng bay ở đâu và đáp ở đâu?",
+      "a": ["Thăng Long, Hạ Long", "Hà Nội, Huế", "Đà Nẵng, Sài Gòn", "Trên trời, Dưới đất"],
+      "correct": 0
+    },
+    {
+      "id": 62,
+      "q": "Cá gì là cá mà không phải là cá?",
+      "a": ["Cá độ", "Cá mập", "Cá voi", "Cá heo"],
+      "correct": 0
+    },
+    {
+      "id": 63,
+      "q": "Nhà Nam có 4 anh em: Xuân, Hạ, Thu. Người còn lại tên gì?",
+      "a": ["Nam", "Đông", "Bắc", "Tây"],
+      "correct": 0
+    },
+    {
+      "id": 64,
+      "q": "Loại nước giải khát nào chứa sắt và canxi?",
+      "a": ["Cafe (Ca, Fe)", "Coca Cola", "Pepsi", "Trà sữa"],
+      "correct": 0
+    },
+    {
+      "id": 65,
+      "q": "Cái gì đánh thì đau, không đánh thì cũng đau?",
+      "a": ["Đánh răng (sâu răng)", "Đánh nhau", "Đánh đàn", "Đánh cờ"],
+      "correct": 0
+    },
+    {
+      "id": 66,
+      "q": "Con gì biết đi nhưng người ta vẫn nói là không biết đi?",
+      "a": ["Con bò (bò sát)", "Con chó", "Con chim", "Con cá"],
+      "correct": 0
+    },
+    {
+      "id": 67,
+      "q": "Trò gì càng chơi càng ra nhiều nước?",
+      "a": ["Chèo thuyền", "Bóng đá", "Bóng rổ", "Đánh bài"],
+      "correct": 0
+    },
+    {
+      "id": 68,
+      "q": "Cái gì không ai đào mà sâu?",
+      "a": ["Biển", "Cái giếng", "Cái hố", "Cái hang"],
+      "correct": 0
+    },
+    {
+      "id": 69,
+      "q": "Hồ gì phụ nữ có chồng rất ghét?",
+      "a": ["Hồ ly tinh", "Hồ bơi", "Hồ dán", "Hồ Gươm"],
+      "correct": 0
+    },
+    {
+      "id": 70,
+      "q": "Cái gì càng nặng thì càng dễ mang?",
+      "a": ["Lời hứa", "Cục đá", "Gỗ", "Sắt"],
+      "correct": 0
+    },
+    {
+      "id": 71,
+      "q": "Con gì sinh ra đã biết bơi?",
+      "a": ["Con cá", "Con gà", "Con mèo", "Con khỉ"],
+      "correct": 0
+    },
+    {
+      "id": 72,
+      "q": "Môn gì càng lùi càng thắng?",
+      "a": ["Kéo co", "Đá bóng", "Nhảy xa", "Điền kinh"],
+      "correct": 0
+    },
+    {
+      "id": 73,
+      "q": "Cái gì lúc nào cũng đi theo bạn nhưng bạn không bao giờ bắt được nó?",
+      "a": ["Cái bóng", "Cái đuôi", "Con chó", "Cái áo"],
+      "correct": 0
+    },
+    {
+      "id": 74,
+      "q": "Có 1 người đứng ở chân cầu. Ở giữa cầu có một con gấu rất hung dữ không cho ai qua. Người đó làm sao qua được?",
+      "a": ["Chờ gấu ngủ", "Đi đường khác", "Đánh nhau", "Bơi qua sông"],
+      "correct": 0
+    },
+    {
+      "id": 75,
+      "q": "Vịt nào đi bằng hai chân?",
+      "a": ["Tất cả các con vịt", "Vịt Donald", "Vịt quay", "Vịt bầu"],
+      "correct": 0
+    },
+    {
+      "id": 76,
+      "q": "Chuột nào đi bằng hai chân?",
+      "a": ["Chuột Mickey", "Chuột cống", "Chuột đồng", "Chuột túi"],
+      "correct": 0
+    },
+    {
+      "id": 77,
+      "q": "Cái gì to bằng cái vung, vùng xuống ao, đào không thấy, lấy không được?",
+      "a": ["Mặt trăng", "Cái mâm", "Cái bát", "Cục đá"],
+      "correct": 0
+    },
+    {
+      "id": 78,
+      "q": "Cái gì trên lông, dưới lông, tối lồng làm một?",
+      "a": ["Đôi mắt", "Cánh cửa", "Cái miệng", "Bàn tay"],
+      "correct": 0
+    },
+    {
+      "id": 79,
+      "q": "Con gì ăn bằng đuôi?",
+      "a": ["Con đỉa (đầu đuôi như nhau)", "Con voi", "Con cá", "Con chó"],
+      "correct": 0
+    },
+    {
+      "id": 80,
+      "q": "Cái gì không có chân, không có đuôi, không có cơ thể mà vẫn có đầu?",
+      "a": ["Cây cầu", "Con rắn", "Con cá", "Con giun"],
+      "correct": 0
+    },
+    {
+      "id": 81,
+      "q": "Vua gọi hoàng hậu bằng gì?",
+      "a": ["Bằng miệng", "Ái khanh", "Nàng", "Em yêu"],
+      "correct": 0
+    },
+    {
+      "id": 82,
+      "q": "Bánh gì ăn ít mà nhiều?",
+      "a": ["Bánh đa", "Bánh ít", "Bánh nhiều", "Bánh bò"],
+      "correct": 0
+    },
+    {
+      "id": 83,
+      "q": "Hoa gì biết ăn, biết nói, biết hát?",
+      "a": ["Hoa hậu", "Hoa hồng", "Hoa lan", "Hoa súng"],
+      "correct": 0
+    },
+    {
+      "id": 84,
+      "q": "Cái gì lặn thì nổi, nổi thì chìm?",
+      "a": ["Lưỡi câu", "Con tàu", "Cục đá", "Cái phao"],
+      "correct": 0
+    },
+    {
+      "id": 85,
+      "q": "Bức tranh nàng Mona Lisa, người đẹp này không có cái gì?",
+      "a": ["Chân mày", "Mũi", "Miệng", "Tóc"],
+      "correct": 0
+    },
+    {
+      "id": 86,
+      "q": "Con kiến bò lên tai con voi nói gì mà con voi nằm lăn ra chết?",
+      "a": ["Em có thai với anh rồi", "Em yêu anh", "Em ghét anh", "Em muốn giết anh"],
+      "correct": 0
+    },
+    {
+      "id": 87,
+      "q": "Loài chó nào nhảy cao bằng tòa nhà cao nhất thế giới?",
+      "a": ["Tất cả (vì nhà không biết nhảy)", "Chó Becgie", "Chó Poodle", "Chó mực"],
+      "correct": 0
+    },
+    {
+      "id": 88,
+      "q": "Tại sao con chó lại vẫy đuôi?",
+      "a": ["Vì cái đuôi không vẫy được chó", "Vì nó vui", "Vì nó thích", "Vì nó ghét"],
+      "correct": 0
+    },
+    {
+      "id": 89,
+      "q": "Hai người cùng đi vào rừng, thấy con hổ, một người chạy, người kia làm gì?",
+      "a": ["Chạy nhanh hơn người kia", "Đứng lại", "Leo cây", "Giả chết"],
+      "correct": 0
+    },
+    {
+      "id": 90,
+      "q": "Làm sao để nhét con voi vào tủ lạnh trong 3 bước?",
+      "a": ["Mở tủ, nhét voi, đóng tủ", "Cắt nhỏ, bỏ vào, đóng tủ", "Mua tủ to, bỏ vào, đóng", "Không làm được"],
+      "correct": 0
+    },
+    {
+      "id": 91,
+      "q": "Làm sao để nhét con hươu vào tủ lạnh trong 4 bước?",
+      "a": ["Mở tủ, bỏ voi ra, nhét hươu, đóng", "Mở tủ, nhét hươu, đóng, khóa", "Mua tủ khác, nhét hươu", "Không làm được"],
+      "correct": 0
+    },
+    {
+      "id": 92,
+      "q": "Rừng bị cháy, con nào chết đầu tiên?",
+      "a": ["Con cá", "Con chim", "Con hổ", "Con voi"],
+      "correct": 0
+    },
+    {
+      "id": 93,
+      "q": "Con gì có mũi mà không có mắt, có lưỡi mà không có miệng?",
+      "a": ["Con dao", "Con đường", "Con sông", "Con dốc"],
+      "correct": 0
+    },
+    {
+      "id": 94,
+      "q": "Ở đâu 30 + 30 = 1?",
+      "a": ["Đồng hồ (phút)", "Toán học", "Hóa học", "Vật lý"],
+      "correct": 0
+    },
+    {
+      "id": 95,
+      "q": "Cái gì bạn có thể giữ ngay cả khi cho người khác?",
+      "a": ["Lời hứa", "Tiền", "Vật chất", "Bệnh tật"],
+      "correct": 0
+    },
+    {
+      "id": 96,
+      "q": "Sông nào chảy ra biển mà không có nước?",
+      "a": ["Sông Ngân Hà", "Sông Hồng", "Sông Cửu Long", "Sông Amazon"],
+      "correct": 0
+    },
+    {
+      "id": 97,
+      "q": "Cái gì càng già càng dẻo dai?",
+      "a": ["Săm lốp xe", "Ông già", "Cây tre", "Sợi dây"],
+      "correct": 0
+    },
+    {
+      "id": 98,
+      "q": "Con gì đầu chuột đuôi heo?",
+      "a": ["Con giáp (Tý - Hợi)", "Con quái vật", "Con lai", "Không có"],
+      "correct": 0
+    },
+    {
+      "id": 99,
+      "q": "Cái gì càng thấp càng cao?",
+      "a": ["Giá cả (khi khan hiếm)", "Cái cây", "Con người", "Ngọn núi"],
+      "correct": 0
+    },
+    {
+      "id": 100,
+      "q": "Câu hỏi cuối cùng: 1 + 1 bằng mấy?",
+      "a": ["2", "3", "11", "Tùy"],
+      "correct": 0
+    }
+  ]
+}
