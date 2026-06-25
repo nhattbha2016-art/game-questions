@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "de_bai": "Mua 5 quyển vở và 3 chiếc bút mực hết tổng cộng 51.000 đồng. Mua 3 quyển vở và 2 chiếc bút mực cùng loại hết 32.000 đồng. Tính giá tiền một quyển vở và một chiếc bút mực.",
+        "dap_so": "6;7"
+    },
+    {
+        "id": 2,
+        "de_bai": "Một cửa hàng bán tổng cộng 120 chiếc áo gồm hai loại: áo sơ mi và áo thun. Số tiền thu được là 15 triệu đồng. Biết giá một áo sơ mi là 150.000 đồng, giá một áo thun là 100.000 đồng. Tính số áo mỗi loại cửa hàng đã bán.",
+        "dap_so": "60;60"
+    },
+    {
+        "id": 3,
+        "de_bai": "Một rạp hát bán được 300 vé gồm hai loại: vé người lớn giá 50.000 đồng và vé trẻ em giá 30.000 đồng. Tổng số tiền bán vé thu được là 11 triệu đồng. Tính số vé mỗi loại đã bán.",
+        "dap_so": "100;200"
+    },
+    {
+        "id": 4,
+        "de_bai": "Một người mua hai món hàng và phải trả tổng cộng 2,1 triệu đồng bao gồm cả thuế giá trị gia tăng (VAT) với mức thuế 10% cho món thứ nhất và 5% cho món thứ hai. Biết tổng giá tiền chưa thuế của hai món là 1,95 triệu đồng. Tính giá tiền chưa thuế của từng món hàng.",
+        "dap_so": "1000;950"
+    },
+    {
+        "id": 5,
+        "de_bai": "Để chuẩn bị cho kỳ thi, Nam mua 4 cây bút bi và 5 quyển tập hết 55.000 đồng. Bạn Lan mua 3 cây bút bi và 6 quyển tập cùng loại hết 54.000 đồng. Tính giá tiền một cây bút bi và một quyển tập.",
+        "dap_so": "5;7"
+    },
+    {
+        "id": 6,
+        "de_bai": "Một khách sạn có 50 phòng gồm hai loại: phòng đơn (1 giường) và phòng đôi (2 giường). Tổng số giường trong khách sạn là 85 giường. Tính số phòng mỗi loại.",
+        "dap_so": "15;35"
+    },
+    {
+        "id": 7,
+        "de_bai": "Biết rằng 2,5 kg sắt và 4 kg đồng có tổng khối lượng là 6,5 kg, nhưng giá tiền tổng cộng là 460.000 đồng. Nếu mua 3 kg sắt và 2 kg đồng cùng loại thì hết 340.000 đồng. Tính giá tiền 1 kg mỗi loại vật liệu.",
+        "dap_so": "60;77.5"
+    },
+    {
+        "id": 8,
+        "de_bai": "Bác An gửi tiết kiệm tổng cộng 200 triệu đồng vào hai ngân hàng khác nhau với lãi suất lần lượt là 6% và 7% một năm. Sau một năm, bác An nhận được tổng số tiền lãi là 13,2 triệu đồng. Hỏi bác An đã gửi vào mỗi ngân hàng bao nhiêu tiền?",
+        "dap_so": "80000;120000"
+    },
+    {
+        "id": 9,
+        "de_bai": "Một người mua 3 kg táo và 2 kg cam hết 165.000 đồng. Lần khác mua 2 kg táo và 4 kg cam cùng loại hết 210.000 đồng. Tính giá tiền 1 kg mỗi loại quả.",
+        "dap_so": "30;37.5"
+    },
+    {
+        "id": 10,
+        "de_bai": "Một đại lý mua 50 thùng nước ngọt và 40 thùng nước khoáng hết tổng cộng 13 triệu đồng. Lần sau mua 30 thùng nước ngọt và 60 thùng nước khoáng cùng loại hết 12 triệu đồng. Tính giá tiền một thùng mỗi loại.",
+        "dap_so": "160;120"
+    },
+    {
+        "id": 11,
+        "de_bai": "Một công ty du lịch đặt mua 15 vé máy bay gồm hai loại: vé hạng thương gia và vé hạng phổ thông hết tổng cộng 65 triệu đồng. Biết giá vé thương gia là 7 triệu đồng, vé phổ thông là 3 triệu đồng. Tính số vé mỗi loại công ty đã mua.",
+        "dap_so": "5;10"
+    },
+    {
+        "id": 12,
+        "de_bai": "Một cửa hàng thời trang giảm giá mặt hàng áo khoác 20% và quần jeans 15%. Bạn Minh mua 1 chiếc áo khoác và 1 chiếc quần jeans với tổng số tiền sau giảm giá là 655.000 đồng. Biết tổng giá tiền niêm yết ban đầu của hai món là 790.000 đồng. Tính giá niêm yết của từng món hàng.",
+        "dap_so": "380;410"
+    },
+    {
+        "id": 13,
+        "de_bai": "Một siêu thị điện máy bán được 25 chiếc tivi gồm hai mẫu A và B, thu được tổng số tiền là 340 triệu đồng. Giá một chiếc tivi mẫu A là 12 triệu đồng, mẫu B là 16 triệu đồng. Hỏi siêu thị đã bán được bao nhiêu chiếc tivi mỗi loại?",
+        "dap_so": "15;10"
+    },
+    {
+        "id": 14,
+        "de_bai": "Gia đình Lan đi ăn nhà hàng phải trả tổng cộng 1.320.000 đồng, trong đó đã bao gồm 10% thuế VAT cho thức ăn và 5% thuế VAT cho nước uống. Biết tổng số tiền chưa thuế của thức ăn và nước uống là 1.220.000 đồng. Tính số tiền chưa thuế của thức ăn và nước uống.",
+        "dap_so": "1000;220"
+    },
+    {
+        "id": 15,
+        "de_bai": "Hai người cùng góp vốn kinh doanh tổng cộng 500 triệu đồng. Sau một năm, số tiền của người thứ nhất tăng thêm 10%, số tiền của người thứ hai tăng thêm 12% nên tổng số vốn của họ tăng lên thành 554 triệu đồng. Tính số vốn góp ban đầu của mỗi người.",
+        "dap_so": "300000;200000"
+    },
+    {
+        "id": 16,
+        "de_bai": "Mua 4 hộp sữa và 3 gói bánh hết 195.000 đồng. Mua 2 hộp sữa và 5 gói bánh cùng loại hết 215.000 đồng. Tính giá tiền một hộp sữa và một gói bánh.",
+        "dap_so": "24;33"
+    },
+    {
+        "id": 17,
+        "de_bai": "Một khách sạn có 40 phòng cho thuê gồm loại phòng Deluxe giá 800.000 đồng/đêm và phòng Suite giá 1.200.000 đồng/đêm. Nếu tất cả các phòng đều được thuê hết thì tổng doanh thu một đêm là 36 triệu đồng. Tính số phòng mỗi loại.",
+        "dap_so": "30;10"
+    },
+    {
+        "id": 18,
+        "de_bai": "Nhà trường mua 100 chiếc ghế gồm hai loại: ghế gỗ và ghế nhựa hết tổng cộng 14 triệu đồng. Giá một chiếc ghế gỗ là 200.000 đồng, giá một chiếc ghế nhựa là 100.000 đồng. Hỏi nhà trường đã mua bao nhiêu chiếc ghế mỗi loại?",
+        "dap_so": "40;60"
+    },
+    {
+        "id": 19,
+        "de_bai": "Một nông dân bán 5 tạ gạo và 3 tạ ngô được tổng cộng 9,5 triệu đồng. Lần khác bán 4 tạ gạo và 5 tạ ngô cùng loại được tổng cộng 10,2 triệu đồng. Tính giá tiền 1 tạ gạo và 1 tạ ngô.",
+        "dap_so": "1300;1000"
+    },
+    {
+        "id": 20,
+        "de_bai": "Một công ty nhập khẩu 20 chiếc xe máy gồm hai dòng xe X và Y với tổng chi phí là 900 triệu đồng. Biết giá nhập một chiếc xe dòng X là 40 triệu đồng, dòng Y là 50 triệu đồng. Hỏi công ty đã nhập bao nhiêu chiếc xe mỗi dòng?",
+        "dap_so": "10;10"
+    },
+    {
+        "id": 21,
+        "de_bai": "Bạn Nam mua một đôi giày và một chiếc balo với tổng số tiền niêm yết là 1.200.000 đồng. Do có chương trình khuyến mãi, đôi giày được giảm giá 10%, chiếc balo được giảm giá 20% nên Nam chỉ phải trả tổng cộng 1.050.000 đồng. Tính giá tiền niêm yết ban đầu của mỗi mặt hàng.",
+        "dap_so": "700;500"
+    },
+    {
+        "id": 22,
+        "de_bai": "Một quán cà phê mua 8 kg cà phê hạt loại A và 5 kg cà phê hạt loại B hết tổng cộng 1.760.000 đồng. Lần sau quán mua 6 kg loại A và 10 kg loại B hết tổng cộng 2.120.000 đồng. Tính giá tiền 1 kg cà phê mỗi loại.",
+        "dap_so": "140;128"
+    },
+    {
+        "id": 23,
+        "de_bai": "Doanh nghiệp A thanh toán hóa đơn mua văn phòng phẩm và mực in hết tổng cộng 5.450.000 đồng (đã bao gồm thuế VAT). Biết thuế VAT của văn phòng phẩm là 5%, của mực in là 10% và tổng giá tiền chưa thuế của hai mặt hàng này là 5.000.000 đồng. Tính số tiền chưa thuế của từng loại.",
+        "dap_so": "1000;4000"
+    },
+    {
+        "id": 24,
+        "de_bai": "Một đại lý bánh kẹo bán được 80 hộp bánh gồm hai nhãn hiệu Cosy và Danisa, thu về tổng số tiền là 9,2 triệu đồng. Biết giá một hộp Cosy là 70.000 đồng, một hộp Danisa là 150.000 đồng. Tính số hộp bánh mỗi loại đã bán.",
+        "dap_so": "35;45"
+    },
+    {
+        "id": 25,
+        "de_bai": "Bác Bình đầu tư 300 triệu đồng vào hai quỹ chứng khoán khác nhau. Sau một năm, quỹ thứ nhất mang lại lợi nhuận 8%, quỹ thứ hai mang lại lợi nhuận 5%. Tổng số tiền lãi bác nhận được là 21 triệu đồng. Hỏi bác Bình đã đầu tư vào mỗi quỹ bao nhiêu tiền?",
+        "dap_so": "200000;100000"
+    },
+    {
+        "id": 26,
+        "de_bai": "Một công ty mua 6 chiếc máy tính xách tay và 4 chiếc máy in cho văn phòng mới hết tổng cộng 102 triệu đồng. Sau đó mua thêm 4 chiếc máy tính xách tay và 3 chiếc máy in cùng loại hết 70 triệu đồng. Tính giá tiền của một chiếc máy tính xách tay và một chiếc máy in.",
+        "dap_so": "13000;6000"
+    },
+    {
+        "id": 27,
+        "de_bai": "Một cửa hàng bán trái cây thu được 2,4 triệu đồng từ việc bán 30 kg xoài và 20 kg thanh long. Ngày hôm sau, cửa hàng bán được 20 kg xoài và 40 kg thanh long cùng loại thì thu được 2,8 triệu đồng. Tính giá bán 1 kg của từng loại trái cây.",
+        "dap_so": "50;45"
+    },
+    {
+        "id": 28,
+        "de_bai": "Một đoàn khách gồm 25 người vào tham quan một khu di tích. Giá vé cho người lớn là 40.000 đồng, giá vé cho trẻ em là 20.000 đồng. Tổng số tiền mua vé của đoàn là 760.000 đồng. Tính số người lớn và số trẻ em trong đoàn khách.",
+        "dap_so": "13;12"
+    },
+    {
+        "id": 29,
+        "de_bai": "Một rạp chiếu phim có 200 chỗ ngồi gồm hai hạng ghế: ghế thường giá 60.000 đồng và ghế VIP giá 90.000 đồng. Trong một buổi chiếu đầy rạp, tổng số tiền bán vé thu được là 14,4 triệu đồng. Hỏi rạp có bao nhiêu ghế mỗi loại?",
+        "dap_so": "120;80"
+    },
+    {
+        "id": 30,
+        "de_bai": "Một nhóm bạn đi mua sắm hết tổng cộng 910.000 đồng cho mặt hàng quần áo và giày dép (đã tính thuế VAT). Biết thuế VAT quần áo là 10%, giày dép là 8% và tổng số tiền chưa thuế là 840.000 đồng. Tính số tiền chưa thuế của từng nhóm mặt hàng.",
+        "dap_so": "350;490"
+    },
+    {
+        "id": 31,
+        "de_bai": "Một homestay có 12 phòng gồm hai loại: phòng đơn giá 400.000 đồng/đêm và phòng đôi giá 600.000 đồng/đêm. Khi tất cả các phòng đều được đặt kín, tổng số tiền thu được trong một đêm là 5,8 triệu đồng. Tính số phòng mỗi loại của homestay.",
+        "dap_so": "7;5"
+    },
+    {
+        "id": 32,
+        "de_bai": "Mua 3 thùng mì gói và 5 thùng sữa tươi hết tổng cộng 1.650.000 đồng. Mua 4 thùng mì gói và 3 thùng sữa tươi cùng loại hết 1.320.000 đồng. Tính giá tiền một thùng mì gói và một thùng sữa tươi.",
+        "dap_so": "150;240"
+    },
+    {
+        "id": 33,
+        "de_bai": "Một cửa hàng nông sản bán được 50 kg tiêu và 30 kg điều, thu được tổng cộng 10,5 triệu đồng. Biết giá 1 kg tiêu đắt hơn giá 1 kg điều là 50.000 đồng. Tính giá bán 1 kg mỗi loại.",
+        "dap_so": "150;100"
+    },
+    {
+        "id": 34,
+        "de_bai": "Doanh nghiệp mua một lô hàng máy lạnh và quạt hơi nước hết tổng cộng 185 triệu đồng chưa thuế. Sau khi tính thuế VAT (10% cho máy lạnh và 5% cho quạt hơi nước), tổng số tiền doanh nghiệp phải trả là 201,5 triệu đồng. Tính số tiền chưa thuế của máy lạnh và quạt hơi nước.",
+        "dap_so": "150000;35000"
+    },
+    {
+        "id": 35,
+        "de_bai": "Một nhà sách bán được 150 cuốn sách gồm hai loại: truyện tranh giá 25.000 đồng/cuốn và sách tham khảo giá 45.000 đồng/cuốn. Tổng số tiền thu được từ bán sách là 5,15 triệu đồng. Tính số cuốn sách mỗi loại nhà sách đã bán.",
+        "dap_so": "80;70"
+    },
+    {
+        "id": 36,
+        "de_bai": "Chị Hoa gửi tiết kiệm 150 triệu đồng vào hai kỳ hạn khác nhau tại một ngân hàng. Kỳ hạn 3 tháng có lãi suất 5%/năm, kỳ hạn 6 tháng có lãi suất 6%/năm. Tổng số tiền lãi chị thu được sau một năm là 8,4 triệu đồng. Hỏi chị Hoa đã gửi bao nhiêu tiền vào mỗi kỳ hạn?",
+        "dap_so": "60000;90000"
+    },
+    {
+        "id": 37,
+        "de_bai": "Mua 7 chiếc bút bi và 5 chiếc gọt bút chì hết tổng cộng 61.000 đồng. Mua 4 chiếc bút bi và 3 chiếc gọt bút chì cùng loại hết 36.000 đồng. Tính giá tiền của một chiếc bút bi và một chiếc gọt bút chì.",
+        "dap_so": "3;8"
+    },
+    {
+        "id": 38,
+        "de_bai": "Một shop thời trang bán được 40 chiếc chân váy và 30 chiếc áo sơ mi nữ thu được tổng cộng 18,7 triệu đồng. Biết giá một chiếc chân váy đắt hơn một chiếc áo sơ mi là 100.000 đồng. Tính giá tiền của một chiếc mỗi loại.",
+        "dap_so": "310;210"
+    },
+    {
+        "id": 39,
+        "de_bai": "Một nhà hàng mua 15 kg thịt bò và 20 kg thịt lợn hết tổng cộng 4,6 triệu đồng. Lần sau mua 12 kg thịt bò và 25 kg thịt lợn cùng loại hết tổng cộng 4,43 triệu đồng. Tính giá tiền 1 kg mỗi loại thịt.",
+        "dap_so": "180;95"
+    },
+    {
+        "id": 40,
+        "de_bai": "Một khách hàng thanh toán hóa đơn mua một chiếc tủ lạnh và một chiếc máy giặt hết tổng cộng 23,3 triệu đồng (đã bao gồm thuế VAT). Biết giá chưa thuế của tủ lạnh chịu mức VAT 10%, máy giặt chịu mức VAT 8% và tổng giá tiền chưa thuế của cả hai sản phẩm là 21,5 triệu đồng. Tính giá tiền chưa thuế của từng sản phẩm.",
+        "dap_so": "11500;10000"
+    }
+]
