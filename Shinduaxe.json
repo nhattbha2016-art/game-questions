@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "time_limit_seconds": 30,
+      "base_points": 1000,
+      "question_text": "Kết quả của phép tính 3 + 4 là bao nhiêu?",
+      "image_url": "",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct_answer": "7"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "time_limit_seconds": 30,
+      "base_points": 1000,
+      "question_text": "Kết quả của phép tính 10 - 6 là bao nhiêu?",
+      "image_url": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "time_limit_seconds": 45,
+      "base_points": 1000,
+      "question_text": "Điền số thích hợp vào chỗ trống: 5 + ... = 9",
+      "image_url": "",
+      "options": [],
+      "correct_answer_list": [
+        "4"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "time_limit_seconds": 30,
+      "base_points": 1000,
+      "question_text": "Mẹ có 8 quả táo, mẹ cho bé 3 quả. Hỏi mẹ còn lại bao nhiêu quả táo?",
+      "image_url": "",
+      "options": [
+        "4 quả",
+        "5 quả",
+        "6 quả",
+        "11 quả"
+      ],
+      "correct_answer": "5 quả"
+    },
+    {
+      "id": 5,
+      "type": "short_answer",
+      "time_limit_seconds": 45,
+      "base_points": 1000,
+      "question_text": "Tính nhẩm: 2 + 3 + 4 = ?",
+      "image_url": "",
+      "options": [],
+      "correct_answer_list": [
+        "9"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "time_limit_seconds": 30,
+      "base_points": 1000,
+      "question_text": "Phép tính nào sau đây có kết quả bằng 8?",
+      "image_url": "",
+      "options": [
+        "4 + 4",
+        "5 + 2",
+        "10 - 3",
+        "9 - 2"
+      ],
+      "correct_answer": "4 + 4"
+    },
+    {
+      "id": 7,
+      "type": "short_answer",
+      "time_limit_seconds": 45,
+      "base_points": 1000,
+      "question_text": "Tìm x biết: 7 - x = 2. x bằng bao nhiêu?",
+      "image_url": "",
+      "options": [],
+      "correct_answer_list": [
+        "5",
+        "x=5",
+        "x = 5"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "time_limit_seconds": 30,
+      "base_points": 1000,
+      "question_text": "Kết quả của phép tính 9 - 0 là bao nhiêu?",
+      "image_url": "",
+      "options": [
+        "0",
+        "9",
+        "8",
+        "1"
+      ],
+      "correct_answer": "9"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "time_limit_seconds": 30,
+      "base_points": 1000,
+      "question_text": "Có 6 chú chim đang đậu trên cành cây, có thêm 4 chú chim nữa bay đến. Hỏi có tất cả bao nhiêu chú chim?",
+      "image_url": "",
+      "options": [
+        "2 chú chim",
+        "8 chú chim",
+        "10 chú chim",
+        "9 chú chim"
+      ],
+      "correct_answer": "10 chú chim"
+    },
+    {
+      "id": 10,
+      "type": "short_answer",
+      "time_limit_seconds": 45,
+      "base_points": 1000,
+      "question_text": "Điền số thích hợp vào chỗ trống: 10 - 2 - 5 = ...",
+      "image_url": "",
+      "options": [],
+      "correct_answer_list": [
+        "3"
+      ]
+    }
+  ]
+}
