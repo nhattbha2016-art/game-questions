@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "de_bai": "Tính kết quả của phép tính sau: 3 + 2 =",
+    "dap_so": "5"
+  },
+  {
+    "id": 2,
+    "de_bai": "Tính kết quả của phép tính sau: 5 + 4 =",
+    "dap_so": "9"
+  },
+  {
+    "id": 3,
+    "de_bai": "Tính kết quả của phép tính sau: 6 - 2 =",
+    "dap_so": "4"
+  },
+  {
+    "id": 4,
+    "de_bai": "Tính kết quả của phép tính sau: 8 - 5 =",
+    "dap_so": "3"
+  },
+  {
+    "id": 5,
+    "de_bai": "Tính kết quả của phép tính sau: 1 + 7 =",
+    "dap_so": "8"
+  },
+  {
+    "id": 6,
+    "de_bai": "Tính kết quả của phép tính sau: 9 - 4 =",
+    "dap_so": "5"
+  },
+  {
+    "id": 7,
+    "de_bai": "Tính kết quả của phép tính sau: 2 + 6 =",
+    "dap_so": "8"
+  },
+  {
+    "id": 8,
+    "de_bai": "Tính kết quả của phép tính sau: 10 - 3 =",
+    "dap_so": "7"
+  },
+  {
+    "id": 9,
+    "de_bai": "Tính kết quả của phép tính sau: 4 + 4 =",
+    "dap_so": "8"
+  },
+  {
+    "id": 10,
+    "de_bai": "Tính kết quả của phép tính sau: 7 - 6 =",
+    "dap_so": "1"
+  },
+  {
+    "id": 11,
+    "de_bai": "Tính kết quả của phép tính sau: 5 + 5 =",
+    "dap_so": "10"
+  },
+  {
+    "id": 12,
+    "de_bai": "Tính kết quả của phép tính sau: 8 - 2 =",
+    "dap_so": "6"
+  },
+  {
+    "id": 13,
+    "de_bai": "Tính kết quả của phép tính sau: 3 + 6 =",
+    "dap_so": "9"
+  },
+  {
+    "id": 14,
+    "de_bai": "Tính kết quả của phép tính sau: 10 - 7 =",
+    "dap_so": "3"
+  },
+  {
+    "id": 15,
+    "de_bai": "Tính kết quả của phép tính sau: 2 + 5 =",
+    "dap_so": "7"
+  },
+  {
+    "id": 16,
+    "de_bai": "Tính kết quả của phép tính sau: 6 - 4 =",
+    "dap_so": "2"
+  },
+  {
+    "id": 17,
+    "de_bai": "Tính kết quả của phép tính sau: 7 + 3 =",
+    "dap_so": "10"
+  },
+  {
+    "id": 18,
+    "de_bai": "Tính kết quả của phép tính sau: 9 - 6 =",
+    "dap_so": "3"
+  },
+  {
+    "id": 19,
+    "de_bai": "Tính kết quả của phép tính sau: 4 + 2 =",
+    "dap_so": "6"
+  },
+  {
+    "id": 20,
+    "de_bai": "Tính kết quả của phép tính sau: 5 - 1 =",
+    "dap_so": "4"
+  },
+  {
+    "id": 21,
+    "de_bai": "Tính kết quả của phép tính sau: 1 + 8 =",
+    "dap_so": "9"
+  },
+  {
+    "id": 22,
+    "de_bai": "Tính kết quả của phép tính sau: 10 - 5 =",
+    "dap_so": "5"
+  },
+  {
+    "id": 23,
+    "de_bai": "Tính kết quả của phép tính sau: 3 + 3 =",
+    "dap_so": "6"
+  },
+  {
+    "id": 24,
+    "de_bai": "Tính kết quả của phép tính sau: 8 - 4 =",
+    "dap_so": "4"
+  },
+  {
+    "id": 25,
+    "de_bai": "Tính kết quả của phép tính sau: 2 + 7 =",
+    "dap_so": "9"
+  },
+  {
+    "id": 26,
+    "de_bai": "Tính kết quả của phép tính sau: 6 - 5 =",
+    "dap_so": "1"
+  },
+  {
+    "id": 27,
+    "de_bai": "Tính kết quả của phép tính sau: 4 + 5 =",
+    "dap_so": "9"
+  },
+  {
+    "id": 28,
+    "de_bai": "Tính kết quả của phép tính sau: 7 - 2 =",
+    "dap_so": "5"
+  },
+  {
+    "id": 29,
+    "de_bai": "Tính kết quả của phép tính sau: 1 + 6 =",
+    "dap_so": "7"
+  },
+  {
+    "id": 30,
+    "de_bai": "Tính kết quả của phép tính sau: 10 - 2 =",
+    "dap_so": "8"
+  },
+  {
+    "id": 31,
+    "de_bai": "Tính kết quả của phép tính sau: 5 + 3 =",
+    "dap_so": "8"
+  },
+  {
+    "id": 32,
+    "de_bai": "Tính kết quả của phép tính sau: 9 - 7 =",
+    "dap_so": "2"
+  },
+  {
+    "id": 33,
+    "de_bai": "Tính kết quả của phép tính sau: 2 + 4 =",
+    "dap_so": "6"
+  },
+  {
+    "id": 34,
+    "de_bai": "Tính kết quả của phép tính sau: 8 - 6 =",
+    "dap_so": "2"
+  },
+  {
+    "id": 35,
+    "de_bai": "Tính kết quả của phép tính sau: 6 + 3 =",
+    "dap_so": "9"
+  },
+  {
+    "id": 36,
+    "de_bai": "Tính kết quả của phép tính sau: 10 - 4 =",
+    "dap_so": "6"
+  },
+  {
+    "id": 37,
+    "de_bai": "Tính kết quả của phép tính sau: 3 + 7 =",
+    "dap_so": "10"
+  },
+  {
+    "id": 38,
+    "de_bai": "Tính kết quả của phép tính sau: 7 - 4 =",
+    "dap_so": "3"
+  },
+  {
+    "id": 39,
+    "de_bai": "Tính kết quả của phép tính sau: 4 + 6 =",
+    "dap_so": "10"
+  },
+  {
+    "id": 40,
+    "de_bai": "Tính kết quả của phép tính sau: 9 - 2 =",
+    "dap_so": "7"
+  }
+]
