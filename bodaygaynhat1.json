@@ -1,5 +1,4 @@
-{
-  "questions": [
+[
     {
       "id": 1,
       "q": "Dữ liệu thống kê được chia làm mấy loại chính?",
@@ -301,4 +300,3 @@
       "correct": 0
     }
   ]
-}
