@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "de_bai": "Trong các câu sau, câu nào là mệnh đề? A. Số 15 là số lẻ. B. Cậu đi đâu đấy? C. Tuyệt vời! D. Hãy làm bài tập đi!",
+    "dap_so": "a"
+  },
+  {
+    "id": 2,
+    "de_bai": "Câu nào sau đây không phải là mệnh đề? A. 3 + 4 = 7. B. Số 8 chia hết cho 2. C. Bạn có thích học toán không? D. Tứ giác có 4 cạnh.",
+    "dap_so": "c"
+  },
+  {
+    "id": 3,
+    "de_bai": "Mệnh đề nào sau đây là mệnh đề đúng? A. Số pi < 3. B. 2^3 = 6. C. Căn bậc hai của 25 bằng 5. D. 10 là số nguyên tố.",
+    "dap_so": "c"
+  },
+  {
+    "id": 4,
+    "de_bai": "Mệnh đề nào sau đây là mệnh đề sai? A. 15 chia hết cho 3. B. Căn 2 là số hữu tỉ. C. 2 là số nguyên tố. D. Hình chữ nhật có 4 góc vuông.",
+    "dap_so": "b"
+  },
+  {
+    "id": 5,
+    "de_bai": "Trong các câu sau, câu nào là mệnh đề chứa biến? A. 3 + 2 = 5. B. x + 2 > 5. C. 4 - 1 = 3. D. Số 5 là số chẵn.",
+    "dap_so": "b"
+  },
+  {
+    "id": 6,
+    "de_bai": "Cho mệnh đề P: \"Hà Nội là thủ đô của Việt Nam\". Mệnh đề phủ định của P là: A. Hà Nội không là thủ đô của Việt Nam. B. Hà Nội là một thành phố lớn. C. Việt Nam có thủ đô là Hà Nội. D. Hà Nội là thủ đô của nước khác.",
+    "dap_so": "a"
+  },
+  {
+    "id": 7,
+    "de_bai": "Phủ định của mệnh đề \"Số 5 là số chẵn\" là: A. Số 5 là số nguyên tố. B. Số 5 là số lẻ. C. Số 5 không phải là số chẵn. D. Số 5 là số dương.",
+    "dap_so": "c"
+  },
+  {
+    "id": 8,
+    "de_bai": "Mệnh đề phủ định của P: \"3 > 2\" là: A. 3 < 2. B. 3 <= 2. C. 3 = 2. D. 2 < 3.",
+    "dap_so": "b"
+  },
+  {
+    "id": 9,
+    "de_bai": "Phủ định của mệnh đề \"2^2 = 4\" là: A. 2^2 khác 4. B. 2^2 > 4. C. 2^2 < 4. D. 2^2 = -4.",
+    "dap_so": "a"
+  },
+  {
+    "id": 10,
+    "de_bai": "Mệnh đề kéo theo P => Q chỉ sai khi nào? A. P đúng, Q đúng. B. P đúng, Q sai. C. P sai, Q đúng. D. P sai, Q sai.",
+    "dap_so": "b"
+  },
+  {
+    "id": 11,
+    "de_bai": "Cho hai mệnh đề P: \"Tam giác ABC đều\" và Q: \"Tam giác ABC có 3 cạnh bằng nhau\". Mệnh đề P => Q phát biểu là: A. Nếu tam giác ABC đều thì tam giác ABC có 3 cạnh bằng nhau. B. Nếu tam giác ABC có 3 cạnh bằng nhau thì tam giác ABC đều. C. Tam giác ABC đều khi và chỉ khi tam giác ABC có 3 cạnh bằng nhau. D. Tam giác ABC không đều.",
+    "dap_so": "a"
+  },
+  {
+    "id": 12,
+    "de_bai": "Cho P => Q là mệnh đề đúng. Phát biểu nào sau đây đúng? A. P là điều kiện cần để có Q. B. P là điều kiện đủ để có Q. C. Q là điều kiện đủ để có P. D. P và Q là điều kiện cần và đủ của nhau.",
+    "dap_so": "b"
+  },
+  {
+    "id": 13,
+    "de_bai": "Mệnh đề đảo của mệnh đề P => Q là mệnh đề nào? A. Phủ định P => Phủ định Q. B. Q => P. C. Phủ định Q => Phủ định P. D. P <=> Q.",
+    "dap_so": "b"
+  },
+  {
+    "id": 14,
+    "de_bai": "Mệnh đề nào sau đây có mệnh đề đảo đúng? A. Nếu a = b thì a^2 = b^2. B. Nếu x > 0 thì x^2 > 0. C. Nếu tứ giác ABCD là hình vuông thì nó là hình chữ nhật. D. Nếu tam giác ABC đều thì nó là tam giác cân có một góc 60 độ.",
+    "dap_so": "d"
+  },
+  {
+    "id": 15,
+    "de_bai": "Kí hiệu ∀ đọc là gì? A. Tồn tại. B. Có một. C. Với mọi. D. Thuộc.",
+    "dap_so": "c"
+  },
+  {
+    "id": 16,
+    "de_bai": "Kí hiệu ∃ đọc là gì? A. Với mọi. B. Tồn tại (hoặc có ít nhất một). C. Không tồn tại. D. Tập hợp.",
+    "dap_so": "b"
+  },
+  {
+    "id": 17,
+    "de_bai": "Viết mệnh đề sau bằng kí hiệu: \"Mọi số thực bình phương đều không âm\". A. ∀x ∈ ℝ, x^2 > 0. B. ∃x ∈ ℝ, x^2 ≥ 0. C. ∀x ∈ ℝ, x^2 ≥ 0. D. ∃x ∈ ℝ, x^2 > 0.",
+    "dap_so": "c"
+  },
+  {
+    "id": 18,
+    "de_bai": "Viết mệnh đề sau bằng kí hiệu: \"Có một số nguyên nhỏ hơn 0\". A. ∀x ∈ ℤ, x < 0. B. ∃x ∈ ℤ, x ≤ 0. C. ∃x ∈ ℤ, x < 0. D. ∃x ∈ ℝ, x < 0.",
+    "dap_so": "c"
+  },
+  {
+    "id": 19,
+    "de_bai": "Mệnh đề nào sau đây đúng? A. ∀x ∈ ℝ, x^2 > 0. B. ∃x ∈ ℝ, x^2 < 0. C. ∃x ∈ ℝ, x^2 = 0. D. ∀x ∈ ℕ, x < 0.",
+    "dap_so": "c"
+  },
+  {
+    "id": 20,
+    "de_bai": "Phủ định của mệnh đề \"∀x ∈ ℝ, x^2 ≥ 0\" là: A. ∀x ∈ ℝ, x^2 < 0. B. ∃x ∈ ℝ, x^2 < 0. C. ∃x ∈ ℝ, x^2 ≤ 0. D. ∀x ∈ ℝ, x^2 ≤ 0.",
+    "dap_so": "b"
+  },
+  {
+    "id": 21,
+    "de_bai": "Phủ định của mệnh đề \"∃x ∈ ℝ, 5x - 3x^2 = 1\" là: A. ∃x ∈ ℝ, 5x - 3x^2 ≠ 1. B. ∀x ∈ ℝ, 5x - 3x^2 ≠ 1. C. ∀x ∈ ℝ, 5x - 3x^2 = 1. D. ∃x ∈ ℝ, 5x - 3x^2 ≥ 1.",
+    "dap_so": "b"
+  },
+  {
+    "id": 22,
+    "de_bai": "Cho mệnh đề chứa biến P(x): \"x + 1 > 3\". Chọn giá trị của x để P(x) là mệnh đề đúng. A. x = 1. B. x = 2. C. x = 0. D. x = 3.",
+    "dap_so": "d"
+  },
+  {
+    "id": 23,
+    "de_bai": "Cho mệnh đề chứa biến P(n): \"n chia hết cho 5\" với n ∈ ℕ. Giá trị nào sau đây của n làm P(n) thành mệnh đề sai? A. n = 5. B. n = 10. C. n = 12. D. n = 0.",
+    "dap_so": "c"
+  },
+  {
+    "id": 24,
+    "de_bai": "Câu nào là cách đọc của mệnh đề tương đương (P <=> Q)? A. P kéo theo Q. B. Nếu P thì Q. C. P khi và chỉ khi Q. D. P và Q cùng sai.",
+    "dap_so": "c"
+  },
+  {
+    "id": 25,
+    "de_bai": "Cho 2 mệnh đề P và Q. Mệnh đề P <=> Q đúng khi nào? A. P và Q cùng đúng hoặc cùng sai. B. P đúng, Q sai. C. P sai, Q đúng. D. Chỉ khi P và Q cùng đúng.",
+    "dap_so": "a"
+  },
+  {
+    "id": 26,
+    "de_bai": "Câu nào dưới đây KHÔNG là mệnh đề? A. 2024 là năm nhuận. B. Trái Đất quay quanh Mặt Trời. C. Buồn ngủ quá! D. 5 là số lẻ.",
+    "dap_so": "c"
+  },
+  {
+    "id": 27,
+    "de_bai": "Mệnh đề \"Hình thoi có hai đường chéo vuông góc\" là: A. Mệnh đề đúng. B. Mệnh đề sai. C. Không phải mệnh đề. D. Mệnh đề chứa biến.",
+    "dap_so": "a"
+  },
+  {
+    "id": 28,
+    "de_bai": "Cho mệnh đề P: \"10 là bội của 3\". Mệnh đề phủ định của P là gì và tính đúng/sai ra sao? A. \"10 không là bội của 3\", đúng. B. \"10 không là bội của 3\", sai. C. \"10 là ước của 3\", đúng. D. \"10 là ước của 3\", sai.",
+    "dap_so": "a"
+  },
+  {
+    "id": 29,
+    "de_bai": "Phát biểu nào sau đây sử dụng đúng khái niệm \"Điều kiện cần\" cho mệnh đề A => B? A. Nếu A thì B. B. B là điều kiện cần để có A. C. A là điều kiện cần để có B. D. A khi và chỉ khi B.",
+    "dap_so": "b"
+  },
+  {
+    "id": 30,
+    "de_bai": "Cho mệnh đề: \"Nếu một số tự nhiên tận cùng bằng 0 thì nó chia hết cho 5\". Mệnh đề đảo là: A. Nếu một số tự nhiên không tận cùng bằng 0 thì không chia hết cho 5. B. Nếu một số tự nhiên chia hết cho 5 thì nó tận cùng bằng 0. C. Một số tự nhiên chia hết cho 5 khi và chỉ khi nó tận cùng bằng 0. D. Nếu một số tự nhiên không chia hết cho 5 thì không tận cùng bằng 0.",
+    "dap_so": "b"
+  },
+  {
+    "id": 31,
+    "de_bai": "Mệnh đề đảo ở câu trên (\"Nếu một số tự nhiên chia hết cho 5 thì nó tận cùng bằng 0\") có tính đúng sai như thế nào? A. Đúng vì số nào chia hết cho 5 cũng tận cùng là 0. B. Sai vì số 15 chia hết cho 5 nhưng tận cùng bằng 5. C. Đúng vì 10 chia hết cho 5 và tận cùng là 0. D. Không thể xác định.",
+    "dap_so": "b"
+  },
+  {
+    "id": 32,
+    "de_bai": "Kí hiệu nào thể hiện mệnh đề: \"Mọi số nguyên dương đều lớn hơn 0\"? A. ∀x ∈ ℕ*, x > 0. B. ∃x ∈ ℤ, x > 0. C. ∀x ∈ ℤ, x > 0. D. ∃x ∈ ℕ*, x > 0.",
+    "dap_so": "a"
+  },
+  {
+    "id": 33,
+    "de_bai": "Tìm mệnh đề đúng trong các mệnh đề sau: A. ∃x ∈ ℝ, x^2 + 1 = 0. B. ∀x ∈ ℝ, x^2 ≥ x. C. ∃x ∈ ℝ, x = x^2. D. ∀x ∈ ℤ, x > -x.",
+    "dap_so": "c"
+  },
+  {
+    "id": 34,
+    "de_bai": "Cho tập hợp X = {1; 2; 3; 4}. Mệnh đề nào sau đây đúng? A. ∀x ∈ X, x < 4. B. ∀x ∈ X, x ≥ 1. C. ∃x ∈ X, x^2 = 5. D. ∃x ∈ X, x > 5.",
+    "dap_so": "b"
+  },
+  {
+    "id": 35,
+    "de_bai": "Phủ định của mệnh đề: \"Tất cả học sinh lớp 10A đều thích học môn Toán\" là: A. Tất cả học sinh lớp 10A đều không thích học môn Toán. B. Có ít nhất một học sinh lớp 10A không thích học môn Toán. C. Không có học sinh nào lớp 10A thích học môn Toán. D. Có một học sinh lớp 10A thích học môn Toán.",
+    "dap_so": "b"
+  },
+  {
+    "id": 36,
+    "de_bai": "Cho mệnh đề A: \"∀x ∈ ℝ, x^2 - x + 1 > 0\". Mệnh đề phủ định của A là: A. ∃x ∈ ℝ, x^2 - x + 1 ≤ 0. B. ∀x ∈ ℝ, x^2 - x + 1 ≤ 0. C. ∃x ∈ ℝ, x^2 - x + 1 < 0. D. ∀x ∈ ℝ, x^2 - x + 1 < 0.",
+    "dap_so": "a"
+  },
+  {
+    "id": 37,
+    "de_bai": "Mệnh đề \"Nếu hai tam giác bằng nhau thì diện tích của chúng bằng nhau\" có dạng nào? A. P <=> Q. B. ∀x ∈ X, P(x). C. P => Q. D. P hoặc Q.",
+    "dap_so": "c"
+  },
+  {
+    "id": 38,
+    "de_bai": "Trong các mệnh đề sau, mệnh đề nào SAI? A. 10 chia hết cho 5 <=> 10 tận cùng là 0. B. Tam giác ABC vuông tại A <=> AB^2 + AC^2 = BC^2. C. x = y => x^2 = y^2. D. x^2 = y^2 => x = y.",
+    "dap_so": "d"
+  },
+  {
+    "id": 39,
+    "de_bai": "Phát biểu: \"ABC là tam giác đều là điều kiện đủ để ABC là tam giác cân\" tương ứng với kí hiệu mệnh đề nào (với P: ABC là tam giác đều, Q: ABC là tam giác cân)? A. P => Q. B. Q => P. C. P <=> Q. D. Phủ định P => Phủ định Q.",
+    "dap_so": "a"
+  },
+  {
+    "id": 40,
+    "de_bai": "Mệnh đề chứa biến P(x, y): \"x + y = 2\" đúng với cặp (x, y) nào sau đây? A. (1, 0). B. (0, 2). C. (2, 1). D. (-1, 1).",
+    "dap_so": "b"
+  }
+]
