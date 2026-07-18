@@ -1,694 +1,754 @@
 {
   "questions": [
     {
-      "id": 1,
-      "type": "multiple_choice",
-      "time_limit_seconds": 45,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $(x - 3)(x - 5) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 3; x = -5",
-        "x = -3; x = 5",
-        "x = 3; x = 5",
-        "x = -3; x = -5"
-      ],
-      "correct_answer": "x = 3; x = 5"
-    },
-    {
-      "id": 2,
-      "type": "multiple_choice",
-      "time_limit_seconds": 45,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $(x + 2)(x - 7) = 0$",
-      "image_url": "",
-      "options": [
-        "x = -2; x = 7",
-        "x = 2; x = -7",
-        "x = 2; x = 7",
-        "x = -2; x = -7"
-      ],
-      "correct_answer": "x = -2; x = 7"
-    },
-    {
-      "id": 3,
-      "type": "multiple_choice",
-      "time_limit_seconds": 45,
-      "base_points": 1000,
-      "question_text": "Tìm tập nghiệm của phương trình: $(x + 4)(x + 6) = 0$",
-      "image_url": "",
-      "options": [
-        "S = {4; 6}",
-        "S = {-4; -6}",
-        "S = {-4; 6}",
-        "S = {4; -6}"
-      ],
-      "correct_answer": "S = {-4; -6}"
-    },
-    {
-      "id": 4,
-      "type": "multiple_choice",
-      "time_limit_seconds": 45,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $(2x - 1)(x + 3) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 1; x = -3",
-        "x = 0,5; x = 3",
-        "x = -0,5; x = -3",
-        "x = 0,5; x = -3"
-      ],
-      "correct_answer": "x = 0,5; x = -3"
-    },
-    {
-      "id": 5,
-      "type": "multiple_choice",
-      "time_limit_seconds": 45,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $(3x + 9)(x - 1) = 0$",
-      "image_url": "",
-      "options": [
-        "x = -3; x = 1",
-        "x = 3; x = 1",
-        "x = -3; x = -1",
-        "x = 3; x = -1"
-      ],
-      "correct_answer": "x = -3; x = 1"
-    },
-    {
-      "id": 6,
-      "type": "multiple_choice",
-      "time_limit_seconds": 45,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $(x - \\frac{1}{2})(x + \\frac{3}{4}) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 1/2; x = 3/4",
-        "x = -1/2; x = -3/4",
-        "x = 1/2; x = -3/4",
-        "x = -1/2; x = 3/4"
-      ],
-      "correct_answer": "x = 1/2; x = -3/4"
-    },
-    {
-      "id": 7,
-      "type": "multiple_choice",
-      "time_limit_seconds": 45,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $(5 - x)(x + 8) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 5; x = 8",
-        "x = 5; x = -8",
-        "x = -5; x = 8",
-        "x = -5; x = -8"
-      ],
-      "correct_answer": "x = 5; x = -8"
-    },
-    {
-      "id": 8,
-      "type": "multiple_choice",
-      "time_limit_seconds": 45,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $(4x - 8)(2x + 6) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 2; x = 3",
-        "x = -2; x = -3",
-        "x = -2; x = 3",
-        "x = 2; x = -3"
-      ],
-      "correct_answer": "x = 2; x = -3"
-    },
-    {
-      "id": 9,
-      "type": "multiple_choice",
-      "time_limit_seconds": 45,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $(\\frac{1}{3}x - 2)(x - 9) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 6; x = 9",
-        "x = 2/3; x = 9",
-        "x = -6; x = 9",
-        "x = 6; x = -9"
-      ],
-      "correct_answer": "x = 6; x = 9"
-    },
-    {
-      "id": 10,
-      "type": "multiple_choice",
-      "time_limit_seconds": 45,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $(x - \\sqrt{2})(x + \\sqrt{2}) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 2; x = -2",
-        "x = √2; x = -√2",
-        "x = √2",
-        "x = -√2"
-      ],
-      "correct_answer": "x = √2; x = -√2"
-    },
-    {
-      "id": 11,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $4(x - 2) = x(x - 2)$",
-      "image_url": "",
-      "options": [
-        "x = 2",
-        "x = 4",
-        "x = 2; x = 4",
-        "x = -2; x = -4"
-      ],
-      "correct_answer": "x = 2; x = 4"
-    },
-    {
-      "id": 12,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $7(x + 5) = x(x + 5)$",
-      "image_url": "",
-      "options": [
-        "x = 7; x = 5",
-        "x = 7; x = -5",
-        "x = -7; x = 5",
-        "x = -7; x = -5"
-      ],
-      "correct_answer": "x = 7; x = -5"
-    },
-    {
-      "id": 13,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $-3(x - 1) = x(x - 1)$",
-      "image_url": "",
-      "options": [
-        "x = 1; x = 3",
-        "x = -1; x = -3",
-        "x = 1; x = -3",
-        "x = -1; x = 3"
-      ],
-      "correct_answer": "x = 1; x = -3"
-    },
-    {
-      "id": 14,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x(x + 10) = 2(x + 10)$",
-      "image_url": "",
-      "options": [
-        "x = 2; x = 10",
-        "x = 2; x = -10",
-        "x = -2; x = 10",
-        "x = -2; x = -10"
-      ],
-      "correct_answer": "x = 2; x = -10"
-    },
-    {
-      "id": 15,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $12(x - 4) = x(x - 4)$",
-      "image_url": "",
-      "options": [
-        "x = 4; x = 12",
-        "x = -4; x = 12",
-        "x = 4; x = -12",
-        "x = 12"
-      ],
-      "correct_answer": "x = 4; x = 12"
-    },
-    {
-      "id": 16,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x(2x - 4) = 5(2x - 4)$",
-      "image_url": "",
-      "options": [
-        "x = 5; x = 2",
-        "x = 5; x = 4",
-        "x = -5; x = 2",
-        "x = 5; x = -2"
-      ],
-      "correct_answer": "x = 5; x = 2"
-    },
-    {
-      "id": 17,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x(x + a) = c(x + a)$ với $a=1, c=6$",
-      "image_url": "",
-      "options": [
-        "x = 6; x = 1",
-        "x = 6; x = -1",
-        "x = -6; x = 1",
-        "x = -6; x = -1"
-      ],
-      "correct_answer": "x = 6; x = -1"
-    },
-    {
-      "id": 18,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $9(x + 9) = x(x + 9)$",
-      "image_url": "",
-      "options": [
-        "x = 9",
-        "x = -9",
-        "x = 9; x = -9",
-        "x = 0; x = 9"
-      ],
-      "correct_answer": "x = 9; x = -9"
-    },
-    {
-      "id": 19,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $-x(x - 3) = 4(x - 3)$",
-      "image_url": "",
-      "options": [
-        "x = 3; x = 4",
-        "x = 3; x = -4",
-        "x = -3; x = 4",
-        "x = -3; x = -4"
-      ],
-      "correct_answer": "x = 3; x = -4"
-    },
-    {
-      "id": 20,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $15(x - 20) = x(x - 20)$",
-      "image_url": "",
-      "options": [
-        "x = 15; x = 20",
-        "x = 15; x = -20",
-        "x = -15; x = 20",
-        "x = 0; x = 20"
-      ],
-      "correct_answer": "x = 15; x = 20"
-    },
-    {
-      "id": 21,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x^2 = 5x$",
-      "image_url": "",
-      "options": [
-        "x = 5",
-        "x = 0",
-        "x = 0; x = 5",
-        "x = 0; x = -5"
-      ],
-      "correct_answer": "x = 0; x = 5"
-    },
-    {
-      "id": 22,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x^2 = -3x$",
-      "image_url": "",
-      "options": [
-        "x = 0; x = 3",
-        "x = 0; x = -3",
-        "x = 3",
-        "x = -3"
-      ],
-      "correct_answer": "x = 0; x = -3"
-    },
-    {
-      "id": 23,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Tìm x biết: $x^2 - 10x = 0$",
-      "image_url": "",
-      "options": [
-        "x = 10",
-        "x = 0; x = 10",
-        "x = 0; x = -10",
-        "x = -10"
-      ],
-      "correct_answer": "x = 0; x = 10"
-    },
-    {
-      "id": 24,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x^2 + 7x = 0$",
-      "image_url": "",
-      "options": [
-        "x = 0; x = 7",
-        "x = 7",
-        "x = -7",
-        "x = 0; x = -7"
-      ],
-      "correct_answer": "x = 0; x = -7"
-    },
-    {
-      "id": 25,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $2x^2 = 8x$",
-      "image_url": "",
-      "options": [
-        "x = 0; x = 4",
-        "x = 0; x = 2",
-        "x = 0; x = 8",
-        "x = 4"
-      ],
-      "correct_answer": "x = 0; x = 4"
-    },
-    {
-      "id": 26,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $3x^2 + 12x = 0$",
-      "image_url": "",
-      "options": [
-        "x = 0; x = 4",
-        "x = 0; x = -4",
-        "x = 4; x = -4",
-        "x = 0; x = 3"
-      ],
-      "correct_answer": "x = 0; x = -4"
-    },
-    {
-      "id": 27,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x^2 = x$",
-      "image_url": "",
-      "options": [
-        "x = 1",
-        "x = 0",
-        "x = 0; x = 1",
-        "x = 0; x = -1"
-      ],
-      "correct_answer": "x = 0; x = 1"
-    },
-    {
-      "id": 28,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x^2 + x = 0$",
-      "image_url": "",
-      "options": [
-        "x = 0; x = 1",
-        "x = 0; x = -1",
-        "x = 1",
-        "x = -1"
-      ],
-      "correct_answer": "x = 0; x = -1"
-    },
-    {
-      "id": 29,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $5x^2 - 20x = 0$",
-      "image_url": "",
-      "options": [
-        "x = 0; x = 4",
-        "x = 0; x = 5",
-        "x = 0; x = 20",
-        "x = 4"
-      ],
-      "correct_answer": "x = 0; x = 4"
-    },
-    {
-      "id": 30,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $-2x^2 = 10x$",
-      "image_url": "",
-      "options": [
-        "x = 0; x = 5",
-        "x = 0; x = -5",
-        "x = 5; x = -5",
-        "x = -5"
-      ],
-      "correct_answer": "x = 0; x = -5"
-    },
-    {
-      "id": 31,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x^2 = 16$",
-      "image_url": "",
-      "options": [
-        "x = 4",
-        "x = -4",
-        "x = 4; x = -4",
-        "x = 8; x = -8"
-      ],
-      "correct_answer": "x = 4; x = -4"
-    },
-    {
-      "id": 32,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x^2 = 49$",
-      "image_url": "",
-      "options": [
-        "x = 7; x = -7",
-        "x = 7",
-        "x = -7",
-        "x = 49; x = -49"
-      ],
-      "correct_answer": "x = 7; x = -7"
-    },
-    {
-      "id": 33,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x^2 - 100 = 0$",
-      "image_url": "",
-      "options": [
-        "x = 10",
-        "x = -10",
-        "x = 10; x = -10",
-        "x = 50; x = -50"
-      ],
-      "correct_answer": "x = 10; x = -10"
-    },
-    {
-      "id": 34,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x^2 = 1$",
-      "image_url": "",
-      "options": [
-        "x = 1",
-        "x = -1",
-        "x = 1; x = -1",
-        "x = 0; x = 1"
-      ],
-      "correct_answer": "x = 1; x = -1"
-    },
-    {
-      "id": 35,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x^2 = 0$",
-      "image_url": "",
-      "options": [
-        "x = 0",
-        "Vô nghiệm",
-        "x = 1; x = -1",
-        "x = 0; x = -0"
-      ],
-      "correct_answer": "x = 0"
-    },
-    {
-      "id": 36,
-      "type": "multiple_choice",
-      "time_limit_seconds": 30,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $4x^2 = 36$",
-      "image_url": "",
-      "options": [
-        "x = 9; x = -9",
-        "x = 3; x = -3",
-        "x = 3",
-        "x = 6; x = -6"
-      ],
-      "correct_answer": "x = 3; x = -3"
-    },
-    {
-      "id": 41,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x(x + 2) + 3(x + 2) = 0$",
-      "image_url": "",
-      "options": [
-        "x = -2; x = 3",
-        "x = 2; x = -3",
-        "x = -2; x = -3",
-        "x = 2; x = 3"
-      ],
-      "correct_answer": "x = -2; x = -3"
-    },
-    {
-      "id": 42,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x(x - 5) - 4(x - 5) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 4; x = 5",
-        "x = -4; x = 5",
-        "x = 4; x = -5",
-        "x = -4; x = -5"
-      ],
-      "correct_answer": "x = 4; x = 5"
-    },
-    {
-      "id": 43,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x(x + 1) + 1(x + 1) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 1",
-        "x = -1",
-        "x = 1; x = -1",
-        "x = 0; x = -1"
-      ],
-      "correct_answer": "x = -1"
-    },
-    {
-      "id": 44,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x(x - 3) + 2(x - 3) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 3; x = 2",
-        "x = -3; x = -2",
-        "x = 3; x = -2",
-        "x = -3; x = 2"
-      ],
-      "correct_answer": "x = 3; x = -2"
-    },
-    {
-      "id": 45,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x(x + 8) - 8(x + 8) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 8; x = -8",
-        "x = 8",
-        "x = -8",
-        "x = 0; x = 8"
-      ],
-      "correct_answer": "x = 8; x = -8"
-    },
-    {
-      "id": 46,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $2x(x - 4) + 3(x - 4) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 4; x = 3/2",
-        "x = 4; x = -3/2",
-        "x = -4; x = 3/2",
-        "x = -4; x = -3/2"
-      ],
-      "correct_answer": "x = 4; x = -3/2"
-    },
-    {
-      "id": 47,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x(2x + 6) - 5(2x + 6) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 5; x = 3",
-        "x = 5; x = -3",
-        "x = -5; x = 3",
-        "x = -5; x = -3"
-      ],
-      "correct_answer": "x = 5; x = -3"
-    },
-    {
-      "id": 48,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x(x - 10) + 10(x - 10) = 0$",
-      "image_url": "",
-      "options": [
-        "x = 10",
-        "x = -10",
-        "x = 10; x = -10",
-        "x = 0; x = 10"
-      ],
-      "correct_answer": "x = 10; x = -10"
-    },
-    {
-      "id": 49,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $3x(x + 7) - (x + 7) = 0$",
-      "image_url": "",
-      "options": [
-        "x = -7; x = 1/3",
-        "x = 7; x = 1/3",
-        "x = -7; x = -1/3",
-        "x = 7; x = -1/3"
-      ],
-      "correct_answer": "x = -7; x = 1/3"
-    },
-    {
-      "id": 50,
-      "type": "multiple_choice",
-      "time_limit_seconds": 60,
-      "base_points": 1000,
-      "question_text": "Giải phương trình: $x(x - a) + b(x - a) = 0$ với $a=4, b=4$",
-      "image_url": "",
-      "options": [
-        "x = 4",
-        "x = -4",
-        "x = 4; x = -4",
-        "x = 0"
-      ],
-      "correct_answer": "x = 4; x = -4"
-    }
-  ]
+"id": 1,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và B = (0; 6]. Hãy xác định tập hợp A \cap B:",
+"image_url": "",
+"options": [
+"(-4; 2)",
+"[0; 2)",
+"(0; 2]",
+"(0; 2)"
+],
+"correct_answer": "(0; 2)"
+},
+{
+"id": 2,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và M = (-\infty; 4]. Hãy xác định tập hợp A \cap M:",
+"image_url": "",
+"options": [
+"(-4; 2)",
+"[-4; 2]",
+"(-4; 2]",
+"[-4; 2)"
+],
+"correct_answer": "[-4; 2)"
+},
+{
+"id": 3,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và N = (-1; +\infty). Hãy xác định tập hợp A \cup N:",
+"image_url": "",
+"options": [
+"[-4; +\infty)",
+"(-4; +\infty)",
+"[-4; +\infty]",
+"[-4; 0)"
+],
+"correct_answer": "[-4; +\infty)"
+},
+{
+"id": 4,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và E = [-2; 5]. Hãy xác định tập hợp A \setminus E:",
+"image_url": "",
+"options": [
+"[-4; -2)",
+"(-4; -2)",
+"[-4; -2]",
+"[-4; 2)"
+],
+"correct_answer": "[-4; -2)"
+},
+{
+"id": 5,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và F = (1; 8). Hãy xác định tập hợp A \setminus F:",
+"image_url": "",
+"options": [
+"[-4; 1)",
+"[-4; -1]",
+"[-4; 1]",
+"(-4; 1]"
+],
+"correct_answer": "[-4; 1]"
+},
+{
+"id": 6,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và G = [5; +\infty). Hãy xác định tập hợp A \setminus G:",
+"image_url": "",
+"options": [
+"[-4; 2)",
+"(-4; 2)",
+"[-4; 2]",
+"[-4; 3)"
+],
+"correct_answer": "[-4; 2)"
+},
+{
+"id": 7,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và P = [-5; 0). Hãy xác định tập hợp A \cup P:",
+"image_url": "",
+"options": [
+"[-5; 2]",
+"(-5; 2)",
+"[-5; 3)",
+"[-5; 2)"
+],
+"correct_answer": "[-5; 2)"
+},
+{
+"id": 8,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và Q = [-2; 3]. Hãy xác định tập hợp A \cap Q:",
+"image_url": "",
+"options": [
+"[-2; 2)",
+"[-3; 2)",
+"(-2; 2)",
+"[-2; 2]"
+],
+"correct_answer": "[-2; 2)"
+},
+{
+"id": 9,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và R = (1; 5]. Hãy xác định tập hợp A \cap R:",
+"image_url": "",
+"options": [
+"(-1; 2)",
+"(1; 2)",
+"[1; 2)",
+"(1; 2]"
+],
+"correct_answer": "(1; 2)"
+},
+{
+"id": 10,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và S = (-\infty; 2). Hãy xác định tập hợp A \cap S:",
+"image_url": "",
+"options": [
+"[-4; 2]",
+"[-4; 2)",
+"(-4; 2)",
+"[-4; 3)"
+],
+"correct_answer": "[-4; 2)"
+},
+{
+"id": 11,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và T = [0; +\infty). Hãy xác định tập hợp A \setminus T:",
+"image_url": "",
+"options": [
+"(-4; 0)",
+"[-4; 0)",
+"[-4; 0]",
+"[-4; \infty)"
+],
+"correct_answer": "[-4; 0)"
+},
+{
+"id": 12,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và U = (-3; 3). Hãy xác định tập hợp A \setminus U:",
+"image_url": "",
+"options": [
+"(-4; -3]",
+"[-4; -3]",
+"[-4; 3]",
+"[-4; -2]"
+],
+"correct_answer": "[-4; -3]"
+},
+{
+"id": 13,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và V = [3; 7]. Hãy xác định tập hợp A \setminus V:",
+"image_url": "",
+"options": [
+"[-4; 2)",
+"(-4; 2)",
+"[-4; 3)",
+"[-4; 2]"
+],
+"correct_answer": "[-4; 2)"
+},
+{
+"id": 14,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và W = (-1; 4]. Hãy xác định tập hợp A \setminus W:",
+"image_url": "",
+"options": [
+"[-4; 1]",
+"(-4; -1]",
+"[-4; -1]",
+"[-4; -1)"
+],
+"correct_answer": "[-4; -1]"
+},
+{
+"id": 15,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và X = (-\infty; 0]. Hãy xác định tập hợp A \cap X:",
+"image_url": "",
+"options": [
+"[-4; 0]",
+"(-4; 0]",
+"[-4; 0)",
+"[-4; \infty]"
+],
+"correct_answer": "[-4; 0]"
+},
+{
+"id": 16,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp A = [-4; 2) và Y = (2; +\infty). Hãy xác định tập hợp A \setminus Y:",
+"image_url": "",
+"options": [
+"(-4; 2)",
+"[-4; 3)",
+"[-4; 2]",
+"[-4; 2)"
+],
+"correct_answer": "[-4; 2)"
+},
+{
+"id": 17,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và A = [-4; 2). Hãy xác định tập hợp B \cup A:",
+"image_url": "",
+"options": [
+"[-4; 6]",
+"(-4; 6]",
+"[-4; 6)",
+"[-4; 0]"
+],
+"correct_answer": "[-4; 6]"
+},
+{
+"id": 18,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và M = (-\infty; 4]. Hãy xác định tập hợp B \cup M:",
+"image_url": "",
+"options": [
+"(0; 6]",
+"(-\infty; 6]",
+"(-\infty; 6)",
+"(-\infty; +\infty)"
+],
+"correct_answer": "(-\infty; 6]"
+},
+{
+"id": 19,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và N = (-1; +\infty). Hãy xác định tập hợp B \setminus N:",
+"image_url": "",
+"options": [
+"\emptyset",
+"(-\infty; +\infty)",
+"[0; 0]",
+"(-1; 1)"
+],
+"correct_answer": "\emptyset"
+},
+{
+"id": 20,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và E = [-2; 5]. Hãy xác định tập hợp B \cap E:",
+"image_url": "",
+"options": [
+"(0; 5]",
+"[0; 5]",
+"(0; 5)",
+"(0; -5]"
+],
+"correct_answer": "(0; 5]"
+},
+{
+"id": 21,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và F = (1; 8). Hãy xác định tập hợp B \cap F:",
+"image_url": "",
+"options": [
+"(1; 6)",
+"[1; 6]",
+"(-1; 6]",
+"(1; 6]"
+],
+"correct_answer": "(1; 6]"
+},
+{
+"id": 22,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và G = [5; +\infty). Hãy xác định tập hợp B \setminus G:",
+"image_url": "",
+"options": [
+"(0; 5)",
+"[0; 5)",
+"(0; 5]",
+"(0; -5)"
+],
+"correct_answer": "(0; 5)"
+},
+{
+"id": 23,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và P = [-5; 0). Hãy xác định tập hợp B \cup P:",
+"image_url": "",
+"options": [
+"[-5; 6]",
+"[-5; 6]",
+"[-5; 0)",
+"\emptyset"
+],
+"correct_answer": "[-5; 6]"
+},
+{
+"id": 24,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và Q = [-2; 3]. Hãy xác định tập hợp B \setminus Q:",
+"image_url": "",
+"options": [
+"(3; 6]",
+"[2; 6]",
+"[3; 6]",
+"(2; 6]"
+],
+"correct_answer": "(3; 6]"
+},
+{
+"id": 25,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và R = (1; 5]. Hãy xác định tập hợp B \cup R:",
+"image_url": "",
+"options": [
+"(0; 6)",
+"(0; 6]",
+"[0; 6]",
+"(0; 0]"
+],
+"correct_answer": "(0; 6]"
+},
+{
+"id": 26,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và S = (-\infty; 2). Hãy xác định tập hợp B \setminus S:",
+"image_url": "",
+"options": [
+"[2; 6]",
+"(3; 6]",
+"[3; 6]",
+"(2; 6]"
+],
+"correct_answer": "[2; 6]"
+},
+{
+"id": 27,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và T = [0; +\infty). Hãy xác định tập hợp B \cup T:",
+"image_url": "",
+"options": [
+"[0; +\infty]",
+"(0; +\infty)",
+"[0; +\infty)",
+"[-0; +\infty)"
+],
+"correct_answer": "[0; +\infty)"
+},
+{
+"id": 28,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và U = (-3; 3). Hãy xác định tập hợp B \cup U:",
+"image_url": "",
+"options": [
+"[-3; 6]",
+"(-2; 6]",
+"(-3; 6)",
+"(-3; 6]"
+],
+"correct_answer": "(-3; 6]"
+},
+{
+"id": 29,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và V = [3; 7]. Hãy xác định tập hợp B \cap V:",
+"image_url": "",
+"options": [
+"(3; 6]",
+"[2; 6]",
+"[3; 6]",
+"[3; 6)"
+],
+"correct_answer": "[3; 6]"
+},
+{
+"id": 30,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và W = (-1; 4]. Hãy xác định tập hợp B \cap W:",
+"image_url": "",
+"options": [
+"[0; 4]",
+"(0; 4]",
+"(0; 4)",
+"(0; -4]"
+],
+"correct_answer": "(0; 4]"
+},
+{
+"id": 31,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và X = (-\infty; 0]. Hãy xác định tập hợp B \cup X:",
+"image_url": "",
+"options": [
+"(-\infty; 6)",
+"(-\infty; 0]",
+"(-\infty; 6]",
+"(\infty; 6]"
+],
+"correct_answer": "(-\infty; 6]"
+},
+{
+"id": 32,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp B = (0; 6] và Y = (2; +\infty). Hãy xác định tập hợp B \cup Y:",
+"image_url": "",
+"options": [
+"[0; +\infty)",
+"(0; 0)",
+"(0; +\infty)",
+"(0; +\infty]"
+],
+"correct_answer": "(0; +\infty)"
+},
+{
+"id": 33,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp M = (-\infty; 4] và A = [-4; 2). Hãy xác định tập hợp M \cap A:",
+"image_url": "",
+"options": [
+"(-4; 2)",
+"[-4; 2]",
+"[-4; 2)",
+"[-4; 3)"
+],
+"correct_answer": "[-4; 2)"
+},
+{
+"id": 34,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp M = (-\infty; 4] và B = (0; 6]. Hãy xác định tập hợp M \cap B:",
+"image_url": "",
+"options": [
+"(0; 4)",
+"[0; 4]",
+"(0; 4]",
+"(0; -4]"
+],
+"correct_answer": "(0; 4]"
+},
+{
+"id": 35,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp M = (-\infty; 4] và N = (-1; +\infty). Hãy xác định tập hợp M \setminus N:",
+"image_url": "",
+"options": [
+"(-\infty; -1)",
+"(-\infty; 1]",
+"(-\infty; -1]",
+"(\infty; -1]"
+],
+"correct_answer": "(-\infty; -1]"
+},
+{
+"id": 36,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp M = (-\infty; 4] và E = [-2; 5]. Hãy xác định tập hợp M \setminus E:",
+"image_url": "",
+"options": [
+"(-\infty; -2]",
+"(\infty; -2)",
+"(-\infty; -2)",
+"(-\infty; 2)"
+],
+"correct_answer": "(-\infty; -2)"
+},
+{
+"id": 37,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp M = (-\infty; 4] và F = (1; 8). Hãy xác định tập hợp M \setminus F:",
+"image_url": "",
+"options": [
+"(-\infty; -1]",
+"(\infty; 1]",
+"(-\infty; 1)",
+"(-\infty; 1]"
+],
+"correct_answer": "(-\infty; 1]"
+},
+{
+"id": 38,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp M = (-\infty; 4] và G = [5; +\infty). Hãy xác định tập hợp M \setminus G:",
+"image_url": "",
+"options": [
+"(-\infty; 4)",
+"(-\infty; 0]",
+"(\infty; 4]",
+"(-\infty; 4]"
+],
+"correct_answer": "(-\infty; 4]"
+},
+{
+"id": 39,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp M = (-\infty; 4] và P = [-5; 0). Hãy xác định tập hợp M \setminus P:",
+"image_url": "",
+"options": [
+"(-\infty; +\infty)",
+"\emptyset",
+"[0; 0]",
+"(-1; 1)"
+],
+"correct_answer": "(-\infty; -5) \cup [0; 4]"
+},
+{
+"id": 40,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho hai tập hợp M = (-\infty; 4] và Q = [-2; 3]. Hãy xác định tập hợp M \setminus Q:",
+"image_url": "",
+"options": [
+"\emptyset",
+"(-\infty; +\infty)",
+"[0; 0]",
+"(-1; 1)"
+],
+"correct_answer": "(-\infty; -2) \cup (3; 4]"
+},
+{
+"id": 41,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho tập hợp A = [-4; 2). Hãy xác định phần bù của A trong $\mathbb{R}$ ($C_{\mathbb{R}}A$):",
+"image_url": "",
+"options": [
+"(-\infty; -4) \cup [2; +\infty)",
+"(-\infty; -4) \cup (2; +\infty)",
+"(-\infty; -4] \cup (2; +\infty)",
+"(-\infty; -4] \cup [2; +\infty)"
+],
+"correct_answer": "(-\infty; -4) \cup [2; +\infty)"
+},
+{
+"id": 42,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho tập hợp B = (0; 6]. Hãy xác định phần bù của B trong $\mathbb{R}$ ($C_{\mathbb{R}}B$):",
+"image_url": "",
+"options": [
+"(-\infty; 0] \cup [6; +\infty)",
+"(-\infty; 0] \cup (6; +\infty)",
+"(-\infty; 0) \cup (6; +\infty)",
+"(-\infty; 0) \cup [6; +\infty)"
+],
+"correct_answer": "(-\infty; 0] \cup (6; +\infty)"
+},
+{
+"id": 43,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho tập hợp M = (-\infty; 4]. Hãy xác định phần bù của M trong $\mathbb{R}$ ($C_{\mathbb{R}}M$):",
+"image_url": "",
+"options": [
+"(4; +\infty]",
+"(4; 0)",
+"[4; +\infty)",
+"(4; +\infty)"
+],
+"correct_answer": "(4; +\infty)"
+},
+{
+"id": 44,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho tập hợp N = (-1; +\infty). Hãy xác định phần bù của N trong $\mathbb{R}$ ($C_{\mathbb{R}}N$):",
+"image_url": "",
+"options": [
+"(-\infty; -1)",
+"(-\infty; 1]",
+"(\infty; -1]",
+"(-\infty; -1]"
+],
+"correct_answer": "(-\infty; -1]"
+},
+{
+"id": 45,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho tập hợp E = [-2; 5]. Hãy xác định phần bù của E trong $\mathbb{R}$ ($C_{\mathbb{R}}E$):",
+"image_url": "",
+"options": [
+"(-\infty; -2) \cup (5; +\infty)",
+"(-\infty; -2] \cup (5; +\infty)",
+"(-\infty; -2) \cup [5; +\infty)",
+"(-\infty; -2] \cup [5; +\infty)"
+],
+"correct_answer": "(-\infty; -2) \cup (5; +\infty)"
+},
+{
+"id": 46,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho tập hợp F = (1; 8). Hãy xác định phần bù của F trong $\mathbb{R}$ ($C_{\mathbb{R}}F$):",
+"image_url": "",
+"options": [
+"(-\infty; 1] \cup [8; +\infty)",
+"(-\infty; 1) \cup [8; +\infty)",
+"(-\infty; 1] \cup (8; +\infty)",
+"(-\infty; 1) \cup (8; +\infty)"
+],
+"correct_answer": "(-\infty; 1] \cup [8; +\infty)"
+},
+{
+"id": 47,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho tập hợp G = [5; +\infty). Hãy xác định phần bù của G trong $\mathbb{R}$ ($C_{\mathbb{R}}G$):",
+"image_url": "",
+"options": [
+"(-\infty; 5]",
+"(-\infty; -5)",
+"(\infty; 5)",
+"(-\infty; 5)"
+],
+"correct_answer": "(-\infty; 5)"
+},
+{
+"id": 48,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho tập hợp P = [-5; 0). Hãy xác định phần bù của P trong $\mathbb{R}$ ($C_{\mathbb{R}}P$):",
+"image_url": "",
+"options": [
+"(-\infty; -5) \cup [0; +\infty)",
+"(-\infty; -5] \cup [0; +\infty)",
+"(-\infty; -5) \cup (0; +\infty)",
+"(-\infty; -5] \cup (0; +\infty)"
+],
+"correct_answer": "(-\infty; -5) \cup [0; +\infty)"
+},
+{
+"id": 49,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho tập hợp Q = [-2; 3]. Hãy xác định phần bù của Q trong $\mathbb{R}$ ($C_{\mathbb{R}}Q$):",
+"image_url": "",
+"options": [
+"(-\infty; -2) \cup (3; +\infty)",
+"(-\infty; -2] \cup (3; +\infty)",
+"(-\infty; -2) \cup [3; +\infty)",
+"(-\infty; -2] \cup [3; +\infty)"
+],
+"correct_answer": "(-\infty; -2) \cup (3; +\infty)"
+},
+{
+"id": 50,
+"type": "multiple_choice",
+"time_limit_seconds": 45,
+"base_points": 1000,
+"question_text": "Cho tập hợp R = (1; 5]. Hãy xác định phần bù của R trong $\mathbb{R}$ ($C_{\mathbb{R}}R$):",
+"image_url": "",
+"options": [
+"(-\infty; 1] \cup (5; +\infty)",
+"(-\infty; 1) \cup (5; +\infty)",
+"(-\infty; 1] \cup [5; +\infty)",
+"(-\infty; 1) \cup [5; +\infty)"
+],
+"correct_answer": "(-\infty; 1] \cup (5; +\infty)"
+}
+]
 }
