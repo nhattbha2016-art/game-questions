@@ -1,754 +1,302 @@
-{
-  "questions": [
-    {
-"id": 1,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và B = (0; 6]. Hãy xác định tập hợp A \cap B:",
-"image_url": "",
-"options": [
-"(-4; 2)",
-"[0; 2)",
-"(0; 2]",
-"(0; 2)"
-],
-"correct_answer": "(0; 2)"
-},
-{
-"id": 2,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và M = (-\infty; 4]. Hãy xác định tập hợp A \cap M:",
-"image_url": "",
-"options": [
-"(-4; 2)",
-"[-4; 2]",
-"(-4; 2]",
-"[-4; 2)"
-],
-"correct_answer": "[-4; 2)"
-},
-{
-"id": 3,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và N = (-1; +\infty). Hãy xác định tập hợp A \cup N:",
-"image_url": "",
-"options": [
-"[-4; +\infty)",
-"(-4; +\infty)",
-"[-4; +\infty]",
-"[-4; 0)"
-],
-"correct_answer": "[-4; +\infty)"
-},
-{
-"id": 4,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và E = [-2; 5]. Hãy xác định tập hợp A \setminus E:",
-"image_url": "",
-"options": [
-"[-4; -2)",
-"(-4; -2)",
-"[-4; -2]",
-"[-4; 2)"
-],
-"correct_answer": "[-4; -2)"
-},
-{
-"id": 5,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và F = (1; 8). Hãy xác định tập hợp A \setminus F:",
-"image_url": "",
-"options": [
-"[-4; 1)",
-"[-4; -1]",
-"[-4; 1]",
-"(-4; 1]"
-],
-"correct_answer": "[-4; 1]"
-},
-{
-"id": 6,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và G = [5; +\infty). Hãy xác định tập hợp A \setminus G:",
-"image_url": "",
-"options": [
-"[-4; 2)",
-"(-4; 2)",
-"[-4; 2]",
-"[-4; 3)"
-],
-"correct_answer": "[-4; 2)"
-},
-{
-"id": 7,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và P = [-5; 0). Hãy xác định tập hợp A \cup P:",
-"image_url": "",
-"options": [
-"[-5; 2]",
-"(-5; 2)",
-"[-5; 3)",
-"[-5; 2)"
-],
-"correct_answer": "[-5; 2)"
-},
-{
-"id": 8,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và Q = [-2; 3]. Hãy xác định tập hợp A \cap Q:",
-"image_url": "",
-"options": [
-"[-2; 2)",
-"[-3; 2)",
-"(-2; 2)",
-"[-2; 2]"
-],
-"correct_answer": "[-2; 2)"
-},
-{
-"id": 9,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và R = (1; 5]. Hãy xác định tập hợp A \cap R:",
-"image_url": "",
-"options": [
-"(-1; 2)",
-"(1; 2)",
-"[1; 2)",
-"(1; 2]"
-],
-"correct_answer": "(1; 2)"
-},
-{
-"id": 10,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và S = (-\infty; 2). Hãy xác định tập hợp A \cap S:",
-"image_url": "",
-"options": [
-"[-4; 2]",
-"[-4; 2)",
-"(-4; 2)",
-"[-4; 3)"
-],
-"correct_answer": "[-4; 2)"
-},
-{
-"id": 11,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và T = [0; +\infty). Hãy xác định tập hợp A \setminus T:",
-"image_url": "",
-"options": [
-"(-4; 0)",
-"[-4; 0)",
-"[-4; 0]",
-"[-4; \infty)"
-],
-"correct_answer": "[-4; 0)"
-},
-{
-"id": 12,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và U = (-3; 3). Hãy xác định tập hợp A \setminus U:",
-"image_url": "",
-"options": [
-"(-4; -3]",
-"[-4; -3]",
-"[-4; 3]",
-"[-4; -2]"
-],
-"correct_answer": "[-4; -3]"
-},
-{
-"id": 13,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và V = [3; 7]. Hãy xác định tập hợp A \setminus V:",
-"image_url": "",
-"options": [
-"[-4; 2)",
-"(-4; 2)",
-"[-4; 3)",
-"[-4; 2]"
-],
-"correct_answer": "[-4; 2)"
-},
-{
-"id": 14,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và W = (-1; 4]. Hãy xác định tập hợp A \setminus W:",
-"image_url": "",
-"options": [
-"[-4; 1]",
-"(-4; -1]",
-"[-4; -1]",
-"[-4; -1)"
-],
-"correct_answer": "[-4; -1]"
-},
-{
-"id": 15,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và X = (-\infty; 0]. Hãy xác định tập hợp A \cap X:",
-"image_url": "",
-"options": [
-"[-4; 0]",
-"(-4; 0]",
-"[-4; 0)",
-"[-4; \infty]"
-],
-"correct_answer": "[-4; 0]"
-},
-{
-"id": 16,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp A = [-4; 2) và Y = (2; +\infty). Hãy xác định tập hợp A \setminus Y:",
-"image_url": "",
-"options": [
-"(-4; 2)",
-"[-4; 3)",
-"[-4; 2]",
-"[-4; 2)"
-],
-"correct_answer": "[-4; 2)"
-},
-{
-"id": 17,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và A = [-4; 2). Hãy xác định tập hợp B \cup A:",
-"image_url": "",
-"options": [
-"[-4; 6]",
-"(-4; 6]",
-"[-4; 6)",
-"[-4; 0]"
-],
-"correct_answer": "[-4; 6]"
-},
-{
-"id": 18,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và M = (-\infty; 4]. Hãy xác định tập hợp B \cup M:",
-"image_url": "",
-"options": [
-"(0; 6]",
-"(-\infty; 6]",
-"(-\infty; 6)",
-"(-\infty; +\infty)"
-],
-"correct_answer": "(-\infty; 6]"
-},
-{
-"id": 19,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và N = (-1; +\infty). Hãy xác định tập hợp B \setminus N:",
-"image_url": "",
-"options": [
-"\emptyset",
-"(-\infty; +\infty)",
-"[0; 0]",
-"(-1; 1)"
-],
-"correct_answer": "\emptyset"
-},
-{
-"id": 20,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và E = [-2; 5]. Hãy xác định tập hợp B \cap E:",
-"image_url": "",
-"options": [
-"(0; 5]",
-"[0; 5]",
-"(0; 5)",
-"(0; -5]"
-],
-"correct_answer": "(0; 5]"
-},
-{
-"id": 21,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và F = (1; 8). Hãy xác định tập hợp B \cap F:",
-"image_url": "",
-"options": [
-"(1; 6)",
-"[1; 6]",
-"(-1; 6]",
-"(1; 6]"
-],
-"correct_answer": "(1; 6]"
-},
-{
-"id": 22,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và G = [5; +\infty). Hãy xác định tập hợp B \setminus G:",
-"image_url": "",
-"options": [
-"(0; 5)",
-"[0; 5)",
-"(0; 5]",
-"(0; -5)"
-],
-"correct_answer": "(0; 5)"
-},
-{
-"id": 23,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và P = [-5; 0). Hãy xác định tập hợp B \cup P:",
-"image_url": "",
-"options": [
-"[-5; 6]",
-"[-5; 6]",
-"[-5; 0)",
-"\emptyset"
-],
-"correct_answer": "[-5; 6]"
-},
-{
-"id": 24,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và Q = [-2; 3]. Hãy xác định tập hợp B \setminus Q:",
-"image_url": "",
-"options": [
-"(3; 6]",
-"[2; 6]",
-"[3; 6]",
-"(2; 6]"
-],
-"correct_answer": "(3; 6]"
-},
-{
-"id": 25,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và R = (1; 5]. Hãy xác định tập hợp B \cup R:",
-"image_url": "",
-"options": [
-"(0; 6)",
-"(0; 6]",
-"[0; 6]",
-"(0; 0]"
-],
-"correct_answer": "(0; 6]"
-},
-{
-"id": 26,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và S = (-\infty; 2). Hãy xác định tập hợp B \setminus S:",
-"image_url": "",
-"options": [
-"[2; 6]",
-"(3; 6]",
-"[3; 6]",
-"(2; 6]"
-],
-"correct_answer": "[2; 6]"
-},
-{
-"id": 27,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và T = [0; +\infty). Hãy xác định tập hợp B \cup T:",
-"image_url": "",
-"options": [
-"[0; +\infty]",
-"(0; +\infty)",
-"[0; +\infty)",
-"[-0; +\infty)"
-],
-"correct_answer": "[0; +\infty)"
-},
-{
-"id": 28,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và U = (-3; 3). Hãy xác định tập hợp B \cup U:",
-"image_url": "",
-"options": [
-"[-3; 6]",
-"(-2; 6]",
-"(-3; 6)",
-"(-3; 6]"
-],
-"correct_answer": "(-3; 6]"
-},
-{
-"id": 29,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và V = [3; 7]. Hãy xác định tập hợp B \cap V:",
-"image_url": "",
-"options": [
-"(3; 6]",
-"[2; 6]",
-"[3; 6]",
-"[3; 6)"
-],
-"correct_answer": "[3; 6]"
-},
-{
-"id": 30,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và W = (-1; 4]. Hãy xác định tập hợp B \cap W:",
-"image_url": "",
-"options": [
-"[0; 4]",
-"(0; 4]",
-"(0; 4)",
-"(0; -4]"
-],
-"correct_answer": "(0; 4]"
-},
-{
-"id": 31,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và X = (-\infty; 0]. Hãy xác định tập hợp B \cup X:",
-"image_url": "",
-"options": [
-"(-\infty; 6)",
-"(-\infty; 0]",
-"(-\infty; 6]",
-"(\infty; 6]"
-],
-"correct_answer": "(-\infty; 6]"
-},
-{
-"id": 32,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp B = (0; 6] và Y = (2; +\infty). Hãy xác định tập hợp B \cup Y:",
-"image_url": "",
-"options": [
-"[0; +\infty)",
-"(0; 0)",
-"(0; +\infty)",
-"(0; +\infty]"
-],
-"correct_answer": "(0; +\infty)"
-},
-{
-"id": 33,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp M = (-\infty; 4] và A = [-4; 2). Hãy xác định tập hợp M \cap A:",
-"image_url": "",
-"options": [
-"(-4; 2)",
-"[-4; 2]",
-"[-4; 2)",
-"[-4; 3)"
-],
-"correct_answer": "[-4; 2)"
-},
-{
-"id": 34,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp M = (-\infty; 4] và B = (0; 6]. Hãy xác định tập hợp M \cap B:",
-"image_url": "",
-"options": [
-"(0; 4)",
-"[0; 4]",
-"(0; 4]",
-"(0; -4]"
-],
-"correct_answer": "(0; 4]"
-},
-{
-"id": 35,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp M = (-\infty; 4] và N = (-1; +\infty). Hãy xác định tập hợp M \setminus N:",
-"image_url": "",
-"options": [
-"(-\infty; -1)",
-"(-\infty; 1]",
-"(-\infty; -1]",
-"(\infty; -1]"
-],
-"correct_answer": "(-\infty; -1]"
-},
-{
-"id": 36,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp M = (-\infty; 4] và E = [-2; 5]. Hãy xác định tập hợp M \setminus E:",
-"image_url": "",
-"options": [
-"(-\infty; -2]",
-"(\infty; -2)",
-"(-\infty; -2)",
-"(-\infty; 2)"
-],
-"correct_answer": "(-\infty; -2)"
-},
-{
-"id": 37,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp M = (-\infty; 4] và F = (1; 8). Hãy xác định tập hợp M \setminus F:",
-"image_url": "",
-"options": [
-"(-\infty; -1]",
-"(\infty; 1]",
-"(-\infty; 1)",
-"(-\infty; 1]"
-],
-"correct_answer": "(-\infty; 1]"
-},
-{
-"id": 38,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp M = (-\infty; 4] và G = [5; +\infty). Hãy xác định tập hợp M \setminus G:",
-"image_url": "",
-"options": [
-"(-\infty; 4)",
-"(-\infty; 0]",
-"(\infty; 4]",
-"(-\infty; 4]"
-],
-"correct_answer": "(-\infty; 4]"
-},
-{
-"id": 39,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp M = (-\infty; 4] và P = [-5; 0). Hãy xác định tập hợp M \setminus P:",
-"image_url": "",
-"options": [
-"(-\infty; +\infty)",
-"\emptyset",
-"[0; 0]",
-"(-1; 1)"
-],
-"correct_answer": "(-\infty; -5) \cup [0; 4]"
-},
-{
-"id": 40,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho hai tập hợp M = (-\infty; 4] và Q = [-2; 3]. Hãy xác định tập hợp M \setminus Q:",
-"image_url": "",
-"options": [
-"\emptyset",
-"(-\infty; +\infty)",
-"[0; 0]",
-"(-1; 1)"
-],
-"correct_answer": "(-\infty; -2) \cup (3; 4]"
-},
-{
-"id": 41,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho tập hợp A = [-4; 2). Hãy xác định phần bù của A trong $\mathbb{R}$ ($C_{\mathbb{R}}A$):",
-"image_url": "",
-"options": [
-"(-\infty; -4) \cup [2; +\infty)",
-"(-\infty; -4) \cup (2; +\infty)",
-"(-\infty; -4] \cup (2; +\infty)",
-"(-\infty; -4] \cup [2; +\infty)"
-],
-"correct_answer": "(-\infty; -4) \cup [2; +\infty)"
-},
-{
-"id": 42,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho tập hợp B = (0; 6]. Hãy xác định phần bù của B trong $\mathbb{R}$ ($C_{\mathbb{R}}B$):",
-"image_url": "",
-"options": [
-"(-\infty; 0] \cup [6; +\infty)",
-"(-\infty; 0] \cup (6; +\infty)",
-"(-\infty; 0) \cup (6; +\infty)",
-"(-\infty; 0) \cup [6; +\infty)"
-],
-"correct_answer": "(-\infty; 0] \cup (6; +\infty)"
-},
-{
-"id": 43,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho tập hợp M = (-\infty; 4]. Hãy xác định phần bù của M trong $\mathbb{R}$ ($C_{\mathbb{R}}M$):",
-"image_url": "",
-"options": [
-"(4; +\infty]",
-"(4; 0)",
-"[4; +\infty)",
-"(4; +\infty)"
-],
-"correct_answer": "(4; +\infty)"
-},
-{
-"id": 44,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho tập hợp N = (-1; +\infty). Hãy xác định phần bù của N trong $\mathbb{R}$ ($C_{\mathbb{R}}N$):",
-"image_url": "",
-"options": [
-"(-\infty; -1)",
-"(-\infty; 1]",
-"(\infty; -1]",
-"(-\infty; -1]"
-],
-"correct_answer": "(-\infty; -1]"
-},
-{
-"id": 45,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho tập hợp E = [-2; 5]. Hãy xác định phần bù của E trong $\mathbb{R}$ ($C_{\mathbb{R}}E$):",
-"image_url": "",
-"options": [
-"(-\infty; -2) \cup (5; +\infty)",
-"(-\infty; -2] \cup (5; +\infty)",
-"(-\infty; -2) \cup [5; +\infty)",
-"(-\infty; -2] \cup [5; +\infty)"
-],
-"correct_answer": "(-\infty; -2) \cup (5; +\infty)"
-},
-{
-"id": 46,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho tập hợp F = (1; 8). Hãy xác định phần bù của F trong $\mathbb{R}$ ($C_{\mathbb{R}}F$):",
-"image_url": "",
-"options": [
-"(-\infty; 1] \cup [8; +\infty)",
-"(-\infty; 1) \cup [8; +\infty)",
-"(-\infty; 1] \cup (8; +\infty)",
-"(-\infty; 1) \cup (8; +\infty)"
-],
-"correct_answer": "(-\infty; 1] \cup [8; +\infty)"
-},
-{
-"id": 47,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho tập hợp G = [5; +\infty). Hãy xác định phần bù của G trong $\mathbb{R}$ ($C_{\mathbb{R}}G$):",
-"image_url": "",
-"options": [
-"(-\infty; 5]",
-"(-\infty; -5)",
-"(\infty; 5)",
-"(-\infty; 5)"
-],
-"correct_answer": "(-\infty; 5)"
-},
-{
-"id": 48,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho tập hợp P = [-5; 0). Hãy xác định phần bù của P trong $\mathbb{R}$ ($C_{\mathbb{R}}P$):",
-"image_url": "",
-"options": [
-"(-\infty; -5) \cup [0; +\infty)",
-"(-\infty; -5] \cup [0; +\infty)",
-"(-\infty; -5) \cup (0; +\infty)",
-"(-\infty; -5] \cup (0; +\infty)"
-],
-"correct_answer": "(-\infty; -5) \cup [0; +\infty)"
-},
-{
-"id": 49,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho tập hợp Q = [-2; 3]. Hãy xác định phần bù của Q trong $\mathbb{R}$ ($C_{\mathbb{R}}Q$):",
-"image_url": "",
-"options": [
-"(-\infty; -2) \cup (3; +\infty)",
-"(-\infty; -2] \cup (3; +\infty)",
-"(-\infty; -2) \cup [3; +\infty)",
-"(-\infty; -2] \cup [3; +\infty)"
-],
-"correct_answer": "(-\infty; -2) \cup (3; +\infty)"
-},
-{
-"id": 50,
-"type": "multiple_choice",
-"time_limit_seconds": 45,
-"base_points": 1000,
-"question_text": "Cho tập hợp R = (1; 5]. Hãy xác định phần bù của R trong $\mathbb{R}$ ($C_{\mathbb{R}}R$):",
-"image_url": "",
-"options": [
-"(-\infty; 1] \cup (5; +\infty)",
-"(-\infty; 1) \cup (5; +\infty)",
-"(-\infty; 1] \cup [5; +\infty)",
-"(-\infty; 1) \cup [5; +\infty)"
-],
-"correct_answer": "(-\infty; 1] \cup (5; +\infty)"
-}
+[
+  {
+    "id": 1,
+    "question": "Cho hai tập hợp A = [-2; 5) và B = (1; 7]. Xác định tập hợp A \\cap B:",
+    "options": ["(1; 5)", "(1; 5]", "[-2; 7]", "[-2; 1]"],
+    "answer": "(1; 5)"
+  },
+  {
+    "id": 2,
+    "question": "Cho hai tập hợp A = [-3; 4] và B = (0; 5). Xác định tập hợp A \\cap B:",
+    "options": ["(0; 4]", "[0; 4]", "(-3; 5)", "[-3; 0]"],
+    "answer": "(0; 4]"
+  },
+  {
+    "id": 3,
+    "question": "Cho A = (-\\infty; 2] và B = [-1; +\\infty). Tìm A \\cap B:",
+    "options": ["[-1; 2]", "(-1; 2)", "(-\\infty; +\\infty)", "\\emptyset"],
+    "answer": "[-1; 2]"
+  },
+  {
+    "id": 4,
+    "question": "Cho A = (1; 5] và B = (2; 6]. Tập hợp A \\cap B là:",
+    "options": ["(2; 5]", "(1; 6]", "(1; 2]", "[5; 6]"],
+    "answer": "(2; 5]"
+  },
+  {
+    "id": 5,
+    "question": "Tìm giao của hai tập hợp A = [-5; 1) và B = (0; 3):",
+    "options": ["(0; 1)", "[0; 1)", "[-5; 3)", "(-5; 3]"],
+    "answer": "(0; 1)"
+  },
+  {
+    "id": 6,
+    "question": "Cho A = (-\\infty; 4) và B = (4; +\\infty). Tập hợp A \\cap B là:",
+    "options": ["\\emptyset", "{4}", "(-\\infty; +\\infty)", "(0; 4)"],
+    "answer": "\\emptyset"
+  },
+  {
+    "id": 7,
+    "question": "Cho A = [-10; -2] và B = [-5; 0]. Tìm A \\cap B:",
+    "options": ["[-5; -2]", "(-5; -2)", "[-10; 0]", "[-2; 0]"],
+    "answer": "[-5; -2]"
+  },
+  {
+    "id": 8,
+    "question": "Cho X = (2; 8) và Y = [3; 7). Tập X \\cap Y bằng:",
+    "options": ["[3; 7)", "(2; 8)", "(3; 7]", "[2; 8]"],
+    "answer": "[3; 7)"
+  },
+  {
+    "id": 9,
+    "question": "Xác định A \\cap B biết A = (-\\infty; 0] và B = [0; +\\infty):",
+    "options": ["{0}", "\\emptyset", "(-\\infty; +\\infty)", "(0; 0)"],
+    "answer": "{0}"
+  },
+  {
+    "id": 10,
+    "question": "Cho A = (-1; 5) và B = [5; 7]. Tìm A \\cap B:",
+    "options": ["\\emptyset", "{5}", "(-1; 7]", "(-1; 5]"],
+    "answer": "\\emptyset"
+  },
+  {
+    "id": 11,
+    "question": "Cho A = [-2; 5) và B = (1; 7]. Xác định tập hợp A \\cup B:",
+    "options": ["[-2; 7]", "(-2; 7)", "[-2; 5]", "(1; 5)"],
+    "answer": "[-2; 7]"
+  },
+  {
+    "id": 12,
+    "question": "Cho A = (-\\infty; 3] và B = (1; +\\infty). Tập hợp A \\cup B là:",
+    "options": ["(-\\infty; +\\infty)", "(-\\infty; 1)", "(3; +\\infty)", "(1; 3]"],
+    "answer": "(-\\infty; +\\infty)"
+  },
+  {
+    "id": 13,
+    "question": "Cho A = [0; 4] và B = (4; 6). Tìm A \\cup B:",
+    "options": ["[0; 6)", "[0; 6]", "[0; 4]", "(4; 6)"],
+    "answer": "[0; 6)"
+  },
+  {
+    "id": 14,
+    "question": "Xác định hợp của A = (-3; 1) và B = [0; 5]:",
+    "options": ["(-3; 5]", "[-3; 5]", "(-3; 1]", "[0; 1)"],
+    "answer": "(-3; 5]"
+  },
+  {
+    "id": 15,
+    "question": "Cho X = (-\\infty; -2) và Y = [-2; 4). Tìm X \\cup Y:",
+    "options": ["(-\\infty; 4)", "(-\\infty; -2]", "[-2; 4)", "(-\\infty; 4]"],
+    "answer": "(-\\infty; 4)"
+  },
+  {
+    "id": 16,
+    "question": "Cho A = (1; 3) và B = (5; 8). Xác định A \\cup B:",
+    "options": ["(1; 3) \\cup (5; 8)", "(1; 8)", "[1; 8]", "\\emptyset"],
+    "answer": "(1; 3) \\cup (5; 8)"
+  },
+  {
+    "id": 17,
+    "question": "Cho M = [-4; -1] và N = [-2; 3]. Tìm M \\cup N:",
+    "options": ["[-4; 3]", "[-4; -2]", "[-1; 3]", "[-2; -1]"],
+    "answer": "[-4; 3]"
+  },
+  {
+    "id": 18,
+    "question": "Xác định A \\cup B biết A = (-\\infty; 5] và B = (5; 10]:",
+    "options": ["(-\\infty; 10]", "(-\\infty; 5)", "[5; 10]", "(5; 10]"],
+    "answer": "(-\\infty; 10]"
+  },
+  {
+    "id": 19,
+    "question": "Cho P = (-2; 2) và Q = [-1; 1]. Tập hợp P \\cup Q là:",
+    "options": ["(-2; 2)", "[-1; 1]", "[-2; 2]", "(-1; 1)"],
+    "answer": "(-2; 2)"
+  },
+  {
+    "id": 20,
+    "question": "Cho A = [10; 15] và B = [15; 20]. Tìm A \\cup B:",
+    "options": ["[10; 20]", "(10; 20)", "{15}", "[10; 15)"],
+    "answer": "[10; 20]"
+  },
+  {
+    "id": 21,
+    "question": "Cho A = [-2; 5) và B = (1; 7]. Xác định tập hợp A \\setminus B:",
+    "options": ["[-2; 1]", "[-2; 1)", "(1; 5)", "(5; 7]"],
+    "answer": "[-2; 1]"
+  },
+  {
+    "id": 22,
+    "question": "Cho A = (-\\infty; 4] và B = (0; +\\infty). Tập hợp A \\setminus B là:",
+    "options": ["(-\\infty; 0]", "(-\\infty; 0)", "(0; 4]", "[4; +\\infty)"],
+    "answer": "(-\\infty; 0]"
+  },
+  {
+    "id": 23,
+    "question": "Cho X = [1; 6] và Y = (2; 4). Tìm X \\setminus Y:",
+    "options": ["[1; 2] \\cup [4; 6]", "[1; 2) \\cup (4; 6]", "[1; 6]", "(2; 4)"],
+    "answer": "[1; 2] \\cup [4; 6]"
+  },
+  {
+    "id": 24,
+    "question": "Xác định A \\setminus B biết A = (0; 8) và B = [3; 5]:",
+    "options": ["(0; 3) \\cup (5; 8)", "(0; 3] \\cup [5; 8)", "(0; 8)", "[3; 5]"],
+    "answer": "(0; 3) \\cup (5; 8)"
+  },
+  {
+    "id": 25,
+    "question": "Cho A = [-5; 2) và B = [-3; 1]. Tập hợp A \\setminus B là:",
+    "options": ["[-5; -3) \\cup (1; 2)", "[-5; -3] \\cup [1; 2)", "[-5; 2)", "(-3; 1)"],
+    "answer": "[-5; -3) \\cup (1; 2)"
+  },
+  {
+    "id": 26,
+    "question": "Cho A = [0; +\\infty) và B = (-\\infty; 2]. Tìm B \\setminus A:",
+    "options": ["(-\\infty; 0)", "(-\\infty; 0]", "(0; 2]", "[2; +\\infty)"],
+    "answer": "(-\\infty; 0)"
+  },
+  {
+    "id": 27,
+    "question": "Cho A = (-4; 4) và B = [0; 4). Xác định A \\setminus B:",
+    "options": ["(-4; 0)", "(-4; 0]", "[0; 4)", "(-4; 4)"],
+    "answer": "(-4; 0)"
+  },
+  {
+    "id": 28,
+    "question": "Cho M = [-1; 5] và N = [5; 8]. Tìm M \\setminus N:",
+    "options": ["[-1; 5)", "[-1; 5]", "(5; 8]", "\\emptyset"],
+    "answer": "[-1; 5)"
+  },
+  {
+    "id": 29,
+    "question": "Xác định B \\setminus A biết A = (-2; 3) và B = (1; 6):",
+    "options": ["[3; 6)", "(3; 6)", "(1; 3)", "(-2; 1]"],
+    "answer": "[3; 6)"
+  },
+  {
+    "id": 30,
+    "question": "Cho A = (-\\infty; 1) và B = [1; +\\infty). Tìm A \\setminus B:",
+    "options": ["(-\\infty; 1)", "\\emptyset", "(-\\infty; 1]", "[1; +\\infty)"],
+    "answer": "(-\\infty; 1)"
+  },
+  {
+    "id": 31,
+    "question": "Phần bù của tập hợp A = [-2; 5) trong \\mathbb{R} là:",
+    "options": ["(-\\infty; -2) \\cup [5; +\\infty)", "(-\\infty; -2] \\cup (5; +\\infty)", "(-\\infty; -2) \\cup (5; +\\infty)", "[-2; 5)"],
+    "answer": "(-\\infty; -2) \\cup [5; +\\infty)"
+  },
+  {
+    "id": 32,
+    "question": "Xác định C_{\\mathbb{R}}A với A = (-\\infty; 3]:",
+    "options": ["(3; +\\infty)", "[3; +\\infty)", "(-\\infty; 3)", "\\emptyset"],
+    "answer": "(3; +\\infty)"
+  },
+  {
+    "id": 33,
+    "question": "Cho tập hợp B = (0; +\\infty). Tìm C_{\\mathbb{R}}B:",
+    "options": ["(-\\infty; 0]", "(-\\infty; 0)", "[0; +\\infty)", "(-\\infty; +\\infty)"],
+    "answer": "(-\\infty; 0]"
+  },
+  {
+    "id": 34,
+    "question": "Tìm phần bù của tập hợp (-4; 6] trong \\mathbb{R}:",
+    "options": ["(-\\infty; -4] \\cup (6; +\\infty)", "(-\\infty; -4) \\cup [6; +\\infty)", "(-\\infty; -4] \\cup [6; +\\infty)", "(-4; 6]"],
+    "answer": "(-\\infty; -4] \\cup (6; +\\infty)"
+  },
+  {
+    "id": 35,
+    "question": "Cho A = [1; 3]. Xác định \\mathbb{R} \\setminus A:",
+    "options": ["(-\\infty; 1) \\cup (3; +\\infty)", "(-\\infty; 1] \\cup [3; +\\infty)", "(1; 3)", "(-\\infty; 1) \\cup [3; +\\infty)"],
+    "answer": "(-\\infty; 1) \\cup (3; +\\infty)"
+  },
+  {
+    "id": 36,
+    "question": "Phần bù của tập hợp \\emptyset trong \\mathbb{R} là:",
+    "options": ["\\mathbb{R}", "\\emptyset", "{0}", "(-\\infty; 0)"],
+    "answer": "\\mathbb{R}"
+  },
+  {
+    "id": 37,
+    "question": "Xác định C_{\\mathbb{R}}X với X = (-\\infty; -5) \\cup (2; +\\infty):",
+    "options": ["[-5; 2]", "(-5; 2)", "[-5; 2)", "(-5; 2]"],
+    "answer": "[-5; 2]"
+  },
+  {
+    "id": 38,
+    "question": "Cho A = (-1; 1). Tìm phần bù của A trong \\mathbb{R}:",
+    "options": ["(-\\infty; -1] \\cup [1; +\\infty)", "(-\\infty; -1) \\cup (1; +\\infty)", "[-1; 1]", "(-\\infty; 1]"],
+    "answer": "(-\\infty; -1] \\cup [1; +\\infty)"
+  },
+  {
+    "id": 39,
+    "question": "Tìm C_{\\mathbb{R}}B biết B = \\mathbb{R}:",
+    "options": ["\\emptyset", "\\mathbb{R}", "{0}", "(-\\infty; +\\infty)"],
+    "answer": "\\emptyset"
+  },
+  {
+    "id": 40,
+    "question": "Cho X = [-10; +\\infty). Xác định \\mathbb{R} \\setminus X:",
+    "options": ["(-\\infty; -10)", "(-\\infty; -10]", "(-10; +\\infty)", "\\emptyset"],
+    "answer": "(-\\infty; -10)"
+  },
+  {
+    "id": 41,
+    "question": "Cho A = [-3; 2), B = (0; 4] và C = (1; 5). Xác định (A \\cup B) \\cap C:",
+    "options": ["(1; 4]", "(0; 2)", "[1; 4]", "(-3; 5)"],
+    "answer": "(1; 4]"
+  },
+  {
+    "id": 42,
+    "question": "Cho A = (-\\infty; 1] và B = [-2; +\\infty). Tập hợp (A \\cap B) \\setminus {0} là:",
+    "options": ["[-2; 0) \\cup (0; 1]", "[-2; 1]", "(-2; 1)", "[-2; 0] \\cup [0; 1]"],
+    "answer": "[-2; 0) \\cup (0; 1]"
+  },
+  {
+    "id": 43,
+    "question": "Cho A = (-5; 0) và B = (-2; 3). Tìm tập hợp C_{\\mathbb{R}}(A \\cup B):",
+    "options": ["(-\\infty; -5] \\cup [3; +\\infty)", "(-\\infty; -5) \\cup (3; +\\infty)", "[-5; 3]", "(-5; 3)"],
+    "answer": "(-\\infty; -5] \\cup [3; +\\infty)"
+  },
+  {
+    "id": 44,
+    "question": "Cho A = [1; 4] và B = (2; 6). Xác định (A \\setminus B) \\cup (B \\setminus A):",
+    "options": ["[1; 2] \\cup (4; 6)", "[1; 2) \\cup [4; 6)", "(1; 2) \\cup (4; 6)", "[1; 6)"],
+    "answer": "[1; 2] \\cup (4; 6)"
+  },
+  {
+    "id": 45,
+    "question": "Cho A = (-\\infty; 2) và B = (0; 5]. Tập hợp A \\cap B có bao nhiêu số nguyên?",
+    "options": ["1", "2", "3", "Vô số"],
+    "answer": "1"
+  },
+  {
+    "id": 46,
+    "question": "Cho A = [-3; 3] và B = (1; 4). Tập hợp A \\cup B có chứa bao nhiêu số nguyên dương?",
+    "options": ["3", "4", "2", "1"],
+    "answer": "3"
+  },
+  {
+    "id": 47,
+    "question": "Xác định tập hợp các số thực x sao cho x \\in (-2; 5] và x \\notin [1; 4):",
+    "options": ["(-2; 1) \\cup [4; 5]", "[-2; 1) \\cup [4; 5]", "(-2; 1] \\cup (4; 5]", "(-2; 5]"],
+    "answer": "(-2; 1) \\cup [4; 5]"
+  },
+  {
+    "id": 48,
+    "question": "Cho M = (-\\infty; a) và N = [3; +\\infty). Để M \\cap N = \\emptyset thì điều kiện của a là:",
+    "options": ["a \\le 3", "a < 3", "a \\ge 3", "a > 3"],
+    "answer": "a \\le 3"
+  },
+  {
+    "id": 49,
+    "question": "Cho A = (m; m+2) và B = [1; 3). Tìm m để A \\subset B:",
+    "options": ["1 \\le m \\le 1", "m = 1", "1 < m < 2", "m \\ge 1"],
+    "answer": "m = 1"
+  },
+  {
+    "id": 50,
+    "question": "Cho X = [-1; 2] và Y = (m; m+5). Có bao nhiêu giá trị nguyên của m để X \\cap Y = \\emptyset?",
+    "options": ["Không có", "1", "Vô số", "2"],
+    "answer": "Không có"
+  }
 ]
-}
