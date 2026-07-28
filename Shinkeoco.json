@@ -1,252 +1,252 @@
 [
   {
     "id": 1,
-    "de_bai": "Rút gọn biểu thức $A = 2x(x + 3)$:\na. $2x^2 + 6x$\nb. $2x^2 + 3x$\nc. $x^2 + 6x$\nd. $2x + 6$",
+    "de_bai": "Rút gọn biểu thức \\(A = 2x(x + 3)\\):\na. \\(2x^2 + 6x\\)\nb. \\(2x^2 + 3x\\)\nc. \\(x^2 + 6x\\)\nd. \\(2x + 6\\)",
     "dap_so": "a"
   },
   {
     "id": 2,
-    "de_bai": "Rút gọn biểu thức $B = -3x(2x - 1)$:\na. $-6x^2 - 3x$\nb. $-6x^2 + 3x$\nc. $6x^2 - 3x$\nd. $-6x^2 + 1$",
+    "de_bai": "Rút gọn biểu thức \\(B = -3x(2x - 1)\\):\na. \\(-6x^2 - 3x\\)\nb. \\(-6x^2 + 3x\\)\nc. \\(6x^2 - 3x\\)\nd. \\(-6x^2 + 1\\)",
     "dap_so": "b"
   },
   {
     "id": 3,
-    "de_bai": "Rút gọn biểu thức $C = x^2(x - 4)$:\na. $x^3 - 4x$\nb. $x^3 - 4$\nc. $x^3 - 4x^2$\nd. $x^2 - 4x^2$",
+    "de_bai": "Rút gọn biểu thức \\(C = x^2(x - 4)\\):\na. \\(x^3 - 4x\\)\nb. \\(x^3 - 4\\)\nc. \\(x^3 - 4x^2\\)\nd. \\(x^2 - 4x^2\\)",
     "dap_so": "c"
   },
   {
     "id": 4,
-    "de_bai": "Rút gọn biểu thức $D = 5xy(x + y)$:\na. $5x^2y + 5xy^2$\nb. $5x^2 + 5y^2$\nc. $5xy^2 + 5x$\nd. $5x^2y + y$",
+    "de_bai": "Rút gọn biểu thức \\(D = 5xy(x + y)\\):\na. \\(5x^2y + 5xy^2\\)\nb. \\(5x^2 + 5y^2\\)\nc. \\(5xy^2 + 5x\\)\nd. \\(5x^2y + y\\)",
     "dap_so": "a"
   },
   {
     "id": 5,
-    "de_bai": "Rút gọn biểu thức $E = 3x(x^2 - 2x + 1)$:\na. $3x^3 - 6x + 3x$\nb. $3x^3 - 6x^2 + 1$\nc. $3x^3 - 2x + 1$\nd. $3x^3 - 6x^2 + 3x$",
+    "de_bai": "Rút gọn biểu thức \\(E = 3x(x^2 - 2x + 1)\\):\na. \\(3x^3 - 6x + 3x\\)\nb. \\(3x^3 - 6x^2 + 1\\)\nc. \\(3x^3 - 2x + 1\\)\nd. \\(3x^3 - 6x^2 + 3x\\)",
     "dap_so": "d"
   },
   {
     "id": 6,
-    "de_bai": "Tính giá trị của biểu thức $A = x(x - 2)$ tại $x = 5$:\na. $15$\nb. $25$\nc. $10$\nd. $20$",
+    "de_bai": "Tính giá trị của biểu thức \\(A = x(x - 2)\\) tại \\(x = 5\\):\na. \\(15\\)\nb. \\(25\\)\nc. \\(10\\)\nd. \\(20\\)",
     "dap_so": "a"
   },
   {
     "id": 7,
-    "de_bai": "Rút gọn biểu thức $P = x(x - 1) + x$:\na. $x^2 - x$\nb. $x^2$\nc. $x^2 + 2x$\nd. $x^2 - 2x$",
+    "de_bai": "Rút gọn biểu thức \\(P = x(x - 1) + x\\):\na. \\(x^2 - x\\)\nb. \\(x^2\\)\nc. \\(x^2 + 2x\\)\nd. \\(x^2 - 2x\\)",
     "dap_so": "b"
   },
   {
     "id": 8,
-    "de_bai": "Tìm $k$ biết $2x(x - 5) = 2x^2 + kx$:\na. $k = 10$\nb. $k = 5$\nc. $k = -10$\nd. $k = -5$",
+    "de_bai": "Tìm \\(k\\) biết \\(2x(x - 5) = 2x^2 + kx\\):\na. \\(k = 10\\)\nb. \\(k = 5\\)\nc. \\(k = -10\\)\nd. \\(k = -5\\)",
     "dap_so": "c"
   },
   {
     "id": 9,
-    "de_bai": "Rút gọn biểu thức $Q = 3x(x + 2) - 3x^2$:\na. $6x$\nb. $3x$\nc. $6x^2$\nd. $0$",
+    "de_bai": "Rút gọn biểu thức \\(Q = 3x(x + 2) - 3x^2\\):\na. \\(6x\\)\nb. \\(3x\\)\nc. \\(6x^2\\)\nd. \\(0\\)",
     "dap_so": "a"
   },
   {
     "id": 10,
-    "de_bai": "Rút gọn biểu thức $M = x(2x - 1) - x(x - 1)$:\na. $x^2 - 2x$\nb. $3x^2 - 2x$\nc. $x^2$\nd. $x^2 - x$",
+    "de_bai": "Rút gọn biểu thức \\(M = x(2x - 1) - x(x - 1)\\):\na. \\(x^2 - 2x\\)\nb. \\(3x^2 - 2x\\)\nc. \\(x^2\\)\nd. \\(x^2 - x\\)",
     "dap_so": "c"
   },
   {
     "id": 11,
-    "de_bai": "Rút gọn biểu thức $(x + 1)(x + 2)$:\na. $x^2 + 3x + 2$\nb. $x^2 + 2x + 2$\nc. $x^2 + 3x + 1$\nd. $x^2 + x + 2$",
+    "de_bai": "Rút gọn biểu thức \\((x + 1)(x + 2)\\):\na. \\(x^2 + 3x + 2\\)\nb. \\(x^2 + 2x + 2\\)\nc. \\(x^2 + 3x + 1\\)\nd. \\(x^2 + x + 2\\)",
     "dap_so": "a"
   },
   {
     "id": 12,
-    "de_bai": "Rút gọn biểu thức $(x - 3)(x + 3)$:\na. $x^2 - 6$\nb. $x^2 - 9$\nc. $x^2 + 9$\nd. $x^2 - 3$",
+    "de_bai": "Rút gọn biểu thức \\((x - 3)(x + 3)\\):\na. \\(x^2 - 6\\)\nb. \\(x^2 - 9\\)\nc. \\(x^2 + 9\\)\nd. \\(x^2 - 3\\)",
     "dap_so": "b"
   },
   {
     "id": 13,
-    "de_bai": "Rút gọn biểu thức $(x - 1)(x - 2)$:\na. $x^2 - 3x - 2$\nb. $x^2 + 3x + 2$\nc. $x^2 - 3x + 2$\nd. $x^2 - x + 2$",
+    "de_bai": "Rút gọn biểu thức \\((x - 1)(x - 2)\\):\na. \\(x^2 - 3x - 2\\)\nb. \\(x^2 + 3x + 2\\)\nc. \\(x^2 - 3x + 2\\)\nd. \\(x^2 - x + 2\\)",
     "dap_so": "c"
   },
   {
     "id": 14,
-    "de_bai": "Rút gọn biểu thức $(2x + 1)(x - 3)$:\na. $2x^2 - 5x - 3$\nb. $2x^2 + 5x - 3$\nc. $2x^2 - 6x - 3$\nd. $2x^2 - 5x + 3$",
+    "de_bai": "Rút gọn biểu thức \\((2x + 1)(x - 3)\\):\na. \\(2x^2 - 5x - 3\\)\nb. \\(2x^2 + 5x - 3\\)\nc. \\(2x^2 - 6x - 3\\)\nd. \\(2x^2 - 5x + 3\\)",
     "dap_so": "a"
   },
   {
     "id": 15,
-    "de_bai": "Rút gọn biểu thức $(x + 2)(x^2 - 2x + 4)$:\na. $x^3 - 8$\nb. $x^3 + 8$\nc. $x^3 + 6$\nd. $x^3 - 6$",
+    "de_bai": "Rút gọn biểu thức \\((x + 2)(x^2 - 2x + 4)\\):\na. \\(x^3 - 8\\)\nb. \\(x^3 + 8\\)\nc. \\(x^3 + 6\\)\nd. \\(x^3 - 6\\)",
     "dap_so": "b"
   },
   {
     "id": 16,
-    "de_bai": "Rút gọn biểu thức $A = (x + 1)(x - 1) - x^2$:\na. $1$\nb. $0$\nc. $-1$\nd. $2$",
+    "de_bai": "Rút gọn biểu thức \\(A = (x + 1)(x - 1) - x^2\\):\na. \\(1\\)\nb. \\(0\\)\nc. \\(-1\\)\nd. \\(2\\)",
     "dap_so": "c"
   },
   {
     "id": 17,
-    "de_bai": "Tính giá trị của biểu thức $B = (x + 2)(x - 3)$ tại $x = 5$:\na. $14$\nb. $12$\nc. $10$\nd. $16$",
+    "de_bai": "Tính giá trị của biểu thức \\(B = (x + 2)(x - 3)\\) tại \\(x = 5\\):\na. \\(14\\)\nb. \\(12\\)\nc. \\(10\\)\nd. \\(16\\)",
     "dap_so": "a"
   },
   {
     "id": 18,
-    "de_bai": "Rút gọn biểu thức $(x + 3)(x + 4)$:\na. $x^2 + 12x + 7$\nb. $x^2 + 7x + 12$\nc. $x^2 + 7x + 7$\nd. $x^2 + 12x + 12$",
+    "de_bai": "Rút gọn biểu thức \\((x + 3)(x + 4)\\):\na. \\(x^2 + 12x + 7\\)\nb. \\(x^2 + 7x + 12\\)\nc. \\(x^2 + 7x + 7\\)\nd. \\(x^2 + 12x + 12\\)",
     "dap_so": "b"
   },
   {
     "id": 19,
-    "de_bai": "Rút gọn biểu thức $(2x - 1)(2x + 1)$:\na. $4x^2 - 2$\nb. $2x^2 - 1$\nc. $4x^2 - 1$\nd. $4x^2 + 1$",
+    "de_bai": "Rút gọn biểu thức \\((2x - 1)(2x + 1)\\):\na. \\(4x^2 - 2\\)\nb. \\(2x^2 - 1\\)\nc. \\(4x^2 - 1\\)\nd. \\(4x^2 + 1\\)",
     "dap_so": "c"
   },
   {
     "id": 20,
-    "de_bai": "Tìm hệ số của $x$ trong kết quả của phép nhân $(x + 2)(x + 5)$:\na. $10$\nb. $2$\nc. $5$\nd. $7$",
+    "de_bai": "Tìm hệ số của \\(x\\) trong kết quả của phép nhân \\((x + 2)(x + 5)\\):\na. \\(10\\)\nb. \\(2\\)\nc. \\(5\\)\nd. \\(7\\)",
     "dap_so": "d"
   },
   {
     "id": 21,
-    "de_bai": "Khai triển hằng đẳng thức $(x + 1)^2$:\na. $x^2 + 2x + 1$\nb. $x^2 + x + 1$\nc. $x^2 + 2x + 2$\nd. $x^2 + 1$",
+    "de_bai": "Khai triển hằng đẳng thức \\((x + 1)^2\\):\na. \\(x^2 + 2x + 1\\)\nb. \\(x^2 + x + 1\\)\nc. \\(x^2 + 2x + 2\\)\nd. \\(x^2 + 1\\)",
     "dap_so": "a"
   },
   {
     "id": 22,
-    "de_bai": "Khai triển hằng đẳng thức $(x + 3)^2$:\na. $x^2 + 3x + 9$\nb. $x^2 + 6x + 9$\nc. $x^2 + 6x + 6$\nd. $x^2 + 9$",
+    "de_bai": "Khai triển hằng đẳng thức \\((x + 3)^2\\):\na. \\(x^2 + 3x + 9\\)\nb. \\(x^2 + 6x + 9\\)\nc. \\(x^2 + 6x + 6\\)\nd. \\(x^2 + 9\\)",
     "dap_so": "b"
   },
   {
     "id": 23,
-    "de_bai": "Khai triển hằng đẳng thức $(2x + 1)^2$:\na. $4x^2 + 2x + 1$\nb. $2x^2 + 4x + 1$\nc. $4x^2 + 4x + 1$\nd. $4x^2 + 1$",
+    "de_bai": "Khai triển hằng đẳng thức \\((2x + 1)^2\\):\na. \\(4x^2 + 2x + 1\\)\nb. \\(2x^2 + 4x + 1\\)\nc. \\(4x^2 + 4x + 1\\)\nd. \\(4x^2 + 1\\)",
     "dap_so": "c"
   },
   {
     "id": 24,
-    "de_bai": "Biểu thức $x^2 + 4x + 4$ được viết dưới dạng bình phương của một tổng là:\na. $(x + 4)^2$\nb. $(x + 1)^2$\nc. $(x + 16)^2$\nd. $(x + 2)^2$",
+    "de_bai": "Biểu thức \\(x^2 + 4x + 4\\) được viết dưới dạng bình phương của một tổng là:\na. \\((x + 4)^2\\)\nb. \\((x + 1)^2\\)\nc. \\((x + 16)^2\\)\nd. \\((x + 2)^2\\)",
     "dap_so": "d"
   },
   {
     "id": 25,
-    "de_bai": "Tìm $k$ để $x^2 + 8x + k = (x + 4)^2$:\na. $k = 16$\nb. $k = 8$\nc. $k = 4$\nd. $k = 2$",
+    "de_bai": "Tìm \\(k\\) để \\(x^2 + 8x + k = (x + 4)^2\\):\na. \\(k = 16\\)\nb. \\(k = 8\\)\nc. \\(k = 4\\)\nd. \\(k = 2\\)",
     "dap_so": "a"
   },
   {
     "id": 26,
-    "de_bai": "Tính nhanh giá trị của $101^2$:\na. $10101$\nb. $10201$\nc. $10001$\nd. $10301$",
+    "de_bai": "Tính nhanh giá trị của \\(101^2\\):\na. \\(10101\\)\nb. \\(10201\\)\nc. \\(10001\\)\nd. \\(10301\\)",
     "dap_so": "b"
   },
   {
     "id": 27,
-    "de_bai": "Khai triển hằng đẳng thức $(x + 2y)^2$:\na. $x^2 + 2xy + 4y^2$\nb. $x^2 + 4xy + 2y^2$\nc. $x^2 + 4xy + 4y^2$\nd. $x^2 + 4y^2$",
+    "de_bai": "Khai triển hằng đẳng thức \\((x + 2y)^2\\):\na. \\(x^2 + 2xy + 4y^2\\)\nb. \\(x^2 + 4xy + 2y^2\\)\nc. \\(x^2 + 4xy + 4y^2\\)\nd. \\(x^2 + 4y^2\\)",
     "dap_so": "c"
   },
   {
     "id": 28,
-    "de_bai": "Khai triển hằng đẳng thức $(3x + 2)^2$:\na. $9x^2 + 6x + 4$\nb. $9x^2 + 12x + 4$\nc. $3x^2 + 12x + 4$\nd. $9x^2 + 12x + 2$",
+    "de_bai": "Khai triển hằng đẳng thức \\((3x + 2)^2\\):\na. \\(9x^2 + 6x + 4\\)\nb. \\(9x^2 + 12x + 4\\)\nc. \\(3x^2 + 12x + 4\\)\nd. \\(9x^2 + 12x + 2\\)",
     "dap_so": "b"
   },
   {
     "id": 29,
-    "de_bai": "Biểu thức $4x^2 + 4x + 1$ được viết dưới dạng bình phương của một tổng là:\na. $(2x + 1)^2$\nb. $(4x + 1)^2$\nc. $(x + 2)^2$\nd. $(2x + 2)^2$",
+    "de_bai": "Biểu thức \\(4x^2 + 4x + 1\\) được viết dưới dạng bình phương của một tổng là:\na. \\((2x + 1)^2\\)\nb. \\((4x + 1)^2\\)\nc. \\((x + 2)^2\\)\nd. \\((2x + 2)^2\\)",
     "dap_so": "a"
   },
   {
     "id": 30,
-    "de_bai": "Tính giá trị của biểu thức $A = x^2 + 6x + 9$ tại $x = 97$:\na. $9409$\nb. $10000$\nc. $9801$\nd. $10201$",
+    "de_bai": "Tính giá trị của biểu thức \\(A = x^2 + 6x + 9\\) tại \\(x = 97\\):\na. \\(9409\\)\nb. \\(10000\\)\nc. \\(9801\\)\nd. \\(10201\\)",
     "dap_so": "b"
   },
   {
     "id": 31,
-    "de_bai": "Khai triển hằng đẳng thức $(x - 1)^2$:\na. $x^2 - 2x + 1$\nb. $x^2 - x + 1$\nc. $x^2 - 2x - 1$\nd. $x^2 - 1$",
+    "de_bai": "Khai triển hằng đẳng thức \\((x - 1)^2\\):\na. \\(x^2 - 2x + 1\\)\nb. \\(x^2 - x + 1\\)\nc. \\(x^2 - 2x - 1\\)\nd. \\(x^2 - 1\\)",
     "dap_so": "a"
   },
   {
     "id": 32,
-    "de_bai": "Khai triển hằng đẳng thức $(x - 5)^2$:\na. $x^2 - 5x + 25$\nb. $x^2 - 10x + 25$\nc. $x^2 - 10x - 25$\nd. $x^2 - 25$",
+    "de_bai": "Khai triển hằng đẳng thức \\((x - 5)^2\\):\na. \\(x^2 - 5x + 25\\)\nb. \\(x^2 - 10x + 25\\)\nc. \\(x^2 - 10x - 25\\)\nd. \\(x^2 - 25\\)",
     "dap_so": "b"
   },
   {
     "id": 33,
-    "de_bai": "Khai triển hằng đẳng thức $(2x - 3)^2$:\na. $4x^2 - 6x + 9$\nb. $4x^2 - 12x - 9$\nc. $4x^2 - 12x + 9$\nd. $2x^2 - 12x + 9$",
+    "de_bai": "Khai triển hằng đẳng thức \\((2x - 3)^2\\):\na. \\(4x^2 - 6x + 9\\)\nb. \\(4x^2 - 12x - 9\\)\nc. \\(4x^2 - 12x + 9\\)\nd. \\(2x^2 - 12x + 9\\)",
     "dap_so": "c"
   },
   {
     "id": 34,
-    "de_bai": "Biểu thức $x^2 - 6x + 9$ được viết dưới dạng bình phương của một hiệu là:\na. $(x - 6)^2$\nb. $(x - 9)^2$\nc. $(x - 1)^2$\nd. $(x - 3)^2$",
+    "de_bai": "Biểu thức \\(x^2 - 6x + 9\\) được viết dưới dạng bình phương của một hiệu là:\na. \\((x - 6)^2\\)\nb. \\((x - 9)^2\\)\nc. \\((x - 1)^2\\)\nd. \\((x - 3)^2\\)",
     "dap_so": "d"
   },
   {
     "id": 35,
-    "de_bai": "Tìm $k$ để $x^2 - kx + 25 = (x - 5)^2$:\na. $k = 10$\nb. $k = 5$\nc. $k = 25$\nd. $k = -10$",
+    "de_bai": "Tìm \\(k\\) để \\(x^2 - kx + 25 = (x - 5)^2\\):\na. \\(k = 10\\)\nb. \\(k = 5\\)\nc. \\(k = 25\\)\nd. \\(k = -10\\)",
     "dap_so": "a"
   },
   {
     "id": 36,
-    "de_bai": "Tính nhanh giá trị của $99^2$:\na. $9801$\nb. $9901$\nc. $9701$\nd. $9601$",
+    "de_bai": "Tính nhanh giá trị của \\(99^2\\):\na. \\(9801\\)\nb. \\(9901\\)\nc. \\(9701\\)\nd. \\(9601\\)",
     "dap_so": "a"
   },
   {
     "id": 37,
-    "de_bai": "Khai triển hằng đẳng thức $(3x - 1)^2$:\na. $9x^2 - 3x + 1$\nb. $9x^2 - 6x + 1$\nc. $3x^2 - 6x + 1$\nd. $9x^2 - 6x - 1$",
+    "de_bai": "Khai triển hằng đẳng thức \\((3x - 1)^2\\):\na. \\(9x^2 - 3x + 1\\)\nb. \\(9x^2 - 6x + 1\\)\nc. \\(3x^2 - 6x + 1\\)\nd. \\(9x^2 - 6x - 1\\)",
     "dap_so": "b"
   },
   {
     "id": 38,
-    "de_bai": "Khai triển hằng đẳng thức $(x - 2y)^2$:\na. $x^2 - 2xy + 4y^2$\nb. $x^2 - 4xy - 4y^2$\nc. $x^2 - 4xy + 4y^2$\nd. $x^2 - 4y^2$",
+    "de_bai": "Khai triển hằng đẳng thức \\((x - 2y)^2\\):\na. \\(x^2 - 2xy + 4y^2\\)\nb. \\(x^2 - 4xy - 4y^2\\)\nc. \\(x^2 - 4xy + 4y^2\\)\nd. \\(x^2 - 4y^2\\)",
     "dap_so": "c"
   },
   {
     "id": 39,
-    "de_bai": "Biểu thức $9x^2 - 12x + 4$ được viết dưới dạng bình phương của một hiệu là:\na. $(3x - 2)^2$\nb. $(3x - 4)^2$\nc. $(9x - 2)^2$\nd. $(3x - 1)^2$",
+    "de_bai": "Biểu thức \\(9x^2 - 12x + 4\\) được viết dưới dạng bình phương của một hiệu là:\na. \\((3x - 2)^2\\)\nb. \\((3x - 4)^2\\)\nc. \\((9x - 2)^2\\)\nd. \\((3x - 1)^2\\)",
     "dap_so": "a"
   },
   {
     "id": 40,
-    "de_bai": "Tính giá trị của biểu thức $B = x^2 - 2x + 1$ tại $x = 101$:\na. $10201$\nb. $10000$\nc. $9801$\nd. $9900$",
+    "de_bai": "Tính giá trị của biểu thức \\(B = x^2 - 2x + 1\\) tại \\(x = 101\\):\na. \\(10201\\)\nb. \\(10000\\)\nc. \\(9801\\)\nd. \\(9900\\)",
     "dap_so": "b"
   },
   {
     "id": 41,
-    "de_bai": "Khai triển biểu thức $(x - 2)(x + 2)$:\na. $x^2 - 4$\nb. $x^2 - 2$\nc. $x^2 + 4$\nd. $x^2 - 4x + 4$",
+    "de_bai": "Khai triển biểu thức \\((x - 2)(x + 2)\\):\na. \\(x^2 - 4\\)\nb. \\(x^2 - 2\\)\nc. \\(x^2 + 4\\)\nd. \\(x^2 - 4x + 4\\)",
     "dap_so": "a"
   },
   {
     "id": 42,
-    "de_bai": "Khai triển biểu thức $(2x - 1)(2x + 1)$:\na. $2x^2 - 1$\nb. $4x^2 - 1$\nc. $4x^2 + 1$\nd. $4x^2 - 2$",
+    "de_bai": "Khai triển biểu thức \\((2x - 1)(2x + 1)\\):\na. \\(2x^2 - 1\\)\nb. \\(4x^2 - 1\\)\nc. \\(4x^2 + 1\\)\nd. \\(4x^2 - 2\\)",
     "dap_so": "b"
   },
   {
     "id": 43,
-    "de_bai": "Viết biểu thức $x^2 - 9$ dưới dạng tích:\na. $(x - 9)(x + 9)$\nb. $(x - 3)^2$\nc. $(x - 3)(x + 3)$\nd. $(x + 3)^2$",
+    "de_bai": "Viết biểu thức \\(x^2 - 9\\) dưới dạng tích:\na. \\((x - 9)(x + 9)\\)\nb. \\((x - 3)^2\\)\nc. \\((x - 3)(x + 3)\\)\nd. \\((x + 3)^2\\)",
     "dap_so": "c"
   },
   {
     "id": 44,
-    "de_bai": "Viết biểu thức $4x^2 - 25$ dưới dạng tích:\na. $(4x - 5)(4x + 5)$\nb. $(2x - 25)(2x + 25)$\nc. $(2x - 5)^2$\nd. $(2x - 5)(2x + 5)$",
+    "de_bai": "Viết biểu thức \\(4x^2 - 25\\) dưới dạng tích:\na. \\((4x - 5)(4x + 5)\\)\nb. \\((2x - 25)(2x + 25)\\)\nc. \\((2x - 5)^2\\)\nd. \\((2x - 5)(2x + 5)\\)",
     "dap_so": "d"
   },
   {
     "id": 45,
-    "de_bai": "Tính nhanh giá trị của tích $101 \\cdot 99$:\na. $9999$\nb. $9991$\nc. $10001$\nd. $9900$",
+    "de_bai": "Tính nhanh giá trị của tích \\(101 \\cdot 99\\):\na. \\(9999\\)\nb. \\(9991\\)\nc. \\(10001\\)\nd. \\(9900\\)",
     "dap_so": "a"
   },
   {
     "id": 46,
-    "de_bai": "Tính giá trị của biểu thức $52^2 - 42^2$:\na. $1000$\nb. $940$\nc. $840$\nd. $900$",
+    "de_bai": "Tính giá trị của biểu thức \\(52^2 - 42^2\\):\na. \\(1000\\)\nb. \\(940\\)\nc. \\(840\\)\nd. \\(900\\)",
     "dap_so": "b"
   },
   {
     "id": 47,
-    "de_bai": "Khai triển biểu thức $(x - 3y)(x + 3y)$:\na. $x^2 - 3y^2$\nb. $x^2 - 6y^2$\nc. $x^2 - 9y^2$\nd. $x^2 + 9y^2$",
+    "de_bai": "Khai triển biểu thức \\((x - 3y)(x + 3y)\\):\na. \\(x^2 - 3y^2\\)\nb. \\(x^2 - 6y^2\\)\nc. \\(x^2 - 9y^2\\)\nd. \\(x^2 + 9y^2\\)",
     "dap_so": "c"
   },
   {
     "id": 48,
-    "de_bai": "Viết biểu thức $16 - x^2$ dưới dạng tích:\na. $(x - 4)(x + 4)$\nb. $(4 - x)^2$\nc. $(16 - x)(16 + x)$\nd. $(4 - x)(4 + x)$",
+    "de_bai": "Viết biểu thức \\(16 - x^2\\) dưới dạng tích:\na. \\((x - 4)(x + 4)\\)\nb. \\((4 - x)^2\\)\nc. \\((16 - x)(16 + x)\\)\nd. \\((4 - x)(4 + x)\\)",
     "dap_so": "d"
   },
   {
     "id": 49,
-    "de_bai": "Rút gọn biểu thức $C = (x - 1)(x + 1) + 1$:\na. $x^2$\nb. $x^2 - 2$\nc. $x^2 + 2$\nd. $x^2 - 1$",
+    "de_bai": "Rút gọn biểu thức \\(C = (x - 1)(x + 1) + 1\\):\na. \\(x^2\\)\nb. \\(x^2 - 2\\)\nc. \\(x^2 + 2\\)\nd. \\(x^2 - 1\\)",
     "dap_so": "a"
   },
   {
     "id": 50,
-    "de_bai": "Tính giá trị của biểu thức $x^2 - 4$ tại $x = 12$:\na. $144$\nb. $140$\nc. $148$\nd. $136$",
+    "de_bai": "Tính giá trị của biểu thức \\(x^2 - 4\\) tại \\(x = 12\\):\na. \\(144\\)\nb. \\(140\\)\nc. \\(148\\)\nd. \\(136\\)",
     "dap_so": "b"
   }
 ]
