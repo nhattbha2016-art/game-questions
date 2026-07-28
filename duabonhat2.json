@@ -1,555 +1,555 @@
 {
-  "title": "Trắc nghiệm Tổng hợp Bài 1 và 2 Chương I - Đại số Toán 10",
+  "title": "Trắc nghiệm Ôn tập Toán 9: Hệ phương trình, Phương trình & Lượng giác",
   "questions": [
     {
       "id": 1,
-      "q": "Câu nào sau đây là một mệnh đề?",
+      "q": "Dạng tổng quát của phương trình tích là gì?",
       "a": [
-        "Hôm nay trời đẹp quá!",
-        "Bạn có đi học không?",
-        "Số 15 là số nguyên tố.",
-        "Hãy làm bài tập đi!"
+        "A(x) . B(x) = 0",
+        "A(x) + B(x) = 0",
+        "A(x) / B(x) = 0",
+        "A(x) = B(x)"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "id": 2,
-      "q": "Câu nào sau đây KHÔNG phải là mệnh đề?",
+      "q": "Phương trình (x - 2)(x + 3) = 0 tương đương với:",
       "a": [
-        "2 + 3 = 5",
-        "Hà Nội là thủ đô của Việt Nam.",
-        "Mấy giờ rồi?",
-        "Trái đất quay quanh mặt trời."
-      ],
-      "correct": 2
-    },
-    {
-      "id": 3,
-      "q": "Trong các câu sau, có bao nhiêu câu là mệnh đề: (1) 3 + 4 = 7; (2) Năm 2024 là năm nhuận; (3) x > 5; (4) Cấm hút thuốc!",
-      "a": [
-        "1",
-        "2",
-        "3",
-        "4"
+        "x - 2 = 0 và x + 3 = 0",
+        "x - 2 = 0 hoặc x + 3 = 0",
+        "x - 2 = 0",
+        "x + 3 = 0"
       ],
       "correct": 1
     },
     {
-      "id": 4,
-      "q": "Mệnh đề phủ định của mệnh đề '5 là số vô tỉ' là:",
+      "id": 3,
+      "q": "Tập nghiệm của phương trình (x - 1)(x + 5) = 0 là:",
       "a": [
-        "5 không phải là số vô tỉ.",
-        "5 là số hữu tỉ.",
-        "5 là số nguyên.",
-        "5 là số thực."
+        "S = {1; -5}",
+        "S = {-1; 5}",
+        "S = {1; 5}",
+        "S = {-1; -5}"
       ],
       "correct": 0
+    },
+    {
+      "id": 4,
+      "q": "Phương trình x(x - 3) = 0 có bao nhiêu nghiệm?",
+      "a": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 2
     },
     {
       "id": 5,
-      "q": "Cho mệnh đề P: 'Số 4 chia hết cho 2'. Mệnh đề phủ định của P là:",
+      "q": "Nghiệm của phương trình 2x(x + 4) = 0 là:",
       "a": [
-        "Số 4 không chia hết cho 2.",
-        "Số 2 chia hết cho 4.",
-        "Số 4 chia hết cho 4.",
-        "Số 4 là số chẵn."
+        "x = 2 hoặc x = -4",
+        "x = 0 hoặc x = -4",
+        "x = 0 hoặc x = 4",
+        "x = 2 hoặc x = 4"
       ],
-      "correct": 0
+      "correct": 1
     },
     {
       "id": 6,
-      "q": "Mệnh đề nào sau đây đúng?",
+      "q": "Phương trình x² - 9 = 0 có thể biến đổi thành phương trình tích nào?",
       "a": [
-        "Số 2 là số nguyên tố chẵn duy nhất.",
-        "Mọi số nguyên tố đều là số lẻ.",
-        "Số 1 là số nguyên tố.",
-        "Số 9 là số nguyên tố."
+        "(x - 3)(x + 3) = 0",
+        "(x - 9)(x + 9) = 0",
+        "(x - 3)² = 0",
+        "x(x - 9) = 0"
       ],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "Mệnh đề phủ định của mệnh đề 'Mọi học sinh trong lớp đều thích học Toán' là:",
+      "q": "Nghiệm lớn nhất của phương trình (2x - 4)(x + 1) = 0 là:",
       "a": [
-        "Mọi học sinh trong lớp đều không thích học Toán.",
-        "Có ít nhất một học sinh trong lớp không thích học Toán.",
-        "Không có học sinh nào thích học Toán.",
-        "Có một học sinh thích học Văn."
+        "-1",
+        "0",
+        "2",
+        "4"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "id": 8,
-      "q": "Kí hiệu nào sau đây đọc là 'Với mọi'?",
+      "q": "Phương trình (x + 2)² = 0 có nghiệm là:",
       "a": [
-        "∃",
-        "∀",
-        "∈",
-        "⊂"
+        "x = 2",
+        "x = -2",
+        "x = ±2",
+        "Vô nghiệm"
       ],
       "correct": 1
     },
     {
       "id": 9,
-      "q": "Mệnh đề '∀x ∈ ℝ, x² ≥ 0' được phát biểu bằng lời là:",
+      "q": "Tổng các nghiệm của phương trình (x - 3)(x + 3) = 0 bằng:",
       "a": [
-        "Có một số thực mà bình phương của nó lớn hơn hoặc bằng 0.",
-        "Bình phương của mọi số thực đều lớn hơn hoặc bằng 0.",
-        "Mọi số thực đều lớn hơn 0.",
-        "Bình phương của một số thực có thể âm."
-      ],
-      "correct": 1
-    },
-    {
-      "id": 10,
-      "q": "Mệnh đề phủ định của mệnh đề '∃x ∈ ℝ, x² = 2' là:",
-      "a": [
-        "∀x ∈ ℝ, x² ≠ 2",
-        "∃x ∈ ℝ, x² ≠ 2",
-        "∀x ∈ ℝ, x² = 2",
-        "∃x ∈ ℝ, x² < 2"
+        "0",
+        "6",
+        "-6",
+        "9"
       ],
       "correct": 0
     },
     {
-      "id": 11,
-      "q": "Cho mệnh đề kéo theo P ⇒ Q. Mệnh đề này sai khi nào?",
+      "id": 10,
+      "q": "Tập nghiệm của phương trình (3x - 1)(x + 2) = 0 là:",
       "a": [
-        "P đúng, Q đúng.",
-        "P đúng, Q sai.",
-        "P sai, Q đúng.",
-        "P sai, Q sai."
+        "S = {3; -2}",
+        "S = {-1/3; 2}",
+        "S = {-1/3; -2}",
+        "S = {1/3; -2}"
       ],
-      "correct": 1
+      "correct": 3
+    },
+    {
+      "id": 11,
+      "q": "Biến đổi phương trình x² - 5x = 0 về dạng phương trình tích ta được:",
+      "a": [
+        "x(x - 5) = 0",
+        "x(x + 5) = 0",
+        "(x - 5)² = 0",
+        "(x - 5)(x + 5) = 0"
+      ],
+      "correct": 0
     },
     {
       "id": 12,
-      "q": "Mệnh đề đảo của mệnh đề 'Nếu tam giác ABC là tam giác đều thì tam giác ABC cân' là:",
+      "q": "Tích các nghiệm của phương trình (x - 2)(x - 4) = 0 bằng:",
       "a": [
-        "Nếu tam giác ABC không đều thì nó không cân.",
-        "Nếu tam giác ABC cân thì tam giác ABC đều.",
-        "Nếu tam giác ABC không cân thì nó không đều.",
-        "Tam giác ABC đều khi và chỉ khi nó cân."
+        "6",
+        "-8",
+        "8",
+        "-6"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "id": 13,
-      "q": "Mệnh đề tương đương P ⇔ Q đúng khi nào?",
+      "q": "Điều kiện xác định của phương trình 1 / (x - 2) = 3 là:",
       "a": [
-        "P và Q cùng đúng hoặc cùng sai.",
-        "P đúng, Q sai.",
-        "P sai, Q đúng.",
-        "P và Q không cùng tính đúng sai."
+        "x ≠ 2",
+        "x ≠ -2",
+        "x ≠ 0",
+        "x ≠ 3"
       ],
       "correct": 0
     },
     {
       "id": 14,
-      "q": "Cách phát biểu nào sau đây diễn đạt mệnh đề P ⇒ Q?",
+      "q": "Điều kiện xác định của phương trình (x + 1) / (x² - 1) = 0 là:",
       "a": [
-        "P là điều kiện cần để có Q.",
-        "P là điều kiện đủ để có Q.",
-        "Q là điều kiện đủ để có P.",
-        "P và Q là hai mệnh đề tương đương."
-      ],
-      "correct": 1
-    },
-    {
-      "id": 15,
-      "q": "Mệnh đề '∃x ∈ ℤ, x < 0' đúng hay sai?",
-      "a": [
-        "Đúng, ví dụ x = -1.",
-        "Sai, vì mọi số nguyên đều lớn hơn 0.",
-        "Đúng, ví dụ x = 0.5",
-        "Sai, vì x phải là số tự nhiên."
-      ],
-      "correct": 0
-    },
-    {
-      "id": 16,
-      "q": "Tập hợp A = {1; 2; 3; 4; 5} có thể được viết bằng tính chất đặc trưng là:",
-      "a": [
-        "A = {x ∈ ℕ | x < 5}",
-        "A = {x ∈ ℕ* | x ≤ 5}",
-        "A = {x ∈ ℝ | 1 ≤ x ≤ 5}",
-        "A = {x ∈ ℤ | x < 6}"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 17,
-      "q": "Cho tập hợp B = {x ∈ ℝ | x² - 4 = 0}. Tập hợp B viết dưới dạng liệt kê phần tử là:",
-      "a": [
-        "B = {2}",
-        "B = {-2}",
-        "B = {-2; 2}",
-        "B = {4}"
+        "x ≠ 1",
+        "x ≠ -1",
+        "x ≠ 1 và x ≠ -1",
+        "Mọi x ∈ R"
       ],
       "correct": 2
     },
     {
-      "id": 18,
-      "q": "Cho tập hợp C = {x ∈ ℕ | 2x - 5 = 0}. Tập hợp C là:",
+      "id": 15,
+      "q": "Bước đầu tiên bắt buộc khi giải phương trình chứa ẩn ở mẫu là:",
       "a": [
-        "C = {5/2}",
-        "C = ∅",
-        "C = {2.5}",
-        "C = {0}"
+        "Quy đồng mẫu thức hai vế",
+        "Tìm điều kiện xác định của phương trình",
+        "Khử mẫu thức",
+        "Giải phương trình vừa nhận được"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 16,
+      "q": "Điều kiện xác định của phương trình x / (2x + 4) = 1 là:",
+      "a": [
+        "x ≠ 2",
+        "x ≠ 4",
+        "x ≠ 0",
+        "x ≠ -2"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 17,
+      "q": "Tập nghiệm của phương trình (x - 3) / (x - 3) = 1 là:",
+      "a": [
+        "S = R \\ {3}",
+        "S = R",
+        "S = {3}",
+        "S = ∅"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "q": "Nghiệm của phương trình (x - 2) / (x + 1) = 0 là:",
+      "a": [
+        "x = -1",
+        "x = 2",
+        "x = -2",
+        "x = 1"
       ],
       "correct": 1
     },
     {
       "id": 19,
-      "q": "Tập hợp rỗng được kí hiệu là:",
+      "q": "Khi giải phương trình chứa ẩn ở mẫu, ở bước khử mẫu ta dùng dấu suy ra (⇒) vì:",
       "a": [
-        "{0}",
-        "0",
-        "∅",
-        "{∅}"
-      ],
-      "correct": 2
-    },
-    {
-      "id": 20,
-      "q": "Kí hiệu nào biểu diễn 'a là một phần tử của tập hợp A'?",
-      "a": [
-        "a ⊂ A",
-        "a ∈ A",
-        "A ⊃ a",
-        "a ∉ A"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 21,
-      "q": "Tập hợp A ⊂ B có nghĩa là:",
-      "a": [
-        "Mọi phần tử của A đều là phần tử của B.",
-        "Mọi phần tử của B đều là phần tử của A.",
-        "Có ít nhất một phần tử của A thuộc B.",
-        "A và B có phần tử chung."
+        "Phương trình mới có thể xuất hiện nghiệm ngoại lai",
+        "Phương trình mới luôn vô nghiệm",
+        "Hai phương trình luôn tương đương nhau",
+        "Không được dùng dấu tương đương trong toán học"
       ],
       "correct": 0
     },
     {
-      "id": 22,
-      "q": "Số tập con của tập hợp có 3 phần tử là:",
+      "id": 20,
+      "q": "Điều kiện xác định của phương trình 1/x + 1/(x - 1) = 2 là:",
       "a": [
-        "3",
-        "6",
-        "8",
-        "9"
+        "x ≠ 0",
+        "x ≠ 1",
+        "x ≠ 0 và x ≠ 1",
+        "x ≠ -1"
       ],
       "correct": 2
+    },
+    {
+      "id": 21,
+      "q": "Cho phương trình (x² - 4) / (x - 2) = 0. Giá trị x = 2 có phải là nghiệm của phương trình không?",
+      "a": [
+        "Có, vì 2² - 4 = 0",
+        "Không, vì x = 2 không thỏa mãn điều kiện xác định",
+        "Có, vì x = 2 thỏa mãn phương trình",
+        "Không, vì phương trình vô nghiệm"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "q": "Nghiệm của phương trình 2 / (x + 3) = 1 là:",
+      "a": [
+        "x = 1",
+        "x = 3",
+        "x = -3",
+        "x = -1"
+      ],
+      "correct": 3
     },
     {
       "id": 23,
-      "q": "Tập hợp A = {1; 2} có các tập con là:",
+      "q": "Mẫu thức chung đơn giản nhất của phương trình 1/x + 2/(x + 1) = 0 là:",
       "a": [
-        "{1}, {2}",
-        "∅, {1}, {2}",
-        "∅, {1}, {2}, {1; 2}",
-        "{1; 2}"
+        "x(x + 1)",
+        "x + 1",
+        "x²",
+        "2x(x + 1)"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "id": 24,
-      "q": "Giao của hai tập hợp A và B (kí hiệu A ∩ B) gồm các phần tử:",
+      "q": "Phương trình (x - 1) / (x + 2) = 0 có bao nhiêu nghiệm?",
       "a": [
-        "Thuộc A nhưng không thuộc B.",
-        "Vừa thuộc A vừa thuộc B.",
-        "Thuộc A hoặc thuộc B.",
-        "Không thuộc cả A và B."
+        "0",
+        "1",
+        "2",
+        "Vô số nghiệm"
       ],
       "correct": 1
     },
     {
       "id": 25,
-      "q": "Hợp của hai tập hợp A và B (kí hiệu A ∪ B) gồm các phần tử:",
+      "q": "Dạng tổng quát của hệ hai phương trình bậc nhất hai ẩn là:",
       "a": [
-        "Chỉ thuộc A.",
-        "Vừa thuộc A vừa thuộc B.",
-        "Thuộc A hoặc thuộc B.",
-        "Không thuộc A cũng không thuộc B."
+        "{ ax + by = c; a'x + b'y = c' }",
+        "ax + b = 0",
+        "ax² + bx + c = 0",
+        "ax + by + cz = d"
       ],
-      "correct": 2
+      "correct": 0
     },
     {
       "id": 26,
-      "q": "Hiệu của tập hợp A và B (kí hiệu A \\ B) gồm các phần tử:",
+      "q": "Cặp số nào sau đây là nghiệm của phương trình x - 2y = 1?",
       "a": [
-        "Thuộc A và thuộc B.",
-        "Thuộc A nhưng không thuộc B.",
-        "Thuộc B nhưng không thuộc A.",
-        "Thuộc A hoặc thuộc B."
+        "(1; 1)",
+        "(3; 1)",
+        "(2; 1)",
+        "(0; 1)"
       ],
       "correct": 1
     },
     {
       "id": 27,
-      "q": "Cho A = {1; 2; 3; 4}, B = {3; 4; 5; 6}. Tìm A ∩ B.",
+      "q": "Cặp số (1; 2) là nghiệm của hệ phương trình nào sau đây?",
       "a": [
-        "{1; 2}",
-        "{5; 6}",
-        "{3; 4}",
-        "{1; 2; 3; 4; 5; 6}"
+        "{ x + y = 3; x - y = 1 }",
+        "{ 2x + y = 5; x + y = 2 }",
+        "{ x + y = 3; x - y = -1 }",
+        "{ x - y = 1; x + y = 4 }"
       ],
       "correct": 2
     },
     {
       "id": 28,
-      "q": "Cho A = {1; 2; 3}, B = {3; 4; 5}. Tìm A ∪ B.",
+      "q": "Phương pháp nào sau đây KHÔNG dùng trực tiếp để giải hệ phương trình bậc nhất hai ẩn?",
       "a": [
-        "{1; 2; 3; 4; 5}",
-        "{3}",
-        "{1; 2}",
-        "{4; 5}"
+        "Phương pháp thế",
+        "Phương pháp cộng đại số",
+        "Phương pháp đồ thị",
+        "Phương pháp hằng đẳng thức"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 29,
+      "q": "Hệ phương trình { x + y = 3; x + y = 5 } có bao nhiêu nghiệm?",
+      "a": [
+        "Vô nghiệm",
+        "Một nghiệm duy nhất",
+        "Vô số nghiệm",
+        "Hai nghiệm"
       ],
       "correct": 0
     },
     {
-      "id": 29,
-      "q": "Cho A = {a, b, c, d}, B = {c, d, e}. Tìm A \\ B.",
+      "id": 30,
+      "q": "Hệ phương trình { x - y = 1; 2x - 2y = 2 } có bao nhiêu nghiệm?",
       "a": [
-        "{e}",
-        "{a, b}",
-        "{c, d}",
-        "{a, b, c, d, e}"
+        "Vô nghiệm",
+        "Vô số nghiệm",
+        "Một nghiệm duy nhất",
+        "Hai nghiệm"
       ],
       "correct": 1
     },
     {
-      "id": 30,
-      "q": "Cho tập hợp E = {x ∈ ℝ | -2 < x ≤ 5}. E được viết dưới dạng khoảng, đoạn, nửa khoảng là:",
-      "a": [
-        "[-2; 5]",
-        "(-2; 5)",
-        "(-2; 5]",
-        "[-2; 5)"
-      ],
-      "correct": 2
-    },
-    {
       "id": 31,
-      "q": "Tập hợp ℝ \\ {2} có thể viết là:",
+      "q": "Nghiệm của hệ phương trình { x + y = 4; x - y = 2 } là:",
       "a": [
-        "(-∞; 2) ∪ (2; +∞)",
-        "(-∞; 2]",
-        "[2; +∞)",
-        "(-∞; +∞)"
+        "(3; 1)",
+        "(1; 3)",
+        "(2; 2)",
+        "(4; 0)"
       ],
       "correct": 0
     },
     {
       "id": 32,
-      "q": "Cho hai tập hợp A = [-3; 5) và B = (0; 8]. Tìm A ∩ B.",
+      "q": "Cho hệ phương trình { 2x + y = 5; x - y = 1 }. Giá trị của x là:",
       "a": [
-        "[-3; 8]",
-        "(0; 5)",
-        "[0; 5)",
-        "(-3; 0]"
+        "1",
+        "3",
+        "2",
+        "0"
       ],
-      "correct": 1
+      "correct": 2
     },
     {
       "id": 33,
-      "q": "Cho A = (-∞; 2] và B = (-1; +∞). Tìm A ∪ B.",
+      "q": "Cho hệ phương trình { x + y = 5; y = 2 }. Giá trị của x là:",
       "a": [
-        "(-1; 2]",
-        "ℝ",
-        "[-1; 2]",
-        "∅"
+        "2",
+        "3",
+        "5",
+        "7"
       ],
       "correct": 1
     },
     {
       "id": 34,
-      "q": "Cho A = [-2; 4) và B = [1; 5]. Tìm A \\ B.",
+      "q": "Bạn Minh mua 2 quyển vở và 1 chiếc bút hết 25.000 đồng. Gọi x (đồng) là giá 1 quyển vở, y (đồng) là giá 1 chiếc bút. Phương trình biểu diễn bài toán là:",
       "a": [
-        "[-2; 1)",
-        "[-2; 1]",
-        "(4; 5]",
-        "[1; 4)"
+        "2x + y = 25000",
+        "x + 2y = 25000",
+        "2x + 2y = 25000",
+        "x + y = 25000"
       ],
       "correct": 0
     },
     {
       "id": 35,
-      "q": "Phần bù của tập hợp A = [-1; 3) trong ℝ (kí hiệu C_ℝ A) là:",
+      "q": "Biểu diễn y theo x từ phương trình 2x - y = 3 ta được:",
       "a": [
-        "(-∞; -1) ∪ [3; +∞)",
-        "(-∞; -1] ∪ (3; +∞)",
-        "(-∞; -1] ∪ [3; +∞)",
-        "(-∞; -1) ∪ (3; +∞)"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 36,
-      "q": "Mệnh đề 'Tồn tại một số thực x sao cho x² + 1 = 0' được kí hiệu là:",
-      "a": [
-        "∀x ∈ ℝ, x² + 1 = 0",
-        "∃x ∈ ℝ, x² + 1 = 0",
-        "∃x ∈ ℝ, x² + 1 > 0",
-        "∀x ∈ ℝ, x² + 1 ≠ 0"
+        "y = 3 - 2x",
+        "y = 2x - 3",
+        "y = 2x + 3",
+        "y = -2x - 3"
       ],
       "correct": 1
     },
     {
-      "id": 37,
-      "q": "Trong các mệnh đề sau, mệnh đề nào SAI?",
+      "id": 36,
+      "q": "Tọa độ giao điểm của hai đường thẳng d1: y = x + 1 và d2: y = -x + 3 là nghiệm của hệ phương trình nào?",
       "a": [
-        "∀n ∈ ℕ, n ≤ 2n",
-        "∃n ∈ ℕ, n² = n",
-        "∀x ∈ ℝ, x² > 0",
-        "∃x ∈ ℝ, x > x²"
+        "{ x + y = 1; x - y = 3 }",
+        "{ x - y = 1; x + y = 3 }",
+        "{ x - y = -1; x + y = 3 }",
+        "{ x + y = -1; x - y = -3 }"
       ],
       "correct": 2
     },
     {
-      "id": 38,
-      "q": "Cho tập hợp X = {x ∈ ℤ | x² < 5}. Số phần tử của tập hợp X là:",
+      "id": 37,
+      "q": "Hệ phương trình { 3x - y = 2; x + y = 2 } có nghiệm (x; y) là:",
       "a": [
-        "5",
-        "3",
-        "2",
-        "4"
+        "(1; 1)",
+        "(2; 0)",
+        "(0; 2)",
+        "(1; -1)"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "q": "Cho tam giác ABC vuông tại A. Tỉ số giữa cạnh đối của góc B và cạnh huyền được gọi là:",
+      "a": [
+        "sin B",
+        "cos B",
+        "tan B",
+        "cot B"
       ],
       "correct": 0
     },
     {
       "id": 39,
-      "q": "Khẳng định nào sau đây đúng về tập rỗng ∅?",
+      "q": "Cho tam giác ABC vuông tại A. Công thức tính tan B là:",
       "a": [
-        "∅ ∈ ∅",
-        "∅ ⊂ A với mọi tập hợp A",
-        "∅ = {0}",
-        "Tập ∅ có 1 phần tử."
+        "cạnh kề / cạnh huyền",
+        "cạnh đối / cạnh kề",
+        "cạnh đối / cạnh huyền",
+        "cạnh kề / cạnh đối"
       ],
       "correct": 1
     },
     {
       "id": 40,
-      "q": "Lớp 10A có 15 học sinh giỏi Toán, 10 học sinh giỏi Văn, 5 học sinh giỏi cả hai môn. Hỏi lớp 10A có bao nhiêu học sinh giỏi ít nhất một trong hai môn?",
+      "q": "Cho góc nhọn α, khẳng định nào sau đây đúng?",
       "a": [
-        "20",
-        "25",
-        "30",
-        "15"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 41,
-      "q": "Cho A = (-1; 5], B = [2; 7). Tập hợp A ∩ B là tập hợp nào sau đây?",
-      "a": [
-        "(-1; 2]",
-        "[2; 5]",
-        "(-1; 7)",
-        "(5; 7)"
-      ],
-      "correct": 1
-    },
-    {
-      "id": 42,
-      "q": "Cho A = (-∞; m] và B = (3; +∞). Điều kiện của m để A ∩ B = ∅ là:",
-      "a": [
-        "m ≤ 3",
-        "m < 3",
-        "m ≥ 3",
-        "m > 3"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 43,
-      "q": "Tập hợp A = {x ∈ ℝ | -3 ≤ x < 2} được biểu diễn bằng:",
-      "a": [
-        "[-3; 2]",
-        "(-3; 2)",
-        "[-3; 2)",
-        "(-3; 2]"
+        "sin α = sin(90° - α)",
+        "cos α = tan(90° - α)",
+        "sin α = cos(90° - α)",
+        "tan α = cot α"
       ],
       "correct": 2
     },
     {
-      "id": 44,
-      "q": "Nếu A \\ B = ∅ thì có thể kết luận gì về hai tập hợp A và B?",
+      "id": 41,
+      "q": "Giá trị của sin 30° bằng:",
       "a": [
-        "A = B",
-        "A ⊂ B",
-        "B ⊂ A",
-        "A ∩ B = ∅"
+        "1/2",
+        "√2/2",
+        "√3/2",
+        "1"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 42,
+      "q": "Giá trị của cos 60° bằng:",
+      "a": [
+        "√3/2",
+        "1/2",
+        "√2/2",
+        "0"
       ],
       "correct": 1
     },
     {
-      "id": 45,
-      "q": "Cho 2 tập hợp A = [m; m+2] và B = [-1; 2]. Điều kiện để A ⊂ B là:",
+      "id": 43,
+      "q": "Cho tam giác ABC vuông tại A, đường cao AH. Hệ thức nào sau đây đúng?",
       "a": [
-        "-1 ≤ m ≤ 0",
-        "-1 < m < 0",
-        "m ≥ -1",
-        "m ≤ 0"
+        "AH² = BH . CH",
+        "AH² = AB . AC",
+        "AH = BH . CH",
+        "AH² = BC . BH"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "q": "Cho tam giác ABC vuông tại A, có AB = 3 cm, AC = 4 cm. Độ dài cạnh huyền BC bằng:",
+      "a": [
+        "7 cm",
+        "1 cm",
+        "5 cm",
+        "25 cm"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 45,
+      "q": "Cho tam giác ABC vuông tại A, đường cao AH. Hệ thức nào sau đây đúng về cạnh góc vuông AB?",
+      "a": [
+        "AB² = BH . BC",
+        "AB² = CH . BC",
+        "AB² = AH . BC",
+        "AB² = BH . CH"
       ],
       "correct": 0
     },
     {
       "id": 46,
-      "q": "Cho P = 'Tứ giác ABCD là hình chữ nhật', Q = 'Tứ giác ABCD có 3 góc vuông'. Chọn mệnh đề đúng.",
+      "q": "Cho hai góc nhọn α và β phụ nhau (α + β = 90°). Khẳng định nào sau đây SAI?",
       "a": [
-        "P ⇒ Q đúng nhưng Q ⇒ P sai.",
-        "P ⇔ Q đúng.",
-        "P ⇒ Q sai nhưng Q ⇒ P đúng.",
-        "Cả P ⇒ Q và Q ⇒ P đều sai."
+        "sin α = cos β",
+        "cos α = sin β",
+        "tan α = cot β",
+        "sin α = sin β"
       ],
-      "correct": 1
+      "correct": 3
     },
     {
       "id": 47,
-      "q": "Tập hợp M = {x ∈ ℕ | x là ước của 6} gồm các phần tử:",
+      "q": "Giá trị của tan 45° bằng:",
       "a": [
-        "{1; 2; 3; 6}",
-        "{2; 3}",
-        "{0; 1; 2; 3; 6}",
-        "{1; 2; 3}"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 48,
-      "q": "Số phần tử của tập hợp A = {k² + 1 | k ∈ ℤ, |k| ≤ 2} là:",
-      "a": [
-        "5",
-        "3",
-        "2",
-        "4"
+        "0",
+        "1",
+        "√3",
+        "1/√3"
       ],
       "correct": 1
     },
     {
-      "id": 49,
-      "q": "Cho tập hợp A = (-3; 2] và B = [0; 5]. Tập C_ℝ (A ∪ B) là:",
+      "id": 48,
+      "q": "Cho tam giác ABC vuông tại A có BC = 10 cm và góc B = 30°. Độ dài cạnh AC là:",
       "a": [
-        "(-∞; -3] ∪ (5; +∞)",
-        "(-∞; -3) ∪ (5; +∞)",
-        "(-∞; -3] ∪ [5; +∞)",
-        "(-∞; -3) ∪ [5; +∞)"
+        "5 cm",
+        "10 cm",
+        "5√3 cm",
+        "2.5 cm"
       ],
       "correct": 0
     },
     {
-      "id": 50,
-      "q": "Cho A = (-2; 3) và B = [m; m+2). Tìm m để A ∩ B = ∅.",
+      "id": 49,
+      "q": "Với góc nhọn α tùy ý, tích tan α . cot α bằng:",
       "a": [
-        "m ≥ 3 hoặc m ≤ -4",
-        "m > 3 hoặc m < -4",
-        "m ≥ 3 hoặc m < -2",
-        "m > -2 và m < 3"
+        "0",
+        "2",
+        "1",
+        "-1"
       ],
-      "correct": 0
+      "correct": 2
+    },
+    {
+      "id": 50,
+      "q": "Một chiếc thang dài 4m dựa vào tường tạo với mặt đất một góc 60°. Khoảng cách từ chân thang đến chân tường là:",
+      "a": [
+        "4 m",
+        "2 m",
+        "2√3 m",
+        "1 m"
+      ],
+      "correct": 1
     }
   ]
 }
