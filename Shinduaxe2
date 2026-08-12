@@ -1,0 +1,118 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "time_limit_seconds": 90,
+      "base_points": 1000,
+      "question_text": "Cho tam giác ABC có cạnh AC = 8, AB = 5 và góc A = 60°. Độ dài cạnh BC bằng bao nhiêu?",
+      "image_url": "",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct_answer": "7"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "time_limit_seconds": 90,
+      "base_points": 1000,
+      "question_text": "Cho tam giác ABC có cạnh a = 10 và góc A = 30°. Bán kính R của đường tròn ngoại tiếp tam giác ABC bằng bao nhiêu?",
+      "image_url": "",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correct_answer": "10"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "time_limit_seconds": 90,
+      "base_points": 1200,
+      "question_text": "Cho tam giác ABC có độ dài các cạnh a = 7, b = 8, c = 9. Giá trị của cos A bằng bao nhiêu?",
+      "image_url": "",
+      "options": [
+        "2/3",
+        "1/2",
+        "3/4",
+        "1/3"
+      ],
+      "correct_answer": "2/3"
+    },
+    {
+      "id": 4,
+      "type": "short_answer",
+      "time_limit_seconds": 90,
+      "base_points": 1200,
+      "question_text": "Cho tam giác ABC có a = 6, b = 10 và góc C = 30°. Diện tích của tam giác ABC bằng bao nhiêu (chỉ điền số)?",
+      "image_url": "",
+      "options": [],
+      "correct_answer_list": [
+        "15"
+      ]
+    },
+{
+      "id": 5,
+      "type": "multiple_choice",
+      "time_limit_seconds": 90,
+      "base_points": 1200,
+      "question_text": "Cho tam giác ABC có a = 3, c = 5 và góc B = 120°. Độ dài cạnh b bằng bao nhiêu?",
+      "image_url": "",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct_answer": "7"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "time_limit_seconds": 120,
+      "base_points": 1500,
+      "question_text": "Cho tam giác ABC có góc A = 30°, góc B = 45° và cạnh b = 6√2. Độ dài cạnh a bằng bao nhiêu?",
+      "image_url": "",
+      "options": [
+        "3",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct_answer": "6"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "time_limit_seconds": 90,
+      "base_points": 1200,
+      "question_text": "Cho tam giác ABC có độ dài ba cạnh a = 3, b = 7, c = 5. Số đo của góc B bằng bao nhiêu?",
+      "image_url": "",
+      "options": [
+        "30°",
+        "60°",
+        "120°",
+        "150°"
+      ],
+      "correct_answer": "120°"
+    },
+    {
+      "id": 8,
+      "type": "short_answer",
+      "time_limit_seconds": 90,
+      "base_points": 1200,
+      "question_text": "Cho tam giác ABC có cạnh a = 12 và góc A = 150°. Bán kính R của đường tròn ngoại tiếp tam giác ABC bằng bao nhiêu (chỉ điền số)?",
+      "image_url": "",
+      "options": [],
+      "correct_answer_list": [
+        "12"
+      ]
+    }
+  ]
+}
