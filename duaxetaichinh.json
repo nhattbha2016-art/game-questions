@@ -38,9 +38,7 @@
       "question_text": "Dạng 1: Bố gửi tiết kiệm 50.000.000 đồng vào ngân hàng với lãi suất 6%/năm. Sau 1 năm, lãi bố nhận được là bao nhiêu đồng (chỉ điền số)?",
       "image_url": "",
       "options": [],
-      "correct_answer_list": [
-        "300",
-              ]
+      "correct_answer_list": "300"
     },
     {
       "id": 4,
@@ -95,9 +93,7 @@
       "question_text": "Dạng 2: Nhân dịp lễ, một đôi giày thể thao được giảm giá 25% nên khách hàng chỉ phải trả 600.000 đồng. Hỏi giá bán ban đầu của đôi giày là bao nhiêu đồng (chỉ điền số)?",
       "image_url": "",
       "options": [],
-      "correct_answer_list": [
-        "800"
-              ]
+      "correct_answer_list": "800"
     },
     {
       "id": 8,
@@ -152,9 +148,7 @@
       "question_text": "Cô Hoa mua một chiếc quạt máy với giá 400.000 đồng. Sau một thời gian sử dụng, cô bán lại cho người khác với giá 320.000 đồng. Hỏi cô Hoa đã bán lỗ bao nhiêu phần trăm so với lúc mua ban đầu (chỉ điền con số, không ghi kí hiệu %)?",
       "image_url": "",
       "options": [],
-      "correct_answer_list": [
-        "20"
-      ]
+      "correct_answer_list": "20"
     },
     {
       "id": 12,
@@ -194,9 +188,8 @@
       "question_text": "Một sản phẩm có giá niêm yết là 2.000.000 đồng. Gần tết, cửa hàng tăng giá lên 20%. Sau tết, cửa hàng lại tung chương trình giảm giá 20% so với giá đang bán. Hỏi giá của sản phẩm sau tết là bao nhiêu ngàn đồng (chỉ điền số)?",
       "image_url": "",
       "options": [],
-      "correct_answer_list": [
-               "1920"
-      ]
+      "correct_answer_list": "1920"
+      
     },
     {
       "id": 15,
