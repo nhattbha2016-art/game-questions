@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "time_limit_seconds": 60,
+    "time_limit_seconds": 120,
     "base_points": 1000,
     "question_text": "Một chiếc áo khoác có giá niêm yết là 800.000 đồng. Cửa hàng đang có chương trình giảm giá 30%. Hỏi giá bán của chiếc áo sau khi giảm là bao nhiêu?",
     "image_url": "",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "time_limit_seconds": 60,
+    "time_limit_seconds": 120,
     "base_points": 1000,
     "question_text": "Mẹ Lan mua một món đồ gia dụng có giá niêm yết là 1.500.000 đồng. Khi thanh toán, siêu thị tính thêm 10% thuế giá trị gia tăng (VAT). Tổng số tiền mẹ Lan phải trả là bao nhiêu?",
     "image_url": "",
@@ -17,15 +17,15 @@
   },
   {
     "id": 3,
-    "time_limit_seconds": 60,
+    "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Dạng 1: Bố gửi tiết kiệm 50.000.000 đồng vào ngân hàng với lãi suất 6%/năm. Sau 1 năm, lãi bố nhận được là bao nhiêu đồng (chỉ điền số)?",
+    "question_text": "Bố gửi tiết kiệm 50.000.000 đồng vào ngân hàng với lãi suất 6%/năm. Sau 1 năm, lãi bố nhận được là bao nhiêu đồng (chỉ điền số)?",
     "image_url": "",
     "correct_answer": "3000"
   },
   {
     "id": 4,
-    "time_limit_seconds": 60,
+    "time_limit_seconds": 120,
     "base_points": 1200,
     "question_text": "Một chiếc tivi có giá 12.000.000 đồng. Cuối năm, siêu thị giảm giá 15% và tặng kèm phiếu mua hàng 500.000 đồng (phiếu mua hàng được trừ trực tiếp vào giá sau khi đã giảm). Số tiền thực tế khách hàng phải trả là bao nhiêu?",
     "image_url": "",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "time_limit_seconds": 60,
+    "time_limit_seconds": 120,
     "base_points": 1200,
     "question_text": "Sau khi được giảm giá 20%, một chiếc xe đạp được bán với giá 2.400.000 đồng. Hỏi giá niêm yết ban đầu của chiếc xe đạp là bao nhiêu?",
     "image_url": "",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "time_limit_seconds": 60,
+    "time_limit_seconds": 120,
     "base_points": 1200,
     "question_text": "Một hóa đơn thanh toán tiền điện thoại là 440.000 đồng (đã bao gồm 10% thuế VAT). Số tiền cước điện thoại khi chưa có thuế VAT là bao nhiêu?",
     "image_url": "",
@@ -49,74 +49,18 @@
   },
   {
     "id": 7,
-    "time_limit_seconds": 60,
+    "time_limit_seconds": 120,
     "base_points": 1500,
-    "question_text": "Dạng 2: Nhân dịp lễ, một đôi giày thể thao được giảm giá 25% nên khách hàng chỉ phải trả 600.000 đồng. Hỏi giá bán ban đầu của đôi giày là bao nhiêu đồng (chỉ điền số)?",
+    "question_text": "Nhân dịp lễ, một đôi giày thể thao được giảm giá 25% nên khách hàng chỉ phải trả 600.000 đồng. Hỏi giá bán ban đầu của đôi giày là bao nhiêu đồng (chỉ điền số)?",
     "image_url": "",
     "correct_answer": "800"
   },
   {
     "id": 8,
-    "time_limit_seconds": 60,
+    "time_limit_seconds": 120,
     "base_points": 1500,
     "question_text": "Giá xăng tăng thêm 15% so với tháng trước. Biết giá xăng hiện tại sau khi tăng là 23.000 đồng/lít. Hỏi giá xăng của tháng trước là bao nhiêu?",
     "image_url": "",
     "correct_answer": "20"
   },
-  {
-    "id": 9,
-    "time_limit_seconds": 60,
-    "base_points": 1500,
-    "question_text": "Dạng 3: Một cửa hàng nhập một đôi giày với giá 500.000 đồng. Cửa hàng bán ra với giá 650.000 đồng. Hỏi cửa hàng đã lời bao nhiêu phần trăm so với giá vốn?",
-    "image_url": "",
-    "correct_answer": "30"
-  },
-  {
-    "id": 10,
-    "time_limit_seconds": 60,
-    "base_points": 1500,
-    "question_text": "Một quyển sách có giá bìa là 120.000 đồng. Nhân dịp khai trương, nhà sách bán quyển sách đó với giá 90.000 đồng. Hỏi quyển sách đã được giảm giá bao nhiêu phần trăm?",
-    "image_url": "",
-    "correct_answer": "25"
-  },
-  {
-    "id": 11,
-    "time_limit_seconds": 60,
-    "base_points": 1500,
-    "question_text": "Cô Hoa mua một chiếc quạt máy với giá 400.000 đồng. Sau một thời gian sử dụng, cô bán lại cho người khác với giá 320.000 đồng. Hỏi cô Hoa đã bán lỗ bao nhiêu phần trăm so với lúc mua ban đầu (chỉ điền con số, không ghi kí hiệu %)?",
-    "image_url": "",
-    "correct_answer": "20"
-  },
-  {
-    "id": 12,
-    "time_limit_seconds": 60,
-    "base_points": 1500,
-    "question_text": "Siêu thị mua vào một kg táo với giá 40.000 đồng và bán ra với giá 50.000 đồng. Tỉ số phần trăm tiền lãi so với giá bán là bao nhiêu?",
-    "image_url": "",
-    "correct_answer": "20"
-  },
-  {
-    "id": 13,
-    "time_limit_seconds": 120,
-    "base_points": 2000,
-    "question_text": "Một chiếc máy tính xách tay có giá niêm yết 15.000.000 đồng. Lần thứ nhất, cửa hàng giảm giá 10%. Lần thứ hai (nhân ngày lễ), cửa hàng tiếp tục giảm thêm 5% tính trên giá đã giảm của lần thứ nhất. Hỏi sau hai lần giảm, giá bán của chiếc máy tính là bao nhiêu?",
-    "image_url": "",
-    "correct_answer": "12825"
-  },
-  {
-    "id": 14,
-    "time_limit_seconds": 120,
-    "base_points": 2000,
-    "question_text": "Một sản phẩm có giá niêm yết là 2.000.000 đồng. Gần tết, cửa hàng tăng giá lên 20%. Sau tết, cửa hàng lại tung chương trình giảm giá 20% so với giá đang bán. Hỏi giá của sản phẩm sau tết là bao nhiêu ngàn đồng (chỉ điền số)?",
-    "image_url": "",
-    "correct_answer": "1920"
-  },
-  {
-    "id": 15,
-    "time_limit_seconds": 120,
-    "base_points": 2500,
-    "question_text": "Một chiếc túi xách được giảm giá 2 lần liên tiếp, mỗi lần giảm 10% so với mức giá liền trước đó. Giá bán cuối cùng của chiếc túi là 810.000 đồng. Hỏi giá ban đầu của chiếc túi xách lúc chưa giảm là bao nhiêu?",
-    "image_url": "",
-    "correct_answer": "1000"
-  }
 ]
