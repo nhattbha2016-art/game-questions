@@ -50,7 +50,7 @@
   {
     "id": 7,
     "time_limit_seconds": 120,
-    "base_points": 1500,
+    "base_points": 1200,
     "question_text": "Nhân dịp lễ, một đôi giày thể thao được giảm giá 25% nên khách hàng chỉ phải trả 600.000 đồng. Hỏi giá bán ban đầu của đôi giày là bao nhiêu đồng (chỉ điền số)?",
     "image_url": "",
     "correct_answer": "800"
@@ -59,8 +59,24 @@
     "id": 8,
     "time_limit_seconds": 120,
     "base_points": 1500,
-    "question_text": "Giá xăng tăng thêm 15% so với tháng trước. Biết giá xăng hiện tại sau khi tăng là 23.000 đồng/lít. Hỏi giá xăng của tháng trước là bao nhiêu?",
+    "question_text": "Một mặt hàng có giá ban đầu là 1.000.000 đồng. Mặt hàng này tăng giá 10% ở đợt 1, sau đó tiếp tục tăng thêm 20% ở đợt 2 (trên giá đã tăng của đợt 1). Hỏi giá bán của mặt hàng sau hai lần tăng giá là bao nhiêu?",
     "image_url": "",
-    "correct_answer": "20"
+    "correct_answer": "1320"
+  },
+  {
+    "id": 9,
+    "time_limit_seconds": 120,
+    "base_points": 1500,
+    "question_text": "Một chiếc điện thoại có giá niêm yết là 2.000.000 đồng. Cửa hàng giảm giá 10% ở tuần thứ nhất, sang tuần thứ hai tiếp tục giảm thêm 20% trên giá đã giảm của tuần trước. Hỏi giá bán cuối cùng của chiếc điện thoại là bao nhiêu?",
+    "image_url": "",
+    "correct_answer": "1440"
+  },
+  {
+    "id": 10,
+    "time_limit_seconds": 120,
+    "base_points": 1500,
+    "question_text": "Một sản phẩm sau khi tăng giá 20% rồi tiếp tục giảm giá 10% (trên giá đã tăng) thì có giá bán cuối cùng là 5.400.000 đồng. Hỏi giá ban đầu của sản phẩm đó trước khi thay đổi giá là bao nhiêu?",
+    "image_url": "",
+    "correct_answer": "5000"
   }
 ]
