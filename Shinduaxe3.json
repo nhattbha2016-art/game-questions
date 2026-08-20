@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "time_limit_seconds": 120,
+    "base_points": 1500,
+    "question_text": "Một chiếc máy giặt có giá niêm yết là 4.000.000 đồng. Nhân dịp khai trương, cửa hàng giảm giá 15%, sau đó khách hàng có thẻ hội viên được giảm tiếp 10% trên giá đã giảm. Hỏi giá bán cuối cùng của chiếc máy giặt là bao nhiêu? (nhập số theo đơn vị ngàn đồng)",
+    "image_url": "",
+    "correct_answer": "3060"
+  },
+  {
+    "id": 2,
+    "time_limit_seconds": 120,
+    "base_points": 1500,
+    "question_text": "Một chiếc xe đạp điện có giá ban đầu là 10.000.000 đồng. Do thiếu linh kiện, cửa hàng tăng giá 10%. Sau đó nhân dịp lễ, cửa hàng lại giảm giá 15% trên giá đã tăng. Hỏi giá bán cuối cùng của chiếc xe đạp điện là bao nhiêu? (nhập số theo đơn vị ngàn đồng)",
+    "image_url": "",
+    "correct_answer": "9350"
+  },
+  {
+    "id": 3,
+    "time_limit_seconds": 120,
+    "base_points": 1500,
+    "question_text": "Một chiếc tivi sau khi giảm giá 20% đợt 1, rồi tiếp tục giảm thêm 25% đợt 2 (trên giá đã giảm của đợt 1) thì có giá bán cuối cùng là 3.600.000 đồng. Hỏi giá niêm yết ban đầu của chiếc tivi là bao nhiêu? (nhập số theo đơn vị ngàn đồng)",
+    "image_url": "",
+    "correct_answer": "6000"
+  },
+  {
+    "id": 4,
+    "time_limit_seconds": 120,
+    "base_points": 1500,
+    "question_text": "Một chiếc máy tính bảng sau khi tăng giá 30%, rồi sau đó lại giảm giá 20% (trên giá đã tăng) thì có giá bán cuối cùng là 5.200.000 đồng. Hỏi giá ban đầu của chiếc máy tính bảng trước khi thay đổi giá là bao nhiêu? (nhập số theo đơn vị ngàn đồng)",
+    "image_url": "",
+    "correct_answer": "5000"
+  },
+{
+    "id": 5,
+    "time_limit_seconds": 150,
+    "base_points": 1200,
+    "question_text": "Bác An bán cam với giá 30 ngàn đồng/kg. Buổi sáng bác đã bán được 8 kg. Đến buổi chiều, để bán hết 5 kg cam còn lại, bác quyết định giảm giá 20% so với giá buổi sáng. Tính tổng số tiền bác An thu được sau khi bán hết số cam trên (nhập số theo đơn vị ngàn đồng).",
+    "image_url": "",
+    "correct_answer": "360"
+  },
+  {
+    "id": 6,
+    "time_limit_seconds": 150,
+    "base_points": 1200,
+    "question_text": "Bác An nhập về 20 kg cam với giá gốc là 20 ngàn đồng/kg. Buổi sáng bác bán được 12 kg với giá 30 ngàn đồng/kg. Buổi chiều bác giảm giá 20% so với giá buổi sáng và bán hết số cam còn lại. Hỏi sau khi bán hết cam, bác An thu được bao nhiêu tiền lãi? (nhập số theo đơn vị ngàn đồng).",
+    "image_url": "",
+    "correct_answer": "152"
+  },
+  {
+    "id": 7,
+    "time_limit_seconds": 150,
+    "base_points": 1500,
+    "question_text": "Bác An mang cam đi bán với giá 30 ngàn đồng/kg. Buổi sáng bác bán được 8 kg. Buổi chiều bác giảm giá 20% so với giá bán buổi sáng và bán hết số cam còn lại. Biết tổng số tiền bác thu được cả ngày là 312 ngàn đồng. Hỏi buổi chiều bác An đã bán được bao nhiêu kg cam?",
+    "image_url": "",
+    "correct_answer": "3"
+  },
+  {
+    "id": 8,
+    "time_limit_seconds": 150,
+    "base_points": 1500,
+    "question_text": "Một cửa hàng bán bàn với giá theo bậc thang như sau: 5 cái đầu tiên giá 200 ngàn đồng/cái; từ cái thứ 6 đến cái thứ 10 giá 170 ngàn đồng/cái; từ cái thứ 11 trở đi giá 120 ngàn đồng/cái. Chị Lan mở quán ăn và đặt mua 20 cái bàn. Hỏi chị Lan phải trả bao nhiêu tiền? (nhập số theo đơn vị ngàn đồng)",
+    "image_url": "",
+    "correct_answer": "3050"
+  },
+  {
+    "id": 9,
+    "time_limit_seconds": 150,
+    "base_points": 1500,
+    "question_text": "Giá điện sinh hoạt bậc thang được tính như sau: 50 kWh đầu tiên giá 1,8 ngàn đồng/kWh; từ kWh thứ 51 đến 100 giá 1,9 ngàn đồng/kWh; từ kWh thứ 101 trở đi giá 2,3 ngàn đồng/kWh. Trong tháng vừa rồi, gia đình ông Bình đã sử dụng hết 120 kWh điện. Hỏi gia đình ông Bình phải trả bao nhiêu tiền điện? (nhập số theo đơn vị ngàn đồng)",
+    "image_url": "",
+    "correct_answer": "231"
+  },
+  {
+    "id": 10,
+    "time_limit_seconds": 150,
+    "base_points": 1500,
+    "question_text": "Giá nước sinh hoạt theo bậc thang được quy định: 10 m³ đầu tiên giá 7 ngàn đồng/m³; từ m³ thứ 11 đến 20 giá 9 ngàn đồng/m³; từ m³ thứ 21 trở đi giá 12 ngàn đồng/m³. Tháng này, hộ gia đình cô Hoa dùng hết 25 m³ nước. Hỏi cô Hoa phải thanh toán bao nhiêu tiền nước? (nhập số theo đơn vị ngàn đồng)",
+    "image_url": "",
+    "correct_answer": "220"
+  },
+  {
+    "id": 11,
+    "time_limit_seconds": 180,
+    "base_points": 1800,
+    "question_text": "Cửa hàng nội thất áp dụng giá bán bàn theo bậc thang: 5 cái đầu giá 200 ngàn đồng/cái; từ cái thứ 6 đến cái thứ 10 giá 170 ngàn đồng/cái; từ cái thứ 11 trở đi giá 120 ngàn đồng/cái. Anh Nam mua một số bàn cho công ty và phải thanh toán tổng cộng 2450 ngàn đồng. Hỏi anh Nam đã mua bao nhiêu cái bàn?",
+    "image_url": "",
+    "correct_answer": "15"
+  }
+]
