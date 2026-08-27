@@ -3,7 +3,7 @@
     "id": 1,
     "time_limit_seconds": 60,
     "base_points": 1000,
-    "question_text": "Giải phương trình: $(x - 2)(x - 5) = 0$. (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng. Ví dụ: 2 5)",
+    "question_text": "Giải phương trình: \\((x - 2)(x - 5) = 0\\). (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng. Ví dụ: 2 5)",
     "image_url": "",
     "correct_answer": "2 5"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "time_limit_seconds": 60,
     "base_points": 1000,
-    "question_text": "Giải phương trình: $x(x - 7) = 0$. (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
+    "question_text": "Giải phương trình: \\(x(x - 7) = 0\\). (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
     "image_url": "",
     "correct_answer": "0 7"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "time_limit_seconds": 60,
     "base_points": 1000,
-    "question_text": "Giải phương trình: $(x - 1)(x - 4) = 0$. (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
+    "question_text": "Giải phương trình: \\((x - 1)(x - 4) = 0\\). (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
     "image_url": "",
     "correct_answer": "1 4"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "time_limit_seconds": 60,
     "base_points": 1000,
-    "question_text": "Giải phương trình: $(x - 3)(x - 8) = 0$. (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
+    "question_text": "Giải phương trình: \\((x - 3)(x - 8) = 0\\). (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
     "image_url": "",
     "correct_answer": "3 8"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "time_limit_seconds": 90,
     "base_points": 1500,
-    "question_text": "Bằng cách đặt nhân tử chung, hãy giải phương trình: $x^2 - 6x = 0$. (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
+    "question_text": "Bằng cách đặt nhân tử chung, hãy giải phương trình: \\(x^2 - 6x = 0\\). (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
     "image_url": "",
     "correct_answer": "0 6"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "time_limit_seconds": 90,
     "base_points": 1500,
-    "question_text": "Sử dụng hằng đẳng thức để giải phương trình: $(x - 5)^2 - 4 = 0$. (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
+    "question_text": "Sử dụng hằng đẳng thức để giải phương trình: \\((x - 5)^2 - 4 = 0\\). (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
     "image_url": "",
     "correct_answer": "3 7"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "time_limit_seconds": 90,
     "base_points": 1500,
-    "question_text": "Giải phương trình: $x(x - 3) - 4(x - 3) = 0$. (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
+    "question_text": "Giải phương trình: \\(x(x - 3) - 4(x - 3) = 0\\). (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
     "image_url": "",
     "correct_answer": "3 4"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "time_limit_seconds": 90,
     "base_points": 1500,
-    "question_text": "Giải phương trình: $(2x - 1)(x - 9) - (x + 1)(x - 9) = 0$. (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
+    "question_text": "Giải phương trình: \\((2x - 1)(x - 9) - (x + 1)(x - 9) = 0\\). (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
     "image_url": "",
     "correct_answer": "2 9"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "time_limit_seconds": 120,
     "base_points": 2000,
-    "question_text": "Giải phương trình bằng cách phân tích đa thức thành nhân tử: $x^2 - 8x + 15 = 0$. (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
+    "question_text": "Giải phương trình bằng cách phân tích đa thức thành nhân tử: \\(x^2 - 8x + 15 = 0\\). (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
     "image_url": "",
     "correct_answer": "3 5"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "time_limit_seconds": 120,
     "base_points": 2000,
-    "question_text": "Giải phương trình: $x^3 - 9x^2 = 0$. (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
+    "question_text": "Giải phương trình: \\(x^3 - 9x^2 = 0\\). (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
     "image_url": "",
     "correct_answer": "0 9"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "time_limit_seconds": 120,
     "base_points": 2000,
-    "question_text": "Giải phương trình: $(x - 6)(x^2 + 4) = 0$. (Nhập các nghiệm của phương trình)",
+    "question_text": "Giải phương trình: \\((x - 6)(x^2 + 4) = 0\\). (Nhập các nghiệm của phương trình)",
     "image_url": "",
     "correct_answer": "6"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "time_limit_seconds": 120,
     "base_points": 2000,
-    "question_text": "Giải phương trình: $x^3 - 5x^2 + 6x = 0$. (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
+    "question_text": "Giải phương trình: \\(x^3 - 5x^2 + 6x = 0\\). (Nhập các nghiệm theo thứ tự tăng dần, cách nhau bởi một khoảng trắng)",
     "image_url": "",
     "correct_answer": "0 2 3"
   }
