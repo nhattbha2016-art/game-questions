@@ -3,80 +3,88 @@
     "id": 1,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Một chiếc áo khoác có giá niêm yết là 800.000 đồng. Cửa hàng đang có chương trình giảm giá 30%. Hỏi giá bán của chiếc áo sau khi giảm là bao nhiêu?",
+    "question_text": "Một chiếc tivi có giá niêm yết là 8.000.000 đồng. Siêu thị giảm giá 20%, sau đó khách hàng có thẻ hội viên được giảm tiếp 5% trên giá đã giảm. Hỏi giá bán cuối cùng của chiếc tivi là bao nhiêu? (nhập số theo đơn vị ngàn đồng)",
     "image_url": "",
-    "correct_answer": "560"
+    "correct_answer": "6080"
   },
   {
     "id": 2,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Mẹ Lan mua một món đồ gia dụng có giá niêm yết là 1.500.000 đồng. Khi thanh toán, siêu thị tính thêm 10% thuế giá trị gia tăng (VAT). Tổng số tiền mẹ Lan phải trả là bao nhiêu?",
+    "question_text": "Một chiếc máy tính xách tay có giá ban đầu là 15.000.000 đồng. Do khan hiếm hàng, cửa hàng tăng giá 20%. Sau đó nhân dịp lễ, cửa hàng giảm giá 10% trên giá đã tăng. Hỏi giá bán cuối cùng của chiếc máy tính xách tay là bao nhiêu? (nhập số theo đơn vị ngàn đồng)",
     "image_url": "",
-    "correct_answer": "1650"
+    "correct_answer": "16200"
   },
   {
     "id": 3,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Bố gửi tiết kiệm 50.000.000 đồng vào ngân hàng với lãi suất 6%/năm. Sau 1 năm, lãi bố nhận được là bao nhiêu đồng (chỉ điền số)?",
+    "question_text": "Một chiếc tủ lạnh sau khi giảm giá 10% đợt 1, rồi tiếp tục giảm thêm 20% đợt 2 (trên giá đã giảm của đợt 1) thì có giá bán cuối cùng là 7.200.000 đồng. Hỏi giá niêm yết ban đầu của chiếc tủ lạnh là bao nhiêu? (nhập số theo đơn vị ngàn đồng)",
     "image_url": "",
-    "correct_answer": "3000"
+    "correct_answer": "10000"
   },
   {
     "id": 4,
     "time_limit_seconds": 120,
-    "base_points": 1200,
-    "question_text": "Một chiếc tivi có giá 12.000.000 đồng. Cuối năm, siêu thị giảm giá 15% và tặng kèm phiếu mua hàng 500.000 đồng (phiếu mua hàng được trừ trực tiếp vào giá sau khi đã giảm). Số tiền thực tế khách hàng phải trả là bao nhiêu?",
+    "base_points": 1000,
+    "question_text": "Một chiếc điện thoại sau khi tăng giá 20%, rồi sau đó lại giảm giá 10% (trên giá đã tăng) thì có giá bán cuối cùng là 5.400.000 đồng. Hỏi giá ban đầu của chiếc điện thoại trước khi thay đổi giá là bao nhiêu? (nhập số theo đơn vị ngàn đồng)",
     "image_url": "",
-    "correct_answer": "9700"
+    "correct_answer": "5000"
   },
   {
     "id": 5,
-    "time_limit_seconds": 120,
-    "base_points": 1200,
-    "question_text": "Sau khi được giảm giá 20%, một chiếc xe đạp được bán với giá 2.400.000 đồng. Hỏi giá niêm yết ban đầu của chiếc xe đạp là bao nhiêu?",
+    "time_limit_seconds": 150,
+    "base_points": 1000,
+    "question_text": "Bác Bình bán xoài với giá 40 ngàn đồng/kg. Buổi sáng bác đã bán được 10 kg. Đến buổi chiều, để bán hết 6 kg xoài còn lại, bác quyết định giảm giá 25% so với giá buổi sáng. Tính tổng số tiền bác Bình thu được sau khi bán hết số xoài trên (nhập số theo đơn vị ngàn đồng).",
     "image_url": "",
-    "correct_answer": "3000"
+    "correct_answer": "580"
   },
   {
     "id": 6,
-    "time_limit_seconds": 120,
+    "time_limit_seconds": 150,
     "base_points": 1200,
-    "question_text": "Một hóa đơn thanh toán tiền điện thoại là 440.000 đồng (đã bao gồm 10% thuế VAT). Số tiền cước điện thoại khi chưa có thuế VAT là bao nhiêu?",
+    "question_text": "Bác Bình nhập về 30 kg táo với giá gốc là 25 ngàn đồng/kg. Buổi sáng bác bán được 18 kg với giá 40 ngàn đồng/kg. Buổi chiều bác giảm giá 20% so với giá buổi sáng và bán hết số táo còn lại. Hỏi sau khi bán hết táo, bác Bình thu được bao nhiêu tiền lãi? (nhập số theo đơn vị ngàn đồng).",
     "image_url": "",
-    "correct_answer": "400"
+    "correct_answer": "354"
   },
   {
     "id": 7,
-    "time_limit_seconds": 120,
+    "time_limit_seconds": 150,
     "base_points": 1200,
-    "question_text": "Nhân dịp lễ, một đôi giày thể thao được giảm giá 25% nên khách hàng chỉ phải trả 600.000 đồng. Hỏi giá bán ban đầu của đôi giày là bao nhiêu đồng (chỉ điền số)?",
+    "question_text": "Bác Bình mang thanh long đi bán với giá 25 ngàn đồng/kg. Buổi sáng bác bán được 10 kg. Buổi chiều bác giảm giá 20% so với giá bán buổi sáng và bán hết số thanh long còn lại. Biết tổng số tiền bác thu được cả ngày là 310 ngàn đồng. Hỏi buổi chiều bác Bình đã bán được bao nhiêu kg thanh long?",
     "image_url": "",
-    "correct_answer": "800"
+    "correct_answer": "3"
   },
   {
     "id": 8,
-    "time_limit_seconds": 120,
-    "base_points": 1500,
-    "question_text": "Một mặt hàng có giá ban đầu là 1.000.000 đồng. Mặt hàng này tăng giá 10% ở đợt 1, sau đó tiếp tục tăng thêm 20% ở đợt 2 (trên giá đã tăng của đợt 1). Hỏi giá bán của mặt hàng sau hai lần tăng giá là bao nhiêu?",
+    "time_limit_seconds": 150,
+    "base_points": 1200,
+    "question_text": "Một cửa hàng bán ghế với giá theo bậc thang như sau: 10 cái đầu tiên giá 150 ngàn đồng/cái; từ cái thứ 11 đến cái thứ 20 giá 130 ngàn đồng/cái; từ cái thứ 21 trở đi giá 100 ngàn đồng/cái. Anh Minh mua 25 cái ghế. Hỏi anh Minh phải trả bao nhiêu tiền? (nhập số theo đơn vị ngàn đồng)",
     "image_url": "",
-    "correct_answer": "1320"
+    "correct_answer": "3300"
   },
   {
     "id": 9,
-    "time_limit_seconds": 120,
-    "base_points": 1500,
-    "question_text": "Một chiếc điện thoại có giá niêm yết là 2.000.000 đồng. Cửa hàng giảm giá 10% ở tuần thứ nhất, sang tuần thứ hai tiếp tục giảm thêm 20% trên giá đã giảm của tuần trước. Hỏi giá bán cuối cùng của chiếc điện thoại là bao nhiêu?",
+    "time_limit_seconds": 150,
+    "base_points": 1200,
+    "question_text": "Giá điện sinh hoạt bậc thang được tính như sau: 50 kWh đầu tiên giá 1,7 ngàn đồng/kWh; từ kWh thứ 51 đến 100 giá 2,0 ngàn đồng/kWh; từ kWh thứ 101 trở đi giá 2,5 ngàn đồng/kWh. Trong tháng vừa rồi, gia đình ông Nam đã sử dụng hết 130 kWh điện. Hỏi gia đình ông Nam phải trả bao nhiêu tiền điện? (nhập số theo đơn vị ngàn đồng)",
     "image_url": "",
-    "correct_answer": "1440"
+    "correct_answer": "260"
   },
   {
     "id": 10,
-    "time_limit_seconds": 120,
-    "base_points": 1500,
-    "question_text": "Một sản phẩm sau khi tăng giá 20% rồi tiếp tục giảm giá 10% (trên giá đã tăng) thì có giá bán cuối cùng là 5.400.000 đồng. Hỏi giá ban đầu của sản phẩm đó trước khi thay đổi giá là bao nhiêu?",
+    "time_limit_seconds": 150,
+    "base_points": 1200,
+    "question_text": "Giá nước sinh hoạt theo bậc thang được quy định: 10 m³ đầu tiên giá 8 ngàn đồng/m³; từ m³ thứ 11 đến 20 giá 10 ngàn đồng/m³; từ m³ thứ 21 trở đi giá 15 ngàn đồng/m³. Tháng này, hộ gia đình cô Mai dùng hết 28 m³ nước. Hỏi cô Mai phải thanh toán bao nhiêu tiền nước? (nhập số theo đơn vị ngàn đồng)",
     "image_url": "",
-    "correct_answer": "5000"
+    "correct_answer": "300"
+  },
+  {
+    "id": 11,
+    "time_limit_seconds": 180,
+    "base_points": 1200,
+    "question_text": "Cửa hàng nội thất áp dụng giá bán ghế theo bậc thang: 10 cái đầu giá 150 ngàn đồng/cái; từ cái thứ 11 đến cái thứ 20 giá 130 ngàn đồng/cái; từ cái thứ 21 trở đi giá 100 ngàn đồng/cái. Anh Tâm mua một số ghế cho văn phòng và phải thanh toán tổng cộng 3100 ngàn đồng. Hỏi anh Tâm đã mua bao nhiêu cái ghế?",
+    "image_url": "",
+    "correct_answer": "23"
   }
 ]
