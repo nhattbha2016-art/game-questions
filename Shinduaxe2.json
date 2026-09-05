@@ -3,88 +3,48 @@
     "id": 1,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Một chiếc tivi có giá niêm yết là 8.000.000 đồng. Siêu thị giảm giá 20%, sau đó khách hàng có thẻ hội viên được giảm tiếp 5% trên giá đã giảm. Hỏi giá bán cuối cùng của chiếc tivi là bao nhiêu? (nhập số theo đơn vị ngàn đồng)",
+    "question_text": "Lớp 10A có 40 học sinh. Trong đợt đăng ký ngoại khóa, có 25 bạn tham gia câu lạc bộ Bóng đá, 20 bạn tham gia câu lạc bộ Bóng rổ. Biết rằng có 5 bạn không tham gia bất kỳ câu lạc bộ nào trong hai câu lạc bộ trên. Hỏi có bao nhiêu bạn học sinh tham gia cả hai câu lạc bộ Bóng đá và Bóng rổ?",
     "image_url": "",
-    "correct_answer": "6080"
+    "correct_answer": "10"
   },
   {
     "id": 2,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Một chiếc máy tính xách tay có giá ban đầu là 15.000.000 đồng. Do khan hiếm hàng, cửa hàng tăng giá 20%. Sau đó nhân dịp lễ, cửa hàng giảm giá 10% trên giá đã tăng. Hỏi giá bán cuối cùng của chiếc máy tính xách tay là bao nhiêu? (nhập số theo đơn vị ngàn đồng)",
+    "question_text": "Một công ty có 50 nhân viên. Trong một cuộc khảo sát về trình độ ngoại ngữ, người ta thấy có 30 người biết tiếng Anh, 15 người biết tiếng Nhật và 10 người biết cả hai thứ tiếng Anh và Nhật. Hỏi có bao nhiêu nhân viên trong công ty không biết cả tiếng Anh và tiếng Nhật?",
     "image_url": "",
-    "correct_answer": "16200"
+    "correct_answer": "15"
   },
   {
     "id": 3,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Một chiếc tủ lạnh sau khi giảm giá 10% đợt 1, rồi tiếp tục giảm thêm 20% đợt 2 (trên giá đã giảm của đợt 1) thì có giá bán cuối cùng là 7.200.000 đồng. Hỏi giá niêm yết ban đầu của chiếc tủ lạnh là bao nhiêu? (nhập số theo đơn vị ngàn đồng)",
+    "question_text": "Đội văn nghệ của trường quy tụ các bạn học sinh biết chơi ít nhất một trong hai loại nhạc cụ là Guitar hoặc Piano (không có ai không biết chơi). Trong đội có 18 bạn biết chơi Guitar, 14 bạn biết chơi Piano. Biết rằng có 6 bạn có thể chơi được cả hai loại nhạc cụ này. Hỏi đội văn nghệ của trường có tổng cộng bao nhiêu học sinh?",
     "image_url": "",
-    "correct_answer": "10000"
+    "correct_answer": "26"
   },
   {
     "id": 4,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Một chiếc điện thoại sau khi tăng giá 20%, rồi sau đó lại giảm giá 10% (trên giá đã tăng) thì có giá bán cuối cùng là 5.400.000 đồng. Hỏi giá ban đầu của chiếc điện thoại trước khi thay đổi giá là bao nhiêu? (nhập số theo đơn vị ngàn đồng)",
+    "question_text": "Trong một cuộc khảo sát 45 học sinh về thói quen đọc sách, có 28 học sinh thích đọc truyện tranh, 12 học sinh thích đọc cả truyện tranh và tiểu thuyết. Biết rằng có 8 học sinh không thích đọc cả hai thể loại này. Hỏi có bao nhiêu học sinh chỉ thích đọc tiểu thuyết (nghĩa là thích tiểu thuyết nhưng không thích truyện tranh)?",
     "image_url": "",
-    "correct_answer": "5000"
+    "correct_answer": "9"
   },
   {
     "id": 5,
-    "time_limit_seconds": 150,
+    "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Bác Bình bán xoài với giá 40 ngàn đồng/kg. Buổi sáng bác đã bán được 10 kg. Đến buổi chiều, để bán hết 6 kg xoài còn lại, bác quyết định giảm giá 25% so với giá buổi sáng. Tính tổng số tiền bác Bình thu được sau khi bán hết số xoài trên (nhập số theo đơn vị ngàn đồng).",
+    "question_text": "Một khu dân cư có 60 hộ gia đình. Theo thống kê, có 10 hộ không nuôi thú cưng, 35 hộ có nuôi chó và 15 hộ có nuôi cả chó lẫn mèo. Giả sử các hộ gia đình ở đây nếu nuôi thú cưng thì chỉ nuôi chó hoặc mèo hoặc cả hai. Hỏi khu dân cư này có tổng cộng bao nhiêu hộ gia đình có nuôi mèo?",
     "image_url": "",
-    "correct_answer": "580"
+    "correct_answer": "30"
   },
   {
     "id": 6,
     "time_limit_seconds": 150,
-    "base_points": 1200,
-    "question_text": "Bác Bình nhập về 30 kg táo với giá gốc là 25 ngàn đồng/kg. Buổi sáng bác bán được 18 kg với giá 40 ngàn đồng/kg. Buổi chiều bác giảm giá 20% so với giá buổi sáng và bán hết số táo còn lại. Hỏi sau khi bán hết táo, bác Bình thu được bao nhiêu tiền lãi? (nhập số theo đơn vị ngàn đồng).",
+    "base_points": 1000,
+    "question_text": "Tại một trường trung học, khảo sát 100 học sinh về sở thích đồ ăn nhanh: có 40 bạn thích ăn Pizza và 50 bạn thích ăn Gà rán. Đáng chú ý là số lượng học sinh không thích cả hai món này gấp 3 lần số lượng học sinh thích cả hai món. Hỏi có bao nhiêu học sinh thích ăn cả Pizza và Gà rán?",
     "image_url": "",
-    "correct_answer": "354"
-  },
-  {
-    "id": 7,
-    "time_limit_seconds": 150,
-    "base_points": 1200,
-    "question_text": "Bác Bình mang thanh long đi bán với giá 25 ngàn đồng/kg. Buổi sáng bác bán được 10 kg. Buổi chiều bác giảm giá 20% so với giá bán buổi sáng và bán hết số thanh long còn lại. Biết tổng số tiền bác thu được cả ngày là 310 ngàn đồng. Hỏi buổi chiều bác Bình đã bán được bao nhiêu kg thanh long?",
-    "image_url": "",
-    "correct_answer": "3"
-  },
-  {
-    "id": 8,
-    "time_limit_seconds": 150,
-    "base_points": 1200,
-    "question_text": "Một cửa hàng bán ghế với giá theo bậc thang như sau: 10 cái đầu tiên giá 150 ngàn đồng/cái; từ cái thứ 11 đến cái thứ 20 giá 130 ngàn đồng/cái; từ cái thứ 21 trở đi giá 100 ngàn đồng/cái. Anh Minh mua 25 cái ghế. Hỏi anh Minh phải trả bao nhiêu tiền? (nhập số theo đơn vị ngàn đồng)",
-    "image_url": "",
-    "correct_answer": "3300"
-  },
-  {
-    "id": 9,
-    "time_limit_seconds": 150,
-    "base_points": 1200,
-    "question_text": "Giá điện sinh hoạt bậc thang được tính như sau: 50 kWh đầu tiên giá 1,7 ngàn đồng/kWh; từ kWh thứ 51 đến 100 giá 2,0 ngàn đồng/kWh; từ kWh thứ 101 trở đi giá 2,5 ngàn đồng/kWh. Trong tháng vừa rồi, gia đình ông Nam đã sử dụng hết 130 kWh điện. Hỏi gia đình ông Nam phải trả bao nhiêu tiền điện? (nhập số theo đơn vị ngàn đồng)",
-    "image_url": "",
-    "correct_answer": "260"
-  },
-  {
-    "id": 10,
-    "time_limit_seconds": 150,
-    "base_points": 1200,
-    "question_text": "Giá nước sinh hoạt theo bậc thang được quy định: 10 m³ đầu tiên giá 8 ngàn đồng/m³; từ m³ thứ 11 đến 20 giá 10 ngàn đồng/m³; từ m³ thứ 21 trở đi giá 15 ngàn đồng/m³. Tháng này, hộ gia đình cô Mai dùng hết 28 m³ nước. Hỏi cô Mai phải thanh toán bao nhiêu tiền nước? (nhập số theo đơn vị ngàn đồng)",
-    "image_url": "",
-    "correct_answer": "300"
-  },
-  {
-    "id": 11,
-    "time_limit_seconds": 180,
-    "base_points": 1200,
-    "question_text": "Cửa hàng nội thất áp dụng giá bán ghế theo bậc thang: 10 cái đầu giá 150 ngàn đồng/cái; từ cái thứ 11 đến cái thứ 20 giá 130 ngàn đồng/cái; từ cái thứ 21 trở đi giá 100 ngàn đồng/cái. Anh Tâm mua một số ghế cho văn phòng và phải thanh toán tổng cộng 3100 ngàn đồng. Hỏi anh Tâm đã mua bao nhiêu cái ghế?",
-    "image_url": "",
-    "correct_answer": "23"
+    "correct_answer": "5"
   }
 ]
