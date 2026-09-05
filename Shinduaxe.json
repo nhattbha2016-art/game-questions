@@ -3,80 +3,80 @@
     "id": 1,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có AB = 8, AC = 5 và góc A = 60 độ. Tính độ dài cạnh BC.",
+    "question_text": "Cho tam giác ABC có độ dài ba cạnh lần lượt là a = 13, b = 14, c = 15. Tính diện tích của tam giác ABC.",
     "image_url": "",
-    "correct_answer": "7"
+    "correct_answer": "84"
   },
   {
     "id": 2,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có BC = 3, AB = 5 và góc B = 120 độ. Tính độ dài cạnh AC.",
+    "question_text": "Cho tam giác ABC có cạnh a = 10 và góc A = 30 độ. Tính bán kính R của đường tròn ngoại tiếp tam giác ABC.",
     "image_url": "",
-    "correct_answer": "7"
+    "correct_answer": "10"
   },
   {
     "id": 3,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có độ dài ba cạnh là BC = 7, AC = 8, AB = 5. Tính số đo của góc A (nhập số đo theo độ).",
+    "question_text": "Cho tam giác ABC có độ dài ba cạnh là a = 3, b = 5, c = 7. Tính số đo của góc C (nhập số đo theo đơn vị độ).",
     "image_url": "",
-    "correct_answer": "60"
+    "correct_answer": "120"
   },
   {
     "id": 4,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có độ dài ba cạnh là BC = 3, AC = 5, AB = 7. Tính số đo của góc C (nhập số đo theo độ).",
+    "question_text": "Cho tam giác ABC có a = 6, b = 8 và góc C bằng 30 độ. Tính diện tích tam giác ABC.",
     "image_url": "",
-    "correct_answer": "120"
+    "correct_answer": "12"
   },
   {
     "id": 5,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC nội tiếp đường tròn có bán kính R = 10, biết góc A = 30 độ. Tính độ dài cạnh BC.",
+    "question_text": "Cho tam giác ABC có độ dài ba cạnh lần lượt là a = 6, b = 8, c = 10. Tính bán kính R của đường tròn ngoại tiếp tam giác ABC.",
     "image_url": "",
-    "correct_answer": "10"
+    "correct_answer": "5"
   },
   {
     "id": 6,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC nội tiếp đường tròn có bán kính R = 12, biết góc B = 150 độ. Tính độ dài cạnh AC.",
+    "question_text": "Cho tam giác ABC có a = 5, b = 5√3, c = 10. Tính số đo góc A (nhập số đo theo đơn vị độ).",
     "image_url": "",
-    "correct_answer": "12"
+    "correct_answer": "30"
   },
   {
     "id": 7,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có AC = 8, BC = 10 và góc C = 30 độ. Tính diện tích của tam giác ABC.",
+    "question_text": "Cho tam giác ABC vuông tại A, có độ dài hai cạnh góc vuông là b = 12 và c = 5. Tính diện tích của tam giác ABC.",
     "image_url": "",
-    "correct_answer": "20"
+    "correct_answer": "30"
   },
   {
     "id": 8,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có AC = 12, BC = 15 và góc C = 150 độ. Tính diện tích của tam giác ABC.",
+    "question_text": "Cho tam giác ABC có cạnh b = 12 và góc B = 150 độ. Tính bán kính R của đường tròn ngoại tiếp tam giác ABC.",
     "image_url": "",
-    "correct_answer": "45"
+    "correct_answer": "12"
   },
   {
     "id": 9,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có độ dài 3 cạnh lần lượt là 13, 14, 15. Tính diện tích của tam giác ABC.",
+    "question_text": "Cho tam giác ABC có ba cạnh a = 9, b = 10, c = 17. Tính diện tích tam giác ABC.",
     "image_url": "",
-    "correct_answer": "84"
+    "correct_answer": "36"
   },
   {
     "id": 10,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có độ dài 3 cạnh lần lượt là 9, 10, 17. Tính diện tích của tam giác ABC.",
+    "question_text": "Cho tam giác ABC có độ dài ba cạnh là a = 8, b = 15, c = 17. Tính số đo góc C của tam giác ABC (nhập số đo theo đơn vị độ).",
     "image_url": "",
-    "correct_answer": "36"
+    "correct_answer": "90"
   }
 ]
