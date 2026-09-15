@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "time_limit_seconds": 60,
+    "base_points": 1000,
+    "question_text": "Rút gọn biểu thức sau: \\( 2x^2 + 5x - 3 - 2x(x - 1) \\).",
+    "image_url": "",
+    "correct_answer": "7x - 3"
+  },
+  {
+    "id": 2,
+    "time_limit_seconds": 60,
+    "base_points": 1000,
+    "question_text": "Rút gọn biểu thức sau: \\( 3xy + 4x - 2y - 3y(x - 1) \\).",
+    "image_url": "",
+    "correct_answer": "4x + y"
+  },
+  {
+    "id": 3,
+    "time_limit_seconds": 60,
+    "base_points": 1000,
+    "question_text": "Cho hai đa thức \\( P(x) = 5x^2 - 3x + 2 \\) và \\( Q(x) = -5x^2 + 7x - 5 \\). Tính \\( P(x) + Q(x) \\).",
+    "image_url": "",
+    "correct_answer": "4x - 3"
+  },
+  {
+    "id": 4,
+    "time_limit_seconds": 60,
+    "base_points": 1000,
+    "question_text": "Cho hai đa thức nhiều biến \\( M = 2x^2y - x + 3y \\) và \\( N = -2x^2y + 2x - y \\). Tính \\( M + N \\).",
+    "image_url": "",
+    "correct_answer": "x + 2y"
+  },
+  {
+    "id": 5,
+    "time_limit_seconds": 60,
+    "base_points": 1000,
+    "question_text": "Cho hai đa thức \\( A(x) = x^3 + 4x - 1 \\) và \\( B(x) = x^3 - 2x + 7 \\). Tính \\( A(x) - B(x) \\).",
+    "image_url": "",
+    "correct_answer": "6x - 8"
+  },
+  {
+    "id": 6,
+    "time_limit_seconds": 60,
+    "base_points": 1000,
+    "question_text": "Cho hai đa thức \\( E = x^2 + 5x - 3y + 4 \\) và \\( F = x^2 + 2x - y + 4 \\). Tính \\( E - F \\).",
+    "image_url": "",
+    "correct_answer": "3x - 2y"
+  },
+  {
+    "id": 7,
+    "time_limit_seconds": 60,
+    "base_points": 1000,
+    "question_text": "Cho hai đa thức \\( U = 4xy^2 + 3x - 5 \\) và \\( V = 4xy^2 - x + 2 \\). Tính \\( U - V \\).",
+    "image_url": "",
+    "correct_answer": "4x - 7"
+  }
+]
