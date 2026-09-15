@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "time_limit_seconds": 90,
+    "time_limit_seconds": 120,
     "base_points": 1000,
     "question_text": "Cho hai đa thức \\( P(x) = 5x^2 - 3x + 2 \\) và \\( Q(x) = -5x^2 + 7x - 5 \\). Tính \\( P(x) + Q(x) \\).",
     "image_url": "",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "time_limit_seconds": 90,
+    "time_limit_seconds": 120,
     "base_points": 1000,
     "question_text": "Cho hai đa thức nhiều biến \\( M = 2x^2y - x + 3y \\) và \\( N = -2x^2y + 2x - y \\). Tính \\( M + N \\).",
     "image_url": "",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "time_limit_seconds": 90,
+    "time_limit_seconds": 120,
     "base_points": 1000,
     "question_text": "Cho hai đa thức \\( A(x) = x^3 + 4x - 1 \\) và \\( B(x) = x^3 - 2x + 7 \\). Tính \\( A(x) - B(x) \\).",
     "image_url": "",
