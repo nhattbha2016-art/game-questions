@@ -1,50 +1,50 @@
 [
-{
-"id": 1,
-"time_limit_seconds": 120,
-"base_points": 1000,
-"question_text": "Rút gọn biểu thức sau: \(3(x - 2) + 2(x - 1) \).",
-"image_url": "",
-"correct_answer": "5x - 8"
-},
-{
-"id": 2,
-"time_limit_seconds": 120,
-"base_points": 1000,
-"question_text": "Rút gọn biểu thức sau: \(x(x - y) - x(x + 1) \).",
-"image_url": "",
-"correct_answer": "-xy - x"
-},
-{
-"id": 3,
-"time_limit_seconds": 120,
-"base_points": 1000,
-"question_text": "Rút gọn biểu thức sau: \(x(y - 3) - y(x + 2) \).",
-"image_url": "",
-"correct_answer": "-3x - 2y"
-},
-{
-"id": 4,
-"time_limit_seconds": 150,
-"base_points": 1500,
-"question_text": "Rút gọn biểu thức sau: \((x + 1)(-x - 2) + x(x + 3) \).",
-"image_url": "",
-"correct_answer": "-2"
-},
-{
-"id": 5,
-"time_limit_seconds": 150,
-"base_points": 1500,
-"question_text": "Rút gọn biểu thức sau: \((x - 2)(y + 1) + x(3 - y) \).",
-"image_url": "",
-"correct_answer": "4x - 2y - 2"
-},
-{
-"id": 6,
-"time_limit_seconds": 150,
-"base_points": 1500,
-"question_text": "Rút gọn biểu thức sau: \((x + 1)(x - 3) - x(x + 2) \).",
-"image_url": "",
-"correct_answer": "-4x - 3"
-}
+  {
+    "id": 1,
+    "time_limit_seconds": 120,
+    "base_points": 1000,
+    "question_text": "Rút gọn biểu thức sau: \\(3(x - 2) + 2(x - 1)\\).",
+    "image_url": "",
+    "correct_answer": "5x - 8"
+  },
+  {
+    "id": 2,
+    "time_limit_seconds": 120,
+    "base_points": 1000,
+    "question_text": "Rút gọn biểu thức sau: \\(x(x - y) - x(x + 1)\\).",
+    "image_url": "",
+    "correct_answer": "-xy - x"
+  },
+  {
+    "id": 3,
+    "time_limit_seconds": 120,
+    "base_points": 1000,
+    "question_text": "Rút gọn biểu thức sau: \\(x(y - 3) - y(x + 2)\\).",
+    "image_url": "",
+    "correct_answer": "-3x - 2y"
+  },
+  {
+    "id": 4,
+    "time_limit_seconds": 150,
+    "base_points": 1500,
+    "question_text": "Rút gọn biểu thức sau: \\((x + 1)(-x - 2) + x(x + 3)\\).",
+    "image_url": "",
+    "correct_answer": "-2"
+  },
+  {
+    "id": 5,
+    "time_limit_seconds": 150,
+    "base_points": 1500,
+    "question_text": "Rút gọn biểu thức sau: \\((x - 2)(y + 1) + x(3 - y)\\).",
+    "image_url": "",
+    "correct_answer": "4x - 2y - 2"
+  },
+  {
+    "id": 6,
+    "time_limit_seconds": 150,
+    "base_points": 1500,
+    "question_text": "Rút gọn biểu thức sau: \\((x + 1)(x - 3) - x(x + 2)\\).",
+    "image_url": "",
+    "correct_answer": "-4x - 3"
+  }
 ]
