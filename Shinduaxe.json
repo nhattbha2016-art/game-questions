@@ -3,80 +3,80 @@
     "id": 1,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có độ dài ba cạnh lần lượt là a = 13, b = 14, c = 15. Tính diện tích của tam giác ABC.",
+    "question_text": "Phân tích đa thức sau thành nhân tử: \\(x^3 - x\\).",
     "image_url": "",
-    "correct_answer": "84"
+    "correct_answer": "x(x - 1)(x + 1)"
   },
   {
     "id": 2,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có cạnh a = 10 và góc A = 30 độ. Tính bán kính R của đường tròn ngoại tiếp tam giác ABC.",
+    "question_text": "Phân tích đa thức sau thành nhân tử: \\(x^3 - 2x^2 + x\\).",
     "image_url": "",
-    "correct_answer": "10"
+    "correct_answer": "x(x - 1)^2"
   },
   {
     "id": 3,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có độ dài ba cạnh là a = 3, b = 5, c = 7. Tính số đo của góc C (nhập số đo theo đơn vị độ).",
+    "question_text": "Phân tích đa thức sau thành nhân tử: \\(x^3 - 9x\\).",
     "image_url": "",
-    "correct_answer": "120"
+    "correct_answer": "x(x - 3)(x + 3)"
   },
   {
     "id": 4,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có a = 6, b = 8 và góc C bằng 30 độ. Tính diện tích tam giác ABC.",
+    "question_text": "Phân tích đa thức sau thành nhân tử: \\(y^3 + 4y^2 + 4y\\).",
     "image_url": "",
-    "correct_answer": "12"
+    "correct_answer": "y(y + 2)^2"
   },
   {
     "id": 5,
     "time_limit_seconds": 120,
     "base_points": 1000,
-    "question_text": "Cho tam giác ABC có độ dài ba cạnh lần lượt là a = 6, b = 8, c = 10. Tính bán kính R của đường tròn ngoại tiếp tam giác ABC.",
+    "question_text": "Phân tích đa thức sau thành nhân tử: \\(2x^3 - 8x\\).",
     "image_url": "",
-    "correct_answer": "5"
+    "correct_answer": "2x(x - 2)(x + 2)"
   },
   {
     "id": 6,
-    "time_limit_seconds": 120,
-    "base_points": 1000,
-    "question_text": "Cho tam giác ABC có a = 5, b = 5√3, c = 10. Tính số đo góc A (nhập số đo theo đơn vị độ).",
+    "time_limit_seconds": 150,
+    "base_points": 1500,
+    "question_text": "Phân tích đa thức sau thành nhân tử: \\(x(x + 1) + 3x + 3\\).",
     "image_url": "",
-    "correct_answer": "30"
+    "correct_answer": "(x + 1)(x + 3)"
   },
   {
     "id": 7,
-    "time_limit_seconds": 120,
-    "base_points": 1000,
-    "question_text": "Cho tam giác ABC vuông tại A, có độ dài hai cạnh góc vuông là b = 12 và c = 5. Tính diện tích của tam giác ABC.",
+    "time_limit_seconds": 150,
+    "base_points": 1500,
+    "question_text": "Phân tích đa thức sau thành nhân tử: \\(y(y - 2) + 5y - 10\\).",
     "image_url": "",
-    "correct_answer": "30"
+    "correct_answer": "(y - 2)(y + 5)"
   },
   {
     "id": 8,
-    "time_limit_seconds": 120,
-    "base_points": 1000,
-    "question_text": "Cho tam giác ABC có cạnh b = 12 và góc B = 150 độ. Tính bán kính R của đường tròn ngoại tiếp tam giác ABC.",
+    "time_limit_seconds": 150,
+    "base_points": 1500,
+    "question_text": "Phân tích đa thức sau thành nhân tử: \\(2x(x + 1) + x^2 - 1\\).",
     "image_url": "",
-    "correct_answer": "12"
+    "correct_answer": "(x + 1)(3x - 1)"
   },
   {
     "id": 9,
-    "time_limit_seconds": 120,
-    "base_points": 1000,
-    "question_text": "Cho tam giác ABC có ba cạnh a = 9, b = 10, c = 17. Tính diện tích tam giác ABC.",
+    "time_limit_seconds": 150,
+    "base_points": 1500,
+    "question_text": "Phân tích đa thức sau thành nhân tử: \\(x(x + 3) + x^2 + 6x + 9\\).",
     "image_url": "",
-    "correct_answer": "36"
+    "correct_answer": "(x + 3)(2x + 3)"
   },
   {
     "id": 10,
-    "time_limit_seconds": 120,
-    "base_points": 1000,
-    "question_text": "Cho tam giác ABC có độ dài ba cạnh là a = 8, b = 15, c = 17. Tính số đo góc C của tam giác ABC (nhập số đo theo đơn vị độ).",
+    "time_limit_seconds": 150,
+    "base_points": 1500,
+    "question_text": "Phân tích đa thức sau thành nhân tử: \\(2x(x - 2) + x^2 - 4x + 4\\).",
     "image_url": "",
-    "correct_answer": "90"
+    "correct_answer": "(x - 2)(3x - 2)"
   }
 ]
